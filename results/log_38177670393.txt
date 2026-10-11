@@ -323,3 +323,13 @@ DONE 83beb4ba Производные и непроизводные предло�
 DONE a08638fc Служебные части речи: предлог, союз, час ok=12 failed=0 https://miro.com/app/board/uXjVEb9U8IQ=
 DONE ffd2bd19 Союзы сочинительные и подчинительные ok=7 failed=0 https://miro.com/app/board/uXjVEb9VGzI=
 DONE 5becfca8 Деепричастный оборот и запятые ok=43 failed=0 https://miro.com/app/board/uXjVEb9IYM0=
+DONE 7ab7938b Простое осложнённое предложение ok=5 failed=0 https://miro.com/app/board/uXjVEb93MDE=
+DONE 62b3752c Союзы сочинительные и подчинительные ok=17 failed=0 https://miro.com/app/board/uXjVEb9EIi4=
+DONE cb939638 Сложное предложение. Виды сложных предло ok=3 failed=0 https://miro.com/app/board/uXjVEb9VGzw=
+DONE b8a51ef0 Междометия и звукоподражательные слова ok=13 failed=0 https://miro.com/app/board/uXjVEb9SZqQ=
+DONE 1efe7584 Сложносочинённое предложение (ССП). Знак ok=5 failed=0 https://miro.com/app/board/uXjVEb9ArgQ=
+DONE 5af60296 Междометия и звукоподражательные слова ok=13 failed=0 https://miro.com/app/board/uXjVEb9JHCc=
+DONE 5cfa1de9 Сложное предложение. Виды сложных предло ok=10 failed=0 https://miro.com/app/board/uXjVEb93MD0=
+DONE 83e831b6 Сложноподчинённое предложение (СПП). Гла ok=5 failed=0 https://miro.com/app/board/uXjVEb9FFwU=
+DONE 2d3f225f Виды придаточных предложений в СПП ok=5 failed=0 https://miro.com/app/board/uXjVEb997Ns=
+DONE b046cc7a Сложносочинённое предложение (ССП). Знак ok=13 failed=0 https://miro.com/app/board/uXjVEb9W-Sg=

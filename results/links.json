@@ -2614,7 +2614,9 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9EIi4=",
   "id": "uXjVEb9EIi4=",
-  "status": "creating"
+  "status": "done",
+  "ok": 17,
+  "failed": 0
  },
  "ffd2bd19": {
   "name": "Союзы сочинительные и подчинительные",
@@ -2630,6 +2632,101 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9SZqQ=",
   "id": "uXjVEb9SZqQ=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "5af60296": {
+  "name": "Междометия и звукоподражательные слова",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9JHCc=",
+  "id": "uXjVEb9JHCc=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "7ab7938b": {
+  "name": "Простое осложнённое предложение",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb93MDE=",
+  "id": "uXjVEb93MDE=",
+  "status": "done",
+  "ok": 5,
+  "failed": 0
+ },
+ "5cfa1de9": {
+  "name": "Сложное предложение. Виды сложных предложений",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb93MD0=",
+  "id": "uXjVEb93MD0=",
+  "status": "done",
+  "ok": 10,
+  "failed": 0
+ },
+ "cb939638": {
+  "name": "Сложное предложение. Виды сложных предложений",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9VGzw=",
+  "id": "uXjVEb9VGzw=",
+  "status": "done",
+  "ok": 3,
+  "failed": 0
+ },
+ "1efe7584": {
+  "name": "Сложносочинённое предложение (ССП). Знаки препинания в ССП",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9ArgQ=",
+  "id": "uXjVEb9ArgQ=",
+  "status": "done",
+  "ok": 5,
+  "failed": 0
+ },
+ "b046cc7a": {
+  "name": "Сложносочинённое предложение (ССП). Знаки препинания в ССП",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9W-Sg=",
+  "id": "uXjVEb9W-Sg=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "83e831b6": {
+  "name": "Сложноподчинённое предложение (СПП). Главная и придаточная часть. Союзы и союзные слова",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9FFwU=",
+  "id": "uXjVEb9FFwU=",
+  "status": "done",
+  "ok": 5,
+  "failed": 0
+ },
+ "c302821c": {
+  "name": "Сложноподчинённое предложение (СПП). Главная и придаточная часть. Союзы и союзные слова",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9VGzg=",
+  "id": "uXjVEb9VGzg=",
+  "status": "creating"
+ },
+ "2d3f225f": {
+  "name": "Виды придаточных предложений в СПП",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb997Ns=",
+  "id": "uXjVEb997Ns=",
+  "status": "done",
+  "ok": 5,
+  "failed": 0
+ },
+ "e8e5fc5b": {
+  "name": "Виды придаточных предложений в СПП",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9-IAo=",
+  "id": "uXjVEb9-IAo=",
+  "status": "creating"
+ },
+ "0f364ec8": {
+  "name": "Сложноподчинённые предложения с несколькими придаточными. Типы подчинения",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9EIjc=",
+  "id": "uXjVEb9EIjc=",
   "status": "creating"
  }
 }
