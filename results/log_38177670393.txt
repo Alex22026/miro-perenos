@@ -333,3 +333,13 @@ DONE 5cfa1de9 Сложное предложение. Виды сложных п�
 DONE 83e831b6 Сложноподчинённое предложение (СПП). Гла ok=5 failed=0 https://miro.com/app/board/uXjVEb9FFwU=
 DONE 2d3f225f Виды придаточных предложений в СПП ok=5 failed=0 https://miro.com/app/board/uXjVEb997Ns=
 DONE b046cc7a Сложносочинённое предложение (ССП). Знак ok=13 failed=0 https://miro.com/app/board/uXjVEb9W-Sg=
+DONE e3b5a164 Сложноподчинённые предложения с нескольк ok=3 failed=0 https://miro.com/app/board/uXjVEb9SZqw=
+DONE e8e5fc5b Виды придаточных предложений в СПП ok=10 failed=0 https://miro.com/app/board/uXjVEb9-IAo=
+DONE 837ff0ca Бессоюзное сложное предложение (БСП). Зн ok=5 failed=0 https://miro.com/app/board/uXjVEb9AGK4=
+DONE c302821c Сложноподчинённое предложение (СПП). Гла ok=15 failed=0 https://miro.com/app/board/uXjVEb9VGzg=
+DONE aeaf8200 Сложные предложения с разными видами свя ok=4 failed=0 https://miro.com/app/board/uXjVEb997OM=
+DONE 0f364ec8 Сложноподчинённые предложения с нескольк ok=14 failed=0 https://miro.com/app/board/uXjVEb9EIjc=
+DONE 76e0a83f Текст. Основные признаки. Тема, идея, ми ok=3 failed=0 https://miro.com/app/board/uXjVEb9U8Is=
+DONE 200cf4fa Сложные предложения с разными видами свя ok=12 failed=0 https://miro.com/app/board/uXjVEb9AGKo=
+DONE b021d5af Бессоюзное сложное предложение (БСП). Зн ok=13 failed=0 https://miro.com/app/board/uXjVEb9U070=
+DONE a4d2b25d Средства связи предложений в тексте ok=3 failed=0 https://miro.com/app/board/uXjVEb9IYNI=

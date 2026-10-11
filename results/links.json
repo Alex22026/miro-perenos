@@ -2704,7 +2704,9 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9VGzg=",
   "id": "uXjVEb9VGzg=",
-  "status": "creating"
+  "status": "done",
+  "ok": 15,
+  "failed": 0
  },
  "2d3f225f": {
   "name": "Виды придаточных предложений в СПП",
@@ -2720,13 +2722,94 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9-IAo=",
   "id": "uXjVEb9-IAo=",
-  "status": "creating"
+  "status": "done",
+  "ok": 10,
+  "failed": 0
  },
  "0f364ec8": {
   "name": "Сложноподчинённые предложения с несколькими придаточными. Типы подчинения",
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9EIjc=",
   "id": "uXjVEb9EIjc=",
+  "status": "done",
+  "ok": 14,
+  "failed": 0
+ },
+ "e3b5a164": {
+  "name": "Сложноподчинённые предложения с несколькими придаточными. Типы подчинения",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9SZqw=",
+  "id": "uXjVEb9SZqw=",
+  "status": "done",
+  "ok": 3,
+  "failed": 0
+ },
+ "837ff0ca": {
+  "name": "Бессоюзное сложное предложение (БСП). Знаки препинания в БСП",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9AGK4=",
+  "id": "uXjVEb9AGK4=",
+  "status": "done",
+  "ok": 5,
+  "failed": 0
+ },
+ "b021d5af": {
+  "name": "Бессоюзное сложное предложение (БСП). Знаки препинания в БСП",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9U070=",
+  "id": "uXjVEb9U070=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "200cf4fa": {
+  "name": "Сложные предложения с разными видами связи (союзной и бессоюзной)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9AGKo=",
+  "id": "uXjVEb9AGKo=",
+  "status": "done",
+  "ok": 12,
+  "failed": 0
+ },
+ "aeaf8200": {
+  "name": "Сложные предложения с разными видами связи (союзной и бессоюзной)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb997OM=",
+  "id": "uXjVEb997OM=",
+  "status": "done",
+  "ok": 4,
+  "failed": 0
+ },
+ "60fb649d": {
+  "name": "Текст. Основные признаки. Тема, идея, микротемы. Абзацное членение",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9W-TI=",
+  "id": "uXjVEb9W-TI=",
   "status": "creating"
+ },
+ "76e0a83f": {
+  "name": "Текст. Основные признаки. Тема, идея, микротемы. Абзацное членение",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9U8Is=",
+  "id": "uXjVEb9U8Is=",
+  "status": "done",
+  "ok": 3,
+  "failed": 0
+ },
+ "569a972c": {
+  "name": "Средства связи предложений в тексте",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9W-T0=",
+  "id": "uXjVEb9W-T0=",
+  "status": "creating"
+ },
+ "a4d2b25d": {
+  "name": "Средства связи предложений в тексте",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9IYNI=",
+  "id": "uXjVEb9IYNI=",
+  "status": "done",
+  "ok": 3,
+  "failed": 0
  }
 }
