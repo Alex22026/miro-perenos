@@ -209,3 +209,13 @@ DONE 5cbd5ca0 №19 — методичка ok=10 failed=0 https://miro.com/app/b
 DONE ba33ea53 №18 Показательные и логарифмические — ме ok=36 failed=0 https://miro.com/app/board/uXjVEb9s2RA=
 DONE 6c35dd46 №20 Задачи на движение ok=25 failed=0 https://miro.com/app/board/uXjVEb9Dmzc=
 DONE d0c8fde3 №20 Задачи на движение — методичка ok=20 failed=0 https://miro.com/app/board/uXjVEb9GMsk=
+DONE fcb91940 №18 Неравенства, метод интервалов — мето ok=27 failed=0 https://miro.com/app/board/uXjVEb9NBA0=
+DONE cd830701 №20 Задачи на работу и концентрацию ok=21 failed=0 https://miro.com/app/board/uXjVEb9oFlU=
+DONE ea7bb4f3 Фонетический разбор. Звуки и буквы. Силь ok=14 failed=0 https://miro.com/app/board/uXjVEb9-I6A=
+DONE 223251f5 №21 ok=21 failed=0 https://miro.com/app/board/uXjVEb9L7w0=
+DONE c6b7dd1a №20 Задачи на работу и концентрацию — ме ok=21 failed=0 https://miro.com/app/board/uXjVEb9-I5g=
+DONE bd283fe8 Фонетический разбор. Звуки и буквы. Силь ok=14 failed=0 https://miro.com/app/board/uXjVEb9ELbY=
+DONE f4a01e4d Состав слова (морфемика). Основа и оконч ok=14 failed=0 https://miro.com/app/board/uXjVEb9yFDM=
+DONE ccf739bc Чередование гласных в корнях (-бер-/-бир ok=18 failed=0 https://miro.com/app/board/uXjVEb997FU=
+DONE 907ddcbc №21 — методичка ok=21 failed=0 https://miro.com/app/board/uXjVEb9-cYk=
+DONE 1cbf7e0c Чередование гласных в корнях (-бер-/-бир ok=41 failed=0 https://miro.com/app/board/uXjVEb93M7Y=

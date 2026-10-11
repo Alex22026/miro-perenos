@@ -1597,7 +1597,9 @@
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9NBA0=",
   "id": "uXjVEb9NBA0=",
-  "status": "creating"
+  "status": "done",
+  "ok": 27,
+  "failed": 0
  },
  "cc5e6eaa": {
   "name": "№19",
@@ -1640,13 +1642,101 @@
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9oFlU=",
   "id": "uXjVEb9oFlU=",
-  "status": "creating"
+  "status": "done",
+  "ok": 21,
+  "failed": 0
  },
  "c6b7dd1a": {
   "name": "№20 Задачи на работу и концентрацию — методичка",
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9-I5g=",
   "id": "uXjVEb9-I5g=",
+  "status": "done",
+  "ok": 21,
+  "failed": 0
+ },
+ "223251f5": {
+  "name": "№21",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9L7w0=",
+  "id": "uXjVEb9L7w0=",
+  "status": "done",
+  "ok": 21,
+  "failed": 0
+ },
+ "907ddcbc": {
+  "name": "№21 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9-cYk=",
+  "id": "uXjVEb9-cYk=",
+  "status": "done",
+  "ok": 21,
+  "failed": 0
+ },
+ "ea7bb4f3": {
+  "name": "Фонетический разбор. Звуки и буквы. Сильная и слабая позиция гласных/согласных",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9-I6A=",
+  "id": "uXjVEb9-I6A=",
+  "status": "done",
+  "ok": 14,
+  "failed": 0
+ },
+ "bd283fe8": {
+  "name": "Фонетический разбор. Звуки и буквы. Сильная и слабая позиция гласных/согласных (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9ELbY=",
+  "id": "uXjVEb9ELbY=",
+  "status": "done",
+  "ok": 14,
+  "failed": 0
+ },
+ "1acedf53": {
+  "name": "Состав слова (морфемика). Основа и окончание. Корень, приставка, суффикс",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9-I6w=",
+  "id": "uXjVEb9-I6w=",
+  "status": "creating"
+ },
+ "f4a01e4d": {
+  "name": "Состав слова (морфемика). Основа и окончание (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9yFDM=",
+  "id": "uXjVEb9yFDM=",
+  "status": "done",
+  "ok": 14,
+  "failed": 0
+ },
+ "ccf739bc": {
+  "name": "Чередование гласных в корнях (-бер-/-бир-, -кос-/-кас-, -раст-/-ращ-/-рос- и др.)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb997FU=",
+  "id": "uXjVEb997FU=",
+  "status": "done",
+  "ok": 18,
+  "failed": 0
+ },
+ "1cbf7e0c": {
+  "name": "Чередование гласных в корнях (-бер-/-бир-, -кос-/-кас-, -раст-/-ращ-/-рос- и др.) (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb93M7Y=",
+  "id": "uXjVEb93M7Y=",
+  "status": "done",
+  "ok": 41,
+  "failed": 0
+ },
+ "cd0e3f60": {
+  "name": "Правописание приставок (неизменяемые, при-/пре-, на з/с)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9yFDg=",
+  "id": "uXjVEb9yFDg=",
+  "status": "creating"
+ },
+ "732caf29": {
+  "name": "Правописание приставок (неизменяемые, при-/пре-, на з/с) (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb901_E=",
+  "id": "uXjVEb901_E=",
   "status": "creating"
  }
 }
