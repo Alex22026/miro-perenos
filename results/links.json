@@ -913,20 +913,110 @@
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9jFL0=",
   "id": "uXjVEb9jFL0=",
-  "status": "creating"
+  "status": "done",
+  "ok": 61,
+  "failed": 0
  },
  "f30db04c": {
   "name": "Промежутки",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9AGyk=",
   "id": "uXjVEb9AGyk=",
-  "status": "creating"
+  "status": "done",
+  "ok": 94,
+  "failed": 0
  },
  "1ddf3b08": {
   "name": "Промежутки (ответы)",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9AqO8=",
   "id": "uXjVEb9AqO8=",
+  "status": "done",
+  "ok": 98,
+  "failed": 0
+ },
+ "310b5576": {
+  "name": "Решение неравенств",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9-cLc=",
+  "id": "uXjVEb9-cLc=",
+  "status": "done",
+  "ok": 95,
+  "failed": 0
+ },
+ "cce1a7f6": {
+  "name": "Системы линейных неравенств",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9txkY=",
+  "id": "uXjVEb9txkY=",
+  "status": "done",
+  "ok": 34,
+  "failed": 0
+ },
+ "ce378fad": {
+  "name": "Системы линейных неравенств",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9gfeQ=",
+  "id": "uXjVEb9gfeQ=",
+  "status": "done",
+  "ok": 98,
+  "failed": 0
+ },
+ "581ae6e3": {
+  "name": "Квадратные неравенства",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9oEXc=",
+  "id": "uXjVEb9oEXc=",
+  "status": "done",
+  "ok": 55,
+  "failed": 0
+ },
+ "214978bd": {
+  "name": "Неравенства с двумя переменными",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb997wI=",
+  "id": "uXjVEb997wI=",
+  "status": "done",
+  "ok": 34,
+  "failed": 0
+ },
+ "cf02813e": {
+  "name": "Неравенства с двумя переменными (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9s_fI=",
+  "id": "uXjVEb9s_fI=",
+  "status": "done",
+  "ok": 46,
+  "failed": 0
+ },
+ "75866545": {
+  "name": "Точка, прямая, отрезок, луч",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9-cUw=",
+  "id": "uXjVEb9-cUw=",
+  "status": "done",
+  "ok": 65,
+  "failed": 0
+ },
+ "eb9f015a": {
+  "name": "Точка, прямая, отрезок, луч",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9jFVM=",
+  "id": "uXjVEb9jFVM=",
+  "status": "creating"
+ },
+ "6ae2b12b": {
+  "name": "Углы",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb92ut0=",
+  "id": "uXjVEb92ut0=",
+  "status": "creating"
+ },
+ "720aabc0": {
+  "name": "Углы",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9yH70=",
+  "id": "uXjVEb9yH70=",
   "status": "creating"
  }
 }

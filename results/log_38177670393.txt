@@ -129,3 +129,13 @@ DONE d70c2cbc Квадратный трехчлен ok=45 failed=0 https://miro.
 DONE 01302b0f Неравенства и их свойства ok=39 failed=0 https://miro.com/app/board/uXjVEb9ELJU=
 DONE e15d1dea Теорема Виета ok=86 failed=0 https://miro.com/app/board/uXjVEb9gfcE=
 DONE ea655575 Квадратный трехчлен ok=83 failed=0 https://miro.com/app/board/uXjVEb93M0o=
+DONE f30db04c Промежутки ok=94 failed=0 https://miro.com/app/board/uXjVEb9AGyk=
+DONE e22a37f7 Неравенства и их свойства ok=61 failed=0 https://miro.com/app/board/uXjVEb9jFL0=
+DONE 1ddf3b08 Промежутки (ответы) ok=98 failed=0 https://miro.com/app/board/uXjVEb9AqO8=
+DONE cce1a7f6 Системы линейных неравенств ok=34 failed=0 https://miro.com/app/board/uXjVEb9txkY=
+DONE 214978bd Неравенства с двумя переменными ok=34 failed=0 https://miro.com/app/board/uXjVEb997wI=
+DONE 581ae6e3 Квадратные неравенства ok=55 failed=0 https://miro.com/app/board/uXjVEb9oEXc=
+DONE 310b5576 Решение неравенств ok=95 failed=0 https://miro.com/app/board/uXjVEb9-cLc=
+DONE cf02813e Неравенства с двумя переменными (ответы) ok=46 failed=0 https://miro.com/app/board/uXjVEb9s_fI=
+DONE ce378fad Системы линейных неравенств ok=98 failed=0 https://miro.com/app/board/uXjVEb9gfeQ=
+DONE 75866545 Точка, прямая, отрезок, луч ok=65 failed=0 https://miro.com/app/board/uXjVEb9-cUw=
