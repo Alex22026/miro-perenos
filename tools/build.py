@@ -356,7 +356,7 @@ def render_overlay(bid, strokes, byid, T, f):
                         xx += cw
                     yy += rh
         bb = im.getbbox()
-        if not bb:
+        if not bb or (bb[2] - bb[0] < 8 and bb[3] - bb[1] < 8):
             continue
         im = im.crop(bb)
         fn = f"ov/{bid}/{ti}_{tj}.png"
