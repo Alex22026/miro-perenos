@@ -1093,20 +1093,110 @@
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9s2JU=",
   "id": "uXjVEb9s2JU=",
-  "status": "creating"
+  "status": "done",
+  "ok": 62,
+  "failed": 0
  },
  "a3e95959": {
   "name": "Прямоугольный треугольник",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9yBzY=",
   "id": "uXjVEb9yBzY=",
-  "status": "creating"
+  "status": "done",
+  "ok": 40,
+  "failed": 0
  },
  "793ac7e0": {
   "name": "Окружность",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb92ups=",
   "id": "uXjVEb92ups=",
+  "status": "done",
+  "ok": 48,
+  "failed": 0
+ },
+ "7f034ae7": {
+  "name": "Окружность",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb92uqQ=",
+  "id": "uXjVEb92uqQ=",
+  "status": "done",
+  "ok": 70,
+  "failed": 0
+ },
+ "10a6a6fb": {
+  "name": "Параллелограмм",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9jFXI=",
+  "id": "uXjVEb9jFXI=",
+  "status": "done",
+  "ok": 56,
+  "failed": 0
+ },
+ "3ec9e775": {
+  "name": "Параллелограмм",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9254c=",
+  "id": "uXjVEb9254c=",
+  "status": "done",
+  "ok": 34,
+  "failed": 0
+ },
+ "39e16628": {
+  "name": "Прямоугольник, квадрат, ромб",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9FFh0=",
+  "id": "uXjVEb9FFh0=",
+  "status": "done",
+  "ok": 63,
+  "failed": 0
+ },
+ "f563ac36": {
+  "name": "Прямоугольник, квадрат, ромб",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9255M=",
+  "id": "uXjVEb9255M=",
+  "status": "done",
+  "ok": 36,
+  "failed": 0
+ },
+ "79d40cef": {
+  "name": "Трапеция",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb90110=",
+  "id": "uXjVEb90110=",
+  "status": "done",
+  "ok": 54,
+  "failed": 0
+ },
+ "86055920": {
+  "name": "Трапеция",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9s_bQ=",
+  "id": "uXjVEb9s_bQ=",
+  "status": "done",
+  "ok": 33,
+  "failed": 0
+ },
+ "b00e455f": {
+  "name": "Теорема Фалеса, треугольники, подобие",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9012Y=",
+  "id": "uXjVEb9012Y=",
+  "status": "creating"
+ },
+ "b711f982": {
+  "name": "Теорема Фалеса, треугольники, подобие",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb93M8Y=",
+  "id": "uXjVEb93M8Y=",
+  "status": "creating"
+ },
+ "06b3795f": {
+  "name": "Векторы",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9NB5k=",
+  "id": "uXjVEb9NB5k=",
   "status": "creating"
  }
 }

@@ -149,3 +149,13 @@ DONE 2cc9a88a 1 признак равенства треугольников ok=
 DONE f37b6b55 2 признак равенства треугольников ok=55 failed=0 https://miro.com/app/board/uXjVEb9AqUE=
 DONE a14d32fb 3 признак равенства треугольников ok=49 failed=0 https://miro.com/app/board/uXjVEb9yBy4=
 DONE 73725d87 3 признак равенства треугольников ok=63 failed=0 https://miro.com/app/board/uXjVEb92uoA=
+DONE a3e95959 Прямоугольный треугольник ok=40 failed=0 https://miro.com/app/board/uXjVEb9yBzY=
+DONE 827ff95e Прямоугольный треугольник ok=62 failed=0 https://miro.com/app/board/uXjVEb9s2JU=
+DONE 793ac7e0 Окружность ok=48 failed=0 https://miro.com/app/board/uXjVEb92ups=
+DONE 3ec9e775 Параллелограмм ok=34 failed=0 https://miro.com/app/board/uXjVEb9254c=
+DONE 10a6a6fb Параллелограмм ok=56 failed=0 https://miro.com/app/board/uXjVEb9jFXI=
+DONE 7f034ae7 Окружность ok=70 failed=0 https://miro.com/app/board/uXjVEb92uqQ=
+DONE f563ac36 Прямоугольник, квадрат, ромб ok=36 failed=0 https://miro.com/app/board/uXjVEb9255M=
+DONE 39e16628 Прямоугольник, квадрат, ромб ok=63 failed=0 https://miro.com/app/board/uXjVEb9FFh0=
+DONE 86055920 Трапеция ok=33 failed=0 https://miro.com/app/board/uXjVEb9s_bQ=
+DONE 79d40cef Трапеция ok=54 failed=0 https://miro.com/app/board/uXjVEb90110=
