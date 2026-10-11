@@ -1,0 +1,20 @@
+name: images
+on:
+  push:
+    paths: ["jobs/images.json"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: images
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pillow
+      - run: python tools/fetch_images.py
+      - run: |
+          git config user.name "images-bot"; git config user.email "images-bot@users.noreply.github.com"
+          git add img jobs/errors.json
+          git commit -m "Картинки для Miro (обрезка/поворот)" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
