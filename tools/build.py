@@ -100,10 +100,32 @@ def collect(rec, extra_pencil):
     return objs
 
 
-def box(o):
+BYID = {}
+
+
+def box(o, depth=0):
+    """Абсолютный прямоугольник объекта (x, y — верхний левый угол).
+    Дети рамок/фигур без position.type=absolute хранят ЦЕНТР относительно верхнего левого угла родителя."""
     g = o["graphicsPayload"]
     p, s = g.get("position") or {}, g.get("containerSize") or {}
-    return float(p.get("x", 0)), float(p.get("y", 0)), float(s.get("width", 0)), float(s.get("height", 0))
+    x, y = float(p.get("x", 0)), float(p.get("y", 0))
+    w, h = float(s.get("width", 0)), float(s.get("height", 0))
+    par = BYID.get(o.get("parentId"))
+    if par is not None and p.get("type") != "absolute" and depth < 5 and o.get("mode") not in ("line", "bezierCurve", "nodeConnector"):
+        px, py, _, _ = box(par, depth + 1)
+        x, y = px + x - w / 2, py + y - h / 2
+    return x, y, w, h
+
+
+def anchors(o):
+    """Точки линии в абсолютных координатах: у детей рамки они заданы от центра родителя."""
+    gp = o["graphicsPayload"].get("graphicsParams") or {}
+    pts = [(float(q["x"]), float(q["y"])) for q in gp.get("anchorPoints") or []]
+    par = BYID.get(o.get("parentId"))
+    if par is not None:
+        px, py, pw, ph = box(par)
+        pts = [(x + px + pw / 2, y + py + ph / 2) for x, y in pts]
+    return pts
 
 
 def image_crop(o):
@@ -143,6 +165,7 @@ def board_scale(objs):
 
 def build(bid, rec, extra_pencil, outdir, jobs):
     objs = collect(rec, extra_pencil)
+    BYID.clear(); BYID.update({o["id"]: o for o in objs})
     if not objs:
         return {"bid": bid, "parts": 0, "items": 0}
     f = board_scale(objs)
@@ -150,8 +173,8 @@ def build(bid, rec, extra_pencil, outdir, jobs):
     xs, ys = [], []
     for o in objs:
         if o["mode"] in ("line", "bezierCurve"):
-            for p in (o["graphicsPayload"].get("graphicsParams") or {}).get("anchorPoints") or []:
-                xs.append(p["x"]); ys.append(p["y"])
+            for (ax, ay) in anchors(o):
+                xs.append(ax); ys.append(ay)
         elif o["mode"] != "nodeConnector":
             x, y, w, h = box(o)
             if w or h:
@@ -270,7 +293,7 @@ def render_overlay(bid, strokes, byid, T, f):
             if pts:
                 prims.append(("line", pts, col, sw, None, None))
         elif m in ("line", "bezierCurve"):
-            ap = [(p["x"], p["y"]) for p in gp.get("anchorPoints") or []]
+            ap = anchors(o)
             if m == "bezierCurve":
                 ap = bezier_pts(ap)
             pts = [T(*p) for p in ap]
