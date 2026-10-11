@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<textArea id="o1" x="-2710.6" y="-2088.2" width="600.1" font-size="33.0" font-family="open_sans" fill="#086c0b" text-align="left"><b>ПРЕОБРАЗОВАНИЯ ВЫРАЖЕНИЙ</b></textArea>
+<rect id="o2" data-shape="rectangle" x="-2713.4" y="-1389.2" width="552.1" height="1287.5" fill="#ffffff" stroke="none" />
+<textArea id="o3" x="-2713.4" y="-1648.4" width="508.4" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="center">1)<br/>Переместительное свойство: для любых чисел a и b верны равенства <br/>a + b = b + a, <br/>ab = ba<br/><br/>2)<br/>Сочетательное свойство: для любых чисел a, b и c верны равенства<br/> (a + b) + c = a +( b + c ),<br/> ( ab ) c = a ( bc )<br/><br/>3)<br/>Распределительное свойство: для любых чисел a , b и c верно равенство <br/>a ( b + c )= ab +ac</textArea>
+<textArea id="o4" x="-2713.4" y="-916.4" width="528.3" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="center">в любой сумме можно как угодно переставлять слагаемые и<br/>произвольным образом объединять их в группы<br/><br/>в любом произведении можно как угодно переставлять множители и произвольным образом объединять их в группы</textArea>
+<rect id="o5" data-shape="rectangle" x="-482.4" y="-1385.9" width="3195.8" height="1280.8" fill="#ffffff" stroke="none" />
+<textArea id="o6" x="-1756.9" y="-2052.5" width="451.3" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="center"><b>Задания на преобразование</b></textArea>
+<ellipse id="o7" cx="-1991.1" cy="-1905.9" rx="32.6" ry="32.2" fill="#ffffff" stroke="#9acd32" stroke-width="3" data-content="1" data-text-color="#9acd32" data-font-size="27.4" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o8" x="-1643.8" y="-1981.5" width="758.2" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="center">Вычислите наиболее рациональным способом: </textArea>
+<textArea id="o9" x="-1783.9" y="-1924.8" width="559.6" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="left">а) 2,34 + 5,13 + 7,66 + 4,87 = </textArea>
+<ellipse id="o10" cx="-273.4" cy="-1906.6" rx="32.6" ry="32.2" fill="#ffffff" stroke="#9acd32" stroke-width="3" data-content="2" data-text-color="#9acd32" data-font-size="27.4" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o11" x="-1806.8" y="-1192.6" width="469.3" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="left">1) 4,2 ⋅ 5,7 + 4,2 ⋅ 4,3 =</textArea>
+<ellipse id="o12" cx="-1991.1" cy="-1159.1" rx="32.6" ry="32.2" fill="#ffffff" stroke="#9acd32" stroke-width="3" data-content="3" data-text-color="#9acd32" data-font-size="27.4" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o13" x="106.3" y="-1191.3" width="830.4" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="left">а) Докажите, что сумма 18⋅23+23⋅7 делится на 5</textArea>
+<ellipse id="o14" cx="-273.4" cy="-1159.1" rx="32.6" ry="32.2" fill="#ffffff" stroke="#9acd32" stroke-width="3" data-content="4" data-text-color="#9acd32" data-font-size="27.4" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o15" x="-2653.4" y="-643.9" width="222.0" font-size="33.0" font-family="open_sans" fill="#19572a" text-align="left"><b>ТОЖДЕСТВА</b></textArea>
+<rect id="o16" data-shape="rectangle" x="-2653.4" y="294.8" width="964.0" height="1791.6" fill="#ffffff" stroke="none" />
+<textArea id="o17" x="-2653.4" y="-467.4" width="1033.9" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="center">Равенство, верное при любых значениях переменных, называется тождеством<br/>Например:<br/>2a + 2b = 2 (a+b)</textArea>
+<textArea id="o18" x="-2653.4" y="-96.4" width="1072.2" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">Два выражения, значения которых рав-<br/>ны при любых значениях переменных, называются тождественно равными<br/><br/>Свойства преобразования - пример тождества<br/><br/>Ещё примеры: <br/>a + 0 = a,<br/>a + (–a) = 0,<br/>a – b = a + (– b),<br/>a*1=a,<br/>a+(–a) = 0<br/>a*(–b)=–ab,<br/> (–a)(–b)=ab</textArea>
+<textArea id="o19" x="-2653.4" y="468.9" width="1041.1" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="center">Подобными слагаемыми называют слагаемые, имеющие одинаковую буквенную часть,<br/>чтобы привести подобные слагаемые, надо сложить их коэффициенты и результат умножить на общую буквенную<br/>часть<br/>Например: <br/>дано выражение<br/>4х + х + y + 2z + 8x<br/>подобными будут: 4x, x, 8x<br/>приведем подобные: <br/>(4+1+8)*x + y + 2z</textArea>
+<textArea id="o20" x="-2660.6" y="916.2" width="1056.6" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="center">Знаки при раскрытии скобок:<br/>если перед скобками стоит знак «плюс», то скобки можно<br/>опустить. Например:<br/>(2x + 3y) +1 = 2x + 3y +1<br/><br/>если перед скобками стоит знак «минус», то скобки можно<br/>опустить, изменив знак каждого слагаемого<br/>в скобках на противоположный. Например:<br/>- (2x + 3y) + 1 = -2x - 3y +1</textArea>
+<rect id="o21" data-shape="rectangle" x="-482.4" y="293.0" width="3195.8" height="1795.2" fill="#ffffff" stroke="none" />
+<textArea id="o22" x="-1792.1" y="-461.0" width="377.4" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="left">а) (3m)*(5n) и 15mn</textArea>
+<textArea id="o23" x="-1804.3" y="-624.2" width="361.0" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="center"><b>Задания на тождества</b></textArea>
+<ellipse id="o24" cx="-1991.1" cy="-435.3" rx="32.6" ry="32.2" fill="#ffffff" stroke="#9acd32" stroke-width="3" data-content="1" data-text-color="#9acd32" data-font-size="27.4" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o25" x="-1629.8" y="-538.7" width="727.8" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="left">Являются ли тождественно равными выражения? <br/>Если да, отметьте эти выражения</textArea>
+<rect id="o26" data-shape="rectangle" x="-1581.1" y="-457.8" width="45.0" height="45.0" fill="#ffffff" stroke="#008080" stroke-width="3" />
+<rect id="o27" data-shape="rectangle" x="-1581.1" y="-392.3" width="45.0" height="45.0" fill="#ffffff" stroke="#008080" stroke-width="3" />
+<rect id="o28" data-shape="rectangle" x="-1581.1" y="-319.9" width="45.0" height="45.0" fill="#ffffff" stroke="#008080" stroke-width="3" />
+<textArea id="o29" x="74.3" y="-460.7" width="812.3" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="left">а) Равенство 7(x+2)=7x+14 является тождеством</textArea>
+<ellipse id="o30" cx="-273.4" cy="-435.3" rx="32.6" ry="32.2" fill="#ffffff" stroke="#9acd32" stroke-width="3" data-content="2" data-text-color="#9acd32" data-font-size="27.4" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o31" x="-84.9" y="-538.7" width="379.1" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="left">Верны ди утверждения:</textArea>
+<textArea id="o32" x="-1750.7" y="164.7" width="466.9" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="left">а) 5(a − b) </textArea>
+<ellipse id="o33" cx="-1991.1" cy="193.2" rx="32.6" ry="32.2" fill="#ffffff" stroke="#9acd32" stroke-width="3" data-content="3" data-text-color="#9acd32" data-font-size="27.4" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o34" x="-1554.4" y="96.4" width="890.8" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="left">Преобразуйте выражение в тождественно равное, используя<br/>распределительное свойство умножения</textArea>
+<ellipse id="o35" cx="-273.4" cy="199.8" rx="32.6" ry="32.2" fill="#ffffff" stroke="#9acd32" stroke-width="3" data-content="4" data-text-color="#9acd32" data-font-size="27.4" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o36" x="-20.9" y="116.0" width="523.5" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="left">Приведите подобные слагаемые:</textArea>
+<textArea id="o37" x="37.4" y="172.5" width="627.7" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="left">а) 9m − 5n + 4m − 3n = </textArea>
+<textArea id="o38" x="-1738.1" y="851.1" width="494.1" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="left">а) 8 − (b − 4) =</textArea>
+<ellipse id="o39" cx="-1991.1" cy="883.3" rx="32.6" ry="32.2" fill="#ffffff" stroke="#9acd32" stroke-width="3" data-content="5" data-text-color="#9acd32" data-font-size="27.4" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o40" x="-1845.1" y="799.5" width="306.9" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="left">Раскройте скобки:</textArea>
+<ellipse id="o41" cx="-273.4" cy="883.3" rx="32.6" ry="32.2" fill="#ffffff" stroke="#9acd32" stroke-width="3" data-content="6" data-text-color="#9acd32" data-font-size="27.4" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o42" x="37.4" y="799.5" width="704.0" font-size="27.4" font-family="open_sans" fill="#9acd32" text-align="left">Упростите выражение и найдите значение:</textArea>
+<textArea id="o43" x="132.0" y="851.1" width="835.9" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="left">а) (4a − 2) − (3 − 6a)  при a = 0,5</textArea>
+<textArea id="o44" x="-1816.8" y="-1823.8" width="646.0" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">б) 11,8 + 4,2 - 3,5 - 1,5 = </textArea>
+<textArea id="o45" x="-1790.8" y="-1728.7" width="523.5" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">в) 6,25 + 1,09 + 3,75 + 8,91=</textArea>
+<textArea id="o46" x="-1803.2" y="-1650.3" width="523.5" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center"> <br/>г) -2,18 + 7,4 - 4,82 + 2,6 =</textArea>
+<image id="o47" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/73a011993d1920e856fc.jpg" x="-16.6" y="-1938.8" width="487.0" height="89.6" />
+<image id="o48" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/d6b63800ca579bfebb71.jpg" x="-16.6" y="-1843.6" width="487.0" height="79.7" />
+<image id="o49" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/9f7d213a326afdf1355b.jpg" x="-16.6" y="-1652.1" width="487.0" height="66.7" />
+<image id="o50" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/cbd74abb81ee64f68ab2.jpg" x="-16.6" y="-1747.9" width="487.0" height="82.1" />
+<textArea id="o51" x="-1811.1" y="-1109.1" width="505.4" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">2) 15,6 ⋅ 3,4 − 15,6 ⋅ 2,4 =</textArea>
+<textArea id="o52" x="-1826.7" y="-1021.4" width="593.7" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">3) 2,8 ⋅ 7,3 + 2,8 ⋅ 2,7 =</textArea>
+<textArea id="o53" x="-1811.1" y="-948.5" width="505.4" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center"><br/>4) 18,9 ⋅ 2,5 − 18,9 ⋅ 1,5 =</textArea>
+<textArea id="o54" x="106.3" y="-1080.0" width="866.5" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">б) Докажите, что сумма 45⋅62+45⋅29 делится на 13</textArea>
+<textArea id="o55" x="-1876.8" y="-392.3" width="526.5" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">б) −4x + 4x и 0</textArea>
+<textArea id="o56" x="-1889.0" y="-336.4" width="413.3" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center"><br/>в) a−b и b−a</textArea>
+<textArea id="o57" x="89.8" y="-360.4" width="848.4" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">б) Равенство 5b−3=2b+(3b−3) является тождеством</textArea>
+<textArea id="o58" x="45.4" y="-278.7" width="758.2" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center"><br/>в) Равенство 18(c−c)=1 является тождеством</textArea>
+<textArea id="o59" x="-1876.4" y="245.6" width="578.1" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">б) (2m − 3n) ⋅ 4</textArea>
+<textArea id="o60" x="-1845.1" y="328.1" width="530.7" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">в) −15 ⋅ (3x − 2y + 7)</textArea>
+<textArea id="o61" x="-1832.5" y="413.2" width="606.5" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">г) 2,5 ⋅ (−4a + 6b − 8c)</textArea>
+<textArea id="o62" x="-94.4" y="260.2" width="601.8" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">б) 35a + 12b − 18a − 7b =</textArea>
+<textArea id="o63" x="-75.5" y="352.4" width="587.1" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">в) 4,2x − 3,1y − 1,3y − 0,8x = </textArea>
+<textArea id="o64" x="-75.5" y="451.5" width="541.5" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">г) 2,4c + 5,6d − 3,7c − 4,9d =</textArea>
+<textArea id="o65" x="-1854.9" y="939.2" width="624.5" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">б) 45 − (18 + 5y) =</textArea>
+<textArea id="o66" x="-1861.9" y="1025.0" width="526.0" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">в) 9 + (15 − 2c) =</textArea>
+<textArea id="o67" x="-1854.9" y="1112.8" width="441.6" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">г) 27 + (6m − 9) =</textArea>
+<textArea id="o68" x="-35.3" y="939.2" width="936.3" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">б) (8 − 3b) + (12 − 4b)  при b = −0,4</textArea>
+<textArea id="o69" x="-48.3" y="1025.5" width="613.7" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">в) 15 + 6c − (2 − 4c)   при c=−1,5</textArea>
+<textArea id="o70" x="7.1" y="1112.8" width="856.1" font-size="27.4" font-family="open_sans" fill="#19572a" text-align="center">г) 42 − (y − 18) + (9y − 27)     при y=−0,02</textArea>
+</svg>

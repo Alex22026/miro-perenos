@@ -216,7 +216,10 @@ def build(bid, rec, extra_pencil, outdir, jobs):
             align = (tp.get("textAlign") or {}).get("horizontal", "left")
             align = align if align in ("left", "center", "right") else "left"
             fam = FONTS.get(tp.get("fontFamily"), "open_sans")
-            Wt = W if W > 4 else max(40, len(plain_text(tp.get("textOps"))) * fs * 0.6)
+            k = {"roboto_condensed": 0.52, "caveat": 0.48}.get(fam, 0.6)
+            lines_ = [l for l in plain_text(tp.get("textOps")).split("\n") if l.strip()] or [""]
+            est = max(len(l) for l in lines_) * fs * k
+            Wt = max(W * 1.08, est * 1.1 if len(lines_) == 1 else W * 1.08, 40)
             elems.append(f'<textArea id="o{n}" x="{X:.1f}" y="{Y:.1f}" width="{Wt:.1f}" font-size="{fs:.1f}" font-family="{fam}" fill="{color}" text-align="{align}"{rot}>{body}</textArea>')
         elif m in ("shape", "frame"):
             if m == "frame":
@@ -322,6 +325,23 @@ def render_overlay(bid, strokes, byid, T, f):
     boxes = [bbox(p) for p in prims]
     if not boxes:
         return []
+    # адаптивное разрешение: медианная линия ≈ 3 px, но не больше ~60 плиток 2048px на доску
+    ws = sorted(p[3] for p in prims if p[0] == "line") or [1.0]
+    R = max(0.1, min(2.0, 3.0 / max(ws[len(ws) // 2], 1e-6)))
+    if any(p[0] == "table" for p in prims):
+        R = max(R, 1.0)
+    while True:
+        TILE = 2048 / R
+        keys = set()
+        for (x0, y0, x1, y1) in boxes:
+            for tj in range(math.floor(y0 / TILE), math.floor(y1 / TILE) + 1):
+                for ti in range(math.floor(x0 / TILE), math.floor(x1 / TILE) + 1):
+                    keys.add((ti, tj))
+                    if len(keys) > 60: break
+                if len(keys) > 60: break
+        if len(keys) <= 60 or R <= 0.05:
+            break
+        R *= 0.75
     tiles = {}
     for p, (x0, y0, x1, y1) in zip(prims, boxes):
         for tj in range(math.floor(y0 / TILE), math.floor(y1 / TILE) + 1):
@@ -331,7 +351,7 @@ def render_overlay(bid, strokes, byid, T, f):
     for fn in os.listdir(od):
         os.remove(os.path.join(od, fn))
     out = []
-    S = int(TILE * R)
+    S = 2048
     for (ti, tj), ps in sorted(tiles.items()):
         ox, oy = ti * TILE, tj * TILE
         im = Image.new("RGBA", (S, S), (0, 0, 0, 0)); d = ImageDraw.Draw(im)

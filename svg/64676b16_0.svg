@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<textArea id="o1" x="-3287.5" y="-1826.2" width="249.4" font-size="33.8" font-family="open_sans" fill="#66cdaa" text-align="left"><b>ОДНОЧЛЕНЫ</b></textArea>
+<rect id="o2" data-shape="rectangle" x="-3278.0" y="-947.9" width="1038.1" height="1692.0" fill="#ffffff" stroke="none" />
+<image id="o3" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/5806365b-433a-4be6-a735-18878346f739e9b6f482-8c92-45b2-9ce7-347372ac42b321304246-701a-47bf-b342-18329c3d0605ec23b24e-fd58-494f-baa9-c118fd1b5a6d/clipboard-file.png" x="-3278.0" y="-1643.0" width="1022.1" height="179.8" />
+<textArea id="o4" x="-3280.4" y="-1379.9" width="1077.0" font-size="33.2" font-family="open_sans" fill="#000000" text-align="center">Степенью одночлена называют сумму показателей степеней<br/>всех входящих в него переменных. Если одночлен не содер-<br/>жит переменных и является числом, отличным от нуля, то<br/>степень этого одночлена считают равной нулю.</textArea>
+<textArea id="o5" x="-3278.0" y="-975.5" width="1090.3" font-size="28.0" font-family="open_sans" fill="#000000" text-align="center">Число 0 является одночленом, степень которого не определена</textArea>
+<textArea id="o6" x="-3278.0" y="-1080.5" width="1112.5" font-size="28.0" font-family="open_sans" fill="#000000" text-align="center">Числовой множитель одночлена, записанного в стандартном виде, называют<br/>коэффициентом одночлена</textArea>
+<image id="o7" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/f2dbb9c7-fb05-4644-841a-64ea900d038a3367de36-f91d-4468-b52b-06561b0228e9b5feaba4-766e-4e9c-8fa4-f5274130270f60db31a0-b28e-43d9-a22d-f0b28d359053/clipboard-file.png" x="-3287.3" y="-821.8" width="1011.6" height="121.3" />
+<image id="o8" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/856c16bb-8f76-488c-93ae-832a98b68b6d7c0be95d-6207-46b9-a7e4-c86424ad6a752255247d-da9c-4194-ba7d-2596595b40014a65408d-4de2-4904-8ed6-620c20fb3675/clipboard-file.png" x="-3278.0" y="-647.0" width="1020.1" height="177.0" />
+<textArea id="o9" x="-3278.0" y="-426.9" width="2993.8" font-size="28.0" font-family="open_sans" fill="#000000" text-align="center">При умножении одночленов и возведении одночлена в степень используются правило умножения степеней с одинаковыми основаниями и правило возведения степени в степень</textArea>
+<image id="o10" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/22ccd4e1-11c7-4c13-ba99-62731b9e82d8e6c1f7f7-4579-4c49-90a3-27b97f8a357f52b39bc7-4c09-4363-a096-903a0fec1c2e39eab8d6-b182-41af-9d84-6a5db9e2c5d6/clipboard-file.png" x="-3287.3" y="-355.9" width="533.5" height="40.9" />
+<image id="o11" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/ff1bb6b8-d931-4bb5-9f86-b48451a4f2c293f159a9-bec3-453d-b34d-5203977dc6fe9c01706c-e902-4e3a-9c00-b7e213599a60a67251dd-b7be-42c0-8257-9cd4a4671ff5/clipboard-file.png" x="-3322.1" y="-283.0" width="730.8" height="60.7" />
+<rect id="o12" data-shape="rectangle" x="-490.9" y="-658.7" width="3813.0" height="2701.4" fill="#ffffff" stroke="none" />
+<textArea id="o13" x="-2157.6" y="-2042.7" width="164.3" font-size="33.8" font-family="open_sans" fill="#66cdaa" text-align="left"><b>Задания</b></textArea>
+<ellipse id="o14" cx="-2286.2" cy="-1883.0" rx="33.2" ry="33.2" fill="none" stroke="#dc143c" stroke-width="3" data-content="1" data-text-color="#dc143c" data-font-size="28.0" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o15" x="-1744.0" y="-1916.2" width="1238.2" font-size="28.0" font-family="open_sans" fill="#dc143c" text-align="left">Представьте одночлен в стандартном виде и назовите его коэффициент:</textArea>
+<rect id="o16" data-shape="rectangle" x="-643.4" y="-591.1" width="123.5" height="58.3" fill="none" stroke="#66cdaa" stroke-width="3" />
+<rect id="o17" data-shape="rectangle" x="-643.4" y="-513.3" width="123.5" height="58.3" fill="none" stroke="#66cdaa" stroke-width="3" />
+<rect id="o18" data-shape="rectangle" x="-643.4" y="-417.6" width="123.5" height="58.3" fill="none" stroke="#66cdaa" stroke-width="3" />
+<rect id="o19" data-shape="rectangle" x="-643.4" y="-328.0" width="123.5" height="58.3" fill="none" stroke="#66cdaa" stroke-width="3" />
+<rect id="o20" data-shape="rectangle" x="-643.4" y="-249.4" width="123.5" height="58.3" fill="none" stroke="#66cdaa" stroke-width="3" />
+<rect id="o21" data-shape="rectangle" x="-643.4" y="-171.4" width="123.5" height="58.3" fill="none" stroke="#66cdaa" stroke-width="3" />
+<ellipse id="o22" cx="-513.7" cy="-1883.0" rx="33.2" ry="33.2" fill="none" stroke="#66cdaa" stroke-width="3" data-content="2" data-text-color="#66cdaa" data-font-size="28.0" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o23" x="-253.7" y="-1916.2" width="535.9" font-size="28.0" font-family="open_sans" fill="#66cdaa" text-align="left">Вычислите значение выражения:</textArea>
+<ellipse id="o24" cx="-2286.2" cy="-1120.9" rx="33.2" ry="33.2" fill="none" stroke="#66cdaa" stroke-width="3" data-content="3" data-text-color="#66cdaa" data-font-size="28.0" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o25" x="-2058.2" y="-1154.1" width="462.0" font-size="28.0" font-family="open_sans" fill="#66cdaa" text-align="left">Какова степень одночлена:</textArea>
+<rect id="o26" data-shape="rectangle" x="-766.9" y="203.4" width="123.5" height="58.3" fill="none" stroke="#dc143c" stroke-width="3" />
+<rect id="o27" data-shape="rectangle" x="-766.9" y="296.2" width="123.5" height="58.3" fill="none" stroke="#dc143c" stroke-width="3" />
+<rect id="o28" data-shape="rectangle" x="-766.9" y="404.5" width="123.5" height="58.3" fill="none" stroke="#dc143c" stroke-width="3" />
+<rect id="o29" data-shape="rectangle" x="-766.9" y="507.2" width="123.5" height="58.3" fill="none" stroke="#dc143c" stroke-width="3" />
+<rect id="o30" data-shape="rectangle" x="-1467.0" y="-647.4" width="123.5" height="58.3" fill="none" stroke="#dc143c" stroke-width="3" />
+<textArea id="o31" x="-1440.0" y="-1660.4" width="138.6" font-size="14.0" font-family="open_sans" fill="#66cdaa" text-align="left" data-rotation="270">поле для ответа</textArea>
+<textArea id="o32" x="-1567.4" y="-918.2" width="138.6" font-size="14.0" font-family="open_sans" fill="#66cdaa" text-align="left" data-rotation="270">поле для ответа</textArea>
+<ellipse id="o33" cx="-513.7" cy="-1120.9" rx="33.2" ry="33.2" fill="none" stroke="#dc143c" stroke-width="3" data-content="4" data-text-color="#dc143c" data-font-size="28.0" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o34" x="-321.3" y="-1154.1" width="369.6" font-size="28.0" font-family="open_sans" fill="#dc143c" text-align="left">Выполните умножение:</textArea>
+<ellipse id="o35" cx="-2286.2" cy="-257.0" rx="33.2" ry="33.2" fill="none" stroke="#dc143c" stroke-width="3" data-content="5" data-text-color="#dc143c" data-font-size="28.0" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o36" x="-2011.3" y="-290.2" width="572.9" font-size="28.0" font-family="open_sans" fill="#dc143c" text-align="left">Выполните возведение в степень:</textArea>
+<ellipse id="o37" cx="-513.7" cy="-257.0" rx="33.2" ry="33.2" fill="none" stroke="#66cdaa" stroke-width="3" data-content="6" data-text-color="#66cdaa" data-font-size="28.0" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o38" x="-230.9" y="-290.2" width="609.8" font-size="28.0" font-family="open_sans" fill="#66cdaa" text-align="left">Представьте каждый из одночленов:</textArea>
+<image id="o39" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/a18fa20514a3a71a9e81.jpg" x="-1240.0" y="-572.3" width="255.6" height="95.9" />
+<image id="o40" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/50ef7cee83a18ffa640f.jpg" x="-1101.7" y="-484.7" width="548.6" height="75.9" />
+<image id="o41" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/4bae7df4ff18140c40b0.jpg" x="-1101.7" y="-387.3" width="548.6" height="88.4" />
+<image id="o42" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/26ac3f71ab643f2d951f.jpg" x="-1115.9" y="-298.8" width="548.6" height="68.9" />
+<image id="o43" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/7045e59e60e20c02fb9b.jpg" x="-1131.7" y="-227.0" width="548.6" height="76.1" />
+<image id="o44" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/01f8b599eb62b24c10f4.jpg" x="-1149.0" y="-133.8" width="548.6" height="100.2" />
+<rect id="o45" data-shape="rectangle" x="-1284.2" y="-533.5" width="84.0" height="20.9" fill="#ffffff" stroke="none" />
+<rect id="o46" data-shape="rectangle" x="-1190.5" y="-513.0" width="116.8" height="19.2" fill="#ffffff" stroke="none" />
+<rect id="o47" data-shape="rectangle" x="-1318.2" y="-274.2" width="88.7" height="18.9" fill="#ffffff" stroke="none" />
+<rect id="o48" data-shape="rectangle" x="-979.9" y="-274.2" width="88.7" height="18.9" fill="#ffffff" stroke="none" />
+<rect id="o49" data-shape="rectangle" x="-1849.1" y="-1519.7" width="19.6" height="8.0" fill="#ffffff" stroke="none" />
+<rect id="o50" data-shape="rectangle" x="-1170.0" y="-254.6" width="29.8" height="21.9" fill="#ffffff" stroke="none" />
+<rect id="o51" data-shape="rectangle" x="-1258.9" y="-259.5" width="15.8" height="12.1" fill="#ffffff" stroke="none" />
+<image id="o52" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/de2c705dc8d9cea63743.jpg" x="43.1" y="-1838.7" width="1026.1" height="99.6" />
+<image id="o53" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/abc9b0050e631df8d168.jpg" x="43.1" y="-1716.8" width="1026.1" height="104.6" />
+<image id="o54" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/b129e19fd0fe5e7261b2.jpg" x="-1238.7" y="188.3" width="593.2" height="101.2" />
+<image id="o55" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/7c1a9d904add69d86ad6.jpg" x="-1257.4" y="289.8" width="593.2" height="102.0" />
+<image id="o56" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/070019504380f1d7ce5e.jpg" x="-1257.4" y="393.3" width="593.2" height="104.9" />
+<image id="o57" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/c95b6c85582928e01442.jpg" x="-1257.4" y="500.6" width="593.2" height="109.8" />
+<image id="o58" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/1029803b74a03d122ab6.jpg" x="-1957.5" y="-650.8" width="593.2" height="124.1" />
+<image id="o59" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/8636d617af66a83d104a.jpg" x="-256.6" y="-1096.9" width="526.1" height="74.5" />
+<image id="o60" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/822eb9991c04fa9fe655.jpg" x="-256.6" y="-1015.3" width="526.1" height="69.6" />
+<image id="o61" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/f6109a4e4621794b1b04.jpg" x="-256.6" y="-918.7" width="526.1" height="106.0" />
+<image id="o62" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/5e39817b81a52a24e771.jpg" x="-256.6" y="-814.3" width="526.1" height="102.9" />
+<image id="o63" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/a3364065bdfc62f1cc71.jpg" x="-256.6" y="-712.8" width="526.1" height="100.0" />
+<image id="o64" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/14f50cc5f5cacd4733e2.jpg" x="-256.6" y="-617.5" width="526.1" height="118.1" />
+<image id="o65" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/a344083fad2c653eede9.jpg" x="-1850.3" y="-220.0" width="466.9" height="100.3" />
+<image id="o66" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/f1df325a69b63b4eddcb.jpg" x="-1850.3" y="-115.4" width="466.9" height="108.9" />
+<image id="o67" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/e7d32bf48c5baa3dc2fa.jpg" x="-1856.2" y="0.4" width="466.9" height="122.7" />
+<image id="o68" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/f72dcfdbfb87e08fe069.jpg" x="-1856.2" y="144.1" width="466.9" height="129.4" />
+<image id="o69" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/4b2166ec7d137ccbc82a.jpg" x="-1856.2" y="270.3" width="466.9" height="145.1" />
+<image id="o70" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/caa5cdbf74ce38d1768b.jpg" x="-1856.2" y="433.3" width="466.9" height="143.0" />
+<image id="o71" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/00dddc4063a86a2cb103.jpg" x="81.8" y="-196.7" width="1083.9" height="97.8" />
+<image id="o72" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/29d92b08f4a8541e20dc.jpg" x="81.8" y="-70.6" width="1083.9" height="123.5" />
+<image id="ovm2_m2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/64676b16/-2_-2.png" x="-1962.9" y="-1873.7" width="757.8" height="663.2" />
+<image id="ovm2_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/64676b16/-2_-1.png" x="-1669.5" y="-1179.5" width="112.0" height="1173.1" />
+<image id="ovm2_0" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/64676b16/-2_0.png" x="-1686.4" y="3.5" width="63.0" height="429.9" />
+<image id="ovm1_m2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/64676b16/-1_-2.png" x="-1167.8" y="-1785.6" width="1071.6" height="391.4" />
+<image id="ov0_m2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/64676b16/0_-2.png" x="4.1" y="-1693.4" width="388.5" height="209.4" />
+</svg>

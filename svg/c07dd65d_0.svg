@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<textArea id="o1" x="-3325.3" y="-527.2" width="565.5" font-size="61.2" font-family="open_sans" fill="#000000" text-align="left">Задачи из ФИПИ</textArea>
+<textArea id="o2" x="-3225.2" y="353.5" width="851.8" font-size="61.2" font-family="open_sans" fill="#1a1a1a" text-align="left">Физические формулы</textArea>
+<textArea id="o3" x="-3205.6" y="1394.6" width="893.2" font-size="61.2" font-family="open_sans" fill="#1a1a1a" text-align="left">Математические формулы</textArea>
+<rect id="o107" data-shape="triangle" x="-8027.1" y="-4852.9" width="167.9" height="123.6" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o108" data-shape="triangle" x="-7695.5" y="-4845.8" width="214.6" height="152.8" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o109" data-shape="triangle" x="-7270.9" y="-4847.9" width="212.1" height="143.6" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o110" data-shape="triangle" x="-7670.0" y="-4403.7" width="224.7" height="171.7" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o139" data-shape="triangle" x="-8027.1" y="-4852.9" width="167.9" height="123.6" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o140" data-shape="triangle" x="-7695.5" y="-4845.8" width="214.6" height="152.8" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o141" data-shape="triangle" x="-7270.9" y="-4847.9" width="212.1" height="143.6" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o142" data-shape="triangle" x="-7670.0" y="-4403.7" width="224.7" height="171.7" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o197" data-shape="triangle" x="-6818.8" y="-4836.0" width="179.3" height="150.5" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o198" data-shape="triangle" x="-6324.6" y="-4849.5" width="274.6" height="119.5" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o216" data-shape="triangle" x="-6818.8" y="-4836.0" width="179.3" height="150.5" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o217" data-shape="triangle" x="-6324.6" y="-4849.5" width="274.6" height="119.5" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o228" data-shape="triangle" x="-6845.5" y="-4375.9" width="210.9" height="165.5" fill="none" stroke="#000000" stroke-width="3" />
+<ellipse id="o229" cx="-6792.2" cy="-4293.2" rx="54.1" ry="58.2" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o235" data-shape="triangle" x="-6289.1" y="-4393.2" width="143.2" height="122.6" fill="none" stroke="#000000" stroke-width="3" />
+<ellipse id="o236" cx="-6204.5" cy="-4293.2" rx="83.0" ry="82.8" fill="none" stroke="#000000" stroke-width="3" />
+<image id="o430" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/d4f5c6ba-587f-4e55-b5d5-79abe38c914426d49925-ca1b-4984-b378-64e25812102b2f6a746e-ab13-44b7-a245-c895d700bdd0e476df35-9eb3-423e-a61d-66e57d641699/tablitsa-znachenij-trigon-02.webp" x="-4064.9" y="-4280.8" width="419.5" height="244.6" />
+<textArea id="o431" x="-5596.7" y="-5543.5" width="443.0" font-size="94.6" font-family="open_sans" fill="#1a1a1a" text-align="left">Теория</textArea>
+<textArea id="o432" x="-8312.2" y="-5119.9" width="901.4" font-size="113.8" font-family="open_sans" fill="#1a1a1a" text-align="left">Треугольники</textArea>
+<textArea id="o433" x="-8391.1" y="-3500.3" width="322.7" font-size="34.9" font-family="open_sans" fill="#1a1a1a" text-align="left">Параллелограмм</textArea>
+<rect id="o434" data-shape="parallelogram" x="-8391.0" y="-3263.5" width="670.7" height="253.7" fill="none" stroke="#000000" stroke-width="8" />
+<textArea id="o435" x="-8645.7" y="-2998.3" width="207.4" font-size="34.9" font-family="open_sans" fill="#1a1a1a" text-align="left">Свойства:</textArea>
+<textArea id="o444" x="-7503.9" y="-3504.4" width="307.5" font-size="34.9" font-family="open_sans" fill="#1a1a1a" text-align="left">Прямоугольник</textArea>
+<rect id="o445" data-shape="rectangle" x="-7503.9" y="-3243.3" width="776.8" height="288.2" fill="none" stroke="#000000" stroke-width="8" />
+<textArea id="o446" x="-7781.0" y="-2949.8" width="207.4" font-size="34.9" font-family="open_sans" fill="#1a1a1a" text-align="left">Свойства:</textArea>
+<textArea id="o451" x="-6615.6" y="-3504.8" width="110.4" font-size="34.9" font-family="open_sans" fill="#1a1a1a" text-align="left">Ромб</textArea>
+<rect id="o452" data-shape="rhombus" x="-6615.6" y="-3102.2" width="412.3" height="652.6" fill="none" stroke="#000000" stroke-width="8" />
+<textArea id="o453" x="-6842.6" y="-2593.1" width="207.4" font-size="34.9" font-family="open_sans" fill="#1a1a1a" text-align="left">Свойства:</textArea>
+<textArea id="o459" x="-5756.1" y="-3504.8" width="172.8" font-size="34.9" font-family="open_sans" fill="#1a1a1a" text-align="left">Квадрат</textArea>
+<rect id="o460" data-shape="rectangle" x="-5756.1" y="-3122.9" width="549.4" height="549.4" fill="none" stroke="#000000" stroke-width="8" />
+<textArea id="o461" x="-6000.6" y="-2673.4" width="207.4" font-size="34.9" font-family="open_sans" fill="#1a1a1a" text-align="left">Свойства:</textArea>
+<textArea id="o466" x="-4725.4" y="-3504.8" width="186.4" font-size="34.9" font-family="open_sans" fill="#1a1a1a" text-align="left">Трапеция</textArea>
+<rect id="o467" data-shape="trapezoid" x="-4725.4" y="-3060.6" width="901.5" height="584.8" fill="none" stroke="#000000" stroke-width="8" />
+<textArea id="o468" x="-4958.5" y="-2524.1" width="207.4" font-size="34.9" font-family="open_sans" fill="#1a1a1a" text-align="left">Свойства:</textArea>
+<textArea id="o477" x="-8245.7" y="-1683.8" width="2826.5" font-size="21.7" font-family="open_sans" fill="#212529" text-align="left"><i><b>Окружность</b></i><i> — это замкнутая линия, состоящая из множества точек, которые равноудалены от центра окружности</i>. Основной элемент окружности — это радиус, он соединяет центр с любой точкой на окружности.</textArea>
+<image id="o478" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/49ef57e7-a92e-4f08-81be-291d6f18bc6d4d951d7f-6f7c-4f6d-af23-5d3e0076a0174371db51-8dc0-48e4-82e7-4471e9a31ff780a7ebd9-c18e-49db-a0d3-a6a7d88f302e/Screenshot 2024-11-09 at 23.11.45.png" x="-8515.3" y="-1275.3" width="447.0" height="262.4" />
+<image id="o479" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/245ea809-4a40-4a8e-9e33-72f7d61c930c89ef136e-f7dd-475c-9ad7-c247c9b6d21c0c769c32-f244-4f32-a377-a5b784da9bc6d668b080-d5d7-43e9-9b6e-6f24dcc42c5d/Screenshot 2024-11-09 at 23.12.16.png" x="-7925.6" y="-1325.4" width="646.0" height="128.1" />
+<textArea id="o480" x="-8249.0" y="-1034.1" width="3597.3" font-size="24.3" font-family="open_sans" fill="#212529" text-align="left"><b>хорда</b> — это отрезок, который соединяет 2 любые точки на окружности. Если хорда пройдёт через центр окружности, то она превратится в <b>диаметр</b>. Кстати, если внимательно посмотреть, то можно увидеть, что диаметр — это 2 радиуса!</textArea>
+<image id="o481" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/f8e1858a-a6f3-4057-8e88-bd9461e89e7f6ebfb5f6-42af-496d-a993-034ac009874c18a7a4ba-1b3b-4b93-a0c3-c9952daa4e3b6af93ffa-2fc5-4a2c-a41e-da294d9f911a/Screenshot 2024-11-09 at 23.35.31.png" x="-2553.3" y="-1492.3" width="570.3" height="502.9" />
+<textArea id="o482" x="1512.7" y="-1630.2" width="1167.0" font-size="37.3" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Окружность вписана в прямоугольный треугольник</b></textArea>
+<image id="o483" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/aeafe75f-fae9-4ebd-a898-4bc1a2c3b5d36faae4af-8f2d-4e76-8488-bb9663d9f3ea8594e264-d64f-4fe6-a593-e16825e3b64c4062f225-6be1-40a8-bbeb-acf3fffbe943/Screenshot 2024-11-11 at 00.33.22.png" x="1342.4" y="-1380.5" width="740.1" height="392.8" />
+<textArea id="o484" x="2636.5" y="-1630.2" width="846.1" font-size="37.3" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Треугольник вписан в окружность</b></textArea>
+<image id="o485" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/be733643-8287-4bf8-b195-c49e15d5e294915f7072-b774-4688-ad9e-1e80cd7c95fdd2d571fc-369d-4d7a-8cc5-e871db4b28a8b9b4de4f-791e-4c00-a2f8-00117343e535/Screenshot 2024-11-11 at 00.35.13.png" x="2552.1" y="-1383.3" width="614.6" height="387.3" />
+<image id="o486" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/b212142a-5601-4a87-b7d8-9e2c8401bc717b409d1c-8f61-4b62-bff0-665f03db3753725958fc-10af-4298-aefc-2e40c2546385429a0a96-3c28-4423-801f-67270db1d8e8/Screenshot 2024-11-11 at 00.35.53.png" x="2444.2" y="-966.1" width="398.9" height="310.1" />
+<rect id="o487" data-shape="triangle" x="2460.2" y="-609.8" width="300.5" height="149.6" fill="none" stroke="#000000" stroke-width="2" />
+<image id="o499" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/d4f5c6ba-587f-4e55-b5d5-79abe38c914426d49925-ca1b-4984-b378-64e25812102b2f6a746e-ab13-44b7-a245-c895d700bdd0e476df35-9eb3-423e-a61d-66e57d641699/tablitsa-znachenij-trigon-02.webp" x="5033.6" y="-1234.3" width="1142.4" height="666.2" />
+<image id="o502" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/27a8169a-cc23-48ea-a082-382e24df2fca149793b0-2fdb-45e1-b6cc-ff27d090a3fb9d111a72-dece-4a99-b3b4-725d7e485b9578f85b95-3e30-4dda-a589-2dc558e1a318/Screenshot 2024-11-09 at 23.33.26.png" x="-6060.8" y="-540.4" width="960.0" height="375.6" />
+<image id="o503" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/3df2ecc2-0f05-4a7c-aa1f-55928b54e401cc6bec6c-a2ad-4a0d-8d43-601744544fb0c3a7f380-dacb-455d-9a68-83b795624fd55f1fe60e-2cf9-4df5-89d6-cb44ab7680ca/Screenshot 2024-11-09 at 23.35.05.png" x="-4012.0" y="-688.1" width="1046.1" height="671.1" />
+<textArea id="o504" x="2636.5" y="-1630.2" width="846.1" font-size="37.3" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Треугольник вписан в окружность</b></textArea>
+<rect id="o505" data-shape="triangle" x="2460.2" y="-609.8" width="300.5" height="149.6" fill="none" stroke="#000000" stroke-width="2" />
+<textArea id="o519" x="-8482.7" y="-1791.2" width="477.6" font-size="60.8" font-family="open_sans" fill="#1e90ff" text-align="left"><b>ОКРУЖНОСТЬ</b></textArea>
+<ellipse id="o520" cx="-8298.9" cy="-634.2" rx="147.6" ry="147.6" fill="none" stroke="#000000" stroke-width="3" />
+<textArea id="o527" x="-8454.9" y="-700.7" width="40.0" font-size="24.2" font-family="open_sans" fill="#000000" text-align="left">r</textArea>
+<textArea id="o528" x="-8461.8" y="-793.9" width="40.0" font-size="18.4" font-family="open_sans" fill="#000000" text-align="left">d</textArea>
+<ellipse id="o532" cx="-6061.8" cy="-1040.8" rx="150.6" ry="150.6" fill="none" stroke="#000000" stroke-width="3" />
+<textArea id="o541" x="-6202.5" y="-1258.9" width="40.0" font-size="18.3" font-family="open_sans" fill="#000000" text-align="left">r</textArea>
+<textArea id="o542" x="-6192.9" y="-1117.2" width="40.0" font-size="18.3" font-family="open_sans" fill="#000000" text-align="left">r</textArea>
+<textArea id="o546" x="-6060.8" y="-855.3" width="275.4" font-size="50.6" font-family="open_sans" fill="#dc143c" text-align="left">Теоремы</textArea>
+<textArea id="o547" x="2455.7" y="-740.4" width="428.3" font-size="38.2" font-family="open_sans" fill="#000000" text-align="left">Теорема косинусов</textArea>
+<image id="o548" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/9e9a3fd7-280c-4760-ab92-d3370d31346cef1775ed-adce-4c4d-aad3-9511cacf19848653fa65-c765-4593-903d-1a0a0ada21f1cd057355-dc51-455f-8e09-5322513ac3fe/image.png" x="3781.4" y="-1234.3" width="912.0" height="685.2" />
+<image id="o549" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/5d88b3bb40742e729773.jpg" x="-4276.2" y="-1545.5" width="517.7" height="396.5" />
+<ellipse id="o550" cx="-2282.9" cy="-417.7" rx="270.4" ry="270.4" fill="none" stroke="#000000" stroke-width="8" />
+<image id="o570" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/549115b28d58085b1828.jpg" x="-225.4" y="-1393.1" width="663.0" height="655.7" />
+<image id="o571" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/45d7587a-e9e6-434e-83ca-5bf662c020a0a2da2b9d-e743-4c4c-85fd-1754ebc428907297ecc1-e3ca-4f1f-bfb4-dbab3aecc7dd899d8141-52eb-41c1-b69a-31151322f010/image.png" x="1656.7" y="-1713.6" width="61.2" height="60.3" />
+<image id="o572" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/60f9964f-6570-412d-bbd2-038e004103d8691478d8-cb6a-4f1c-932f-ffb3677c0fd863bf77af-7a88-460d-bbc8-3bc439e1acda8cad819d-f705-40fe-8dd6-3d9cf5551865/image.png" x="1656.7" y="-1713.6" width="61.2" height="60.3" />
+<image id="o573" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/5dbd3ba0-7842-415d-bf74-4161491aa195e9917ffe-6b9a-41f3-8d90-21ec1d233eb2e6447a31-0903-401c-b723-f92915082b0ab528d498-0284-4762-ba13-5164b7d21525/image.png" x="-168.5" y="-551.6" width="654.6" height="645.3" />
+<textArea id="o574" x="-142.2" y="-5015.1" width="397.8" font-size="38.0" font-family="open_sans" fill="#1a1a1a" text-align="left">Теорема Менелая</textArea>
+<rect id="o575" data-shape="triangle" x="-200.9" y="-4848.3" width="306.3" height="207.2" fill="none" stroke="#1e90ff" stroke-width="7" />
+<textArea id="o580" x="-7446.9" y="2386.4" width="2829.8" font-size="135.0" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Треугольники и четырёхугольники</b></textArea>
+<image id="o581" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/5af1357223f68b363f2e.jpg" x="-8203.5" y="2731.8" width="1107.0" height="124.0" />
+<image id="o582" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/b395744e71f55a3d7247.jpg" x="-6966.4" y="2726.3" width="833.0" height="135.0" />
+<image id="o583" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/747c23e6f780e569d3d8.jpg" x="-5448.4" y="2726.3" width="1662.0" height="135.0" />
+<image id="o584" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/704eab8973fb8621f1ed.jpg" x="-3596.1" y="2726.3" width="1571.3" height="135.0" />
+<image id="o585" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/7626da304eb3681b2104.jpg" x="-2085.4" y="2726.3" width="1105.0" height="135.0" />
+<image id="o586" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/3a815a0599baae857652.jpg" x="-944.2" y="2726.3" width="897.1" height="135.0" />
+<image id="o587" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/a28174b7673a9f1db268.jpg" x="49.5" y="2711.9" width="831.0" height="106.1" />
+<image id="o588" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/762e26eb9ad752d6f572.jpg" x="962.2" y="2695.9" width="835.0" height="74.1" />
+<image id="o589" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/09ded7a292a79a82886e.jpg" x="1883.1" y="2711.6" width="837.0" height="70.6" />
+<image id="o590" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/c5ce300c99fecff21d50.jpg" x="2837.1" y="2719.1" width="838.0" height="85.6" />
+<image id="o591" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/567d3b9856f664df4d1a.jpg" x="3758.3" y="2719.8" width="832.0" height="93.4" />
+<image id="o592" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/32844f1ca10139819182.jpg" x="4647.0" y="2723.0" width="826.0" height="93.4" />
+<image id="o593" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/4037677e57970db2c98c.jpg" x="5592.5" y="2715.4" width="838.0" height="93.1" />
+<textArea id="o594" x="-6295.4" y="5935.2" width="5317.0" font-size="135.0" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Окружности и многоугольники</b></textArea>
+<image id="o595" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/b71d9ce1b47accc0932a.jpg" x="-8340.5" y="6169.1" width="833.0" height="110.3" />
+<image id="o596" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/1c134f822eb0b70550e7.jpg" x="-7410.2" y="6169.1" width="841.0" height="110.3" />
+<image id="o597" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/ce0619412f8e7b8fcaa6.jpg" x="-6491.4" y="6151.4" width="831.0" height="75.0" />
+<image id="o598" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/d009af56684100ce9903.jpg" x="-5575.5" y="6160.0" width="831.0" height="92.1" />
+<image id="o599" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/d3b20a8dc2bb5fe49843.jpg" x="-4676.4" y="6162.3" width="833.0" height="96.8" />
+<image id="o600" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/1e2babe74f440ac486cd.jpg" x="-3794.4" y="6162.3" width="828.0" height="96.8" />
+<image id="o601" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/cca3165c6dfdcc6e4ff2.jpg" x="-2905.2" y="6155.7" width="830.0" height="100.6" />
+<image id="o602" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/b203362987912ced9170.jpg" x="-2009.2" y="6155.7" width="833.0" height="100.6" />
+<image id="o603" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/1683e7106cea174bb9bd.jpg" x="-1096.0" y="6155.7" width="833.0" height="100.6" />
+<image id="o604" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/bfe5390c32d4b4e6a588.jpg" x="-207.1" y="6167.0" width="828.9" height="123.2" />
+<image id="o605" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/8d5e6be9b46197d06606.jpg" x="715.9" y="6167.0" width="829.0" height="123.2" />
+<image id="o606" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/f9c0d85c98ade3355cd5.jpg" x="1639.3" y="6167.0" width="837.0" height="123.2" />
+<image id="o607" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/6d6d02b2ba7db2b26b05.jpg" x="2549.3" y="6171.5" width="834.0" height="122.2" />
+<image id="o608" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/3f59f7374e705f340eb9.jpg" x="3460.5" y="6169.5" width="878.3" height="126.2" />
+<image id="o609" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/f959c7bef4a7a305e759.jpg" x="4385.6" y="6149.5" width="827.0" height="86.2" />
+<textArea id="o658" x="-973.3" y="-5015.1" width="751.4" font-size="38.0" font-family="open_sans" fill="#1a1a1a" text-align="left">Признаки подобия треугольников</textArea>
+<textArea id="o703" x="-2553.3" y="-6295.7" width="14131.1" font-size="793.0" font-family="open_sans" fill="#1a1a1a" text-align="left">материал для копирования!!!</textArea>
+<image id="ovm7_m4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-7_-4.png" x="-8595.3" y="-4997.3" width="367.3" height="488.7" />
+<image id="ovm7_m3" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-7_-3.png" x="-8746.7" y="-2916.7" width="90.7" height="186.0" />
+<image id="ovm7_m2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-7_-2.png" x="-8736.7" y="-2730.7" width="60.7" height="115.3" />
+<image id="ovm7_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-7_-1.png" x="-8595.3" y="-909.3" width="403.3" height="476.7" />
+<image id="ovm7_2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-7_2.png" x="-8688.0" y="2779.3" width="168.0" height="36.0" />
+<image id="ovm7_4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-7_4.png" x="-8692.0" y="6210.7" width="142.0" height="32.0" />
+<image id="ovm6_m4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-6_-4.png" x="-8181.3" y="-5000.7" width="1346.7" height="904.7" />
+<image id="ovm6_m3" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-6_-3.png" x="-7881.3" y="-4096.0" width="430.7" height="1365.3" />
+<image id="ovm6_m2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-6_-2.png" x="-7864.7" y="-2730.7" width="1012.0" height="451.3" />
+<image id="ovm6_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-6_-1.png" x="-8192.0" y="-910.0" width="58.7" height="551.3" />
+<image id="ovm6_2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-6_2.png" x="-7345.3" y="2730.7" width="186.7" height="92.0" />
+<image id="ovm6_4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-6_4.png" x="-7772.7" y="6219.3" width="138.7" height="38.0" />
+<image id="ovm5_m4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-5_-4.png" x="-6820.0" y="-5014.7" width="1358.7" height="918.0" />
+<image id="ovm5_m2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-5_-2.png" x="-6388.0" y="-2591.3" width="377.3" height="1226.0" />
+<image id="ovm5_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-5_-1.png" x="-6416.0" y="-1365.3" width="764.0" height="782.0" />
+<image id="ovm4_m4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-4_-4.png" x="-5461.3" y="-5022.0" width="1365.3" height="926.0" />
+<image id="ovm4_m3" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-4_-3.png" x="-5088.7" y="-4096.0" width="8.0" height="108.0" />
+<image id="ovm4_m2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-4_-2.png" x="-5059.3" y="-2442.0" width="90.7" height="300.7" />
+<image id="ovm4_1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-4_1.png" x="-4210.0" y="2717.3" width="114.0" height="13.3" />
+<image id="ovm4_2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-4_2.png" x="-4896.0" y="2730.7" width="800.0" height="88.7" />
+<image id="ovm4_4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-4_4.png" x="-4467.3" y="6041.3" width="25.3" height="25.3" />
+<image id="ovm3_m4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-3_-4.png" x="-4096.0" y="-5016.0" width="1365.3" height="868.0" />
+<image id="ovm3_2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-3_2.png" x="-4096.0" y="2731.3" width="465.3" height="446.0" />
+<image id="ovm3_4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-3_4.png" x="-3253.3" y="6202.0" width="140.0" height="32.7" />
+<image id="ovm2_m4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-2_-4.png" x="-2730.7" y="-5010.0" width="1284.7" height="914.0" />
+<image id="ovm2_m3" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-2_-3.png" x="-2196.7" y="-4096.0" width="22.7" height="906.0" />
+<image id="ovm2_m2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-2_-2.png" x="-2574.7" y="-1702.7" width="844.7" height="103.3" />
+<image id="ovm2_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-2_-1.png" x="-2559.3" y="-924.7" width="927.3" height="529.3" />
+<image id="ovm2_2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-2_2.png" x="-2559.3" y="2796.0" width="162.7" height="36.7" />
+<image id="ovm2_4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-2_4.png" x="-2376.0" y="6203.3" width="1010.7" height="36.7" />
+<image id="ovm1_m4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-1_-4.png" x="-1313.3" y="-4885.3" width="1313.3" height="530.0" />
+<image id="ovm1_2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-1_2.png" x="-1330.0" y="2759.3" width="1149.3" height="54.0" />
+<image id="ovm1_4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/-1_4.png" x="-1365.3" y="6209.3" width="969.3" height="43.3" />
+<image id="ov0_m4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/0_-4.png" x="0.0" y="-4809.3" width="214.0" height="66.7" />
+<image id="ov0_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/0_-1.png" x="1249.3" y="-1306.7" width="116.0" height="223.3" />
+<image id="ov0_4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/0_4.png" x="359.3" y="6203.3" width="1006.0" height="54.7" />
+<image id="ov1_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/1_-1.png" x="1365.3" y="-1285.3" width="1365.3" height="789.3" />
+<image id="ov1_2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/1_2.png" x="2480.7" y="2754.7" width="133.3" height="37.3" />
+<image id="ov1_4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/1_4.png" x="1365.3" y="6205.3" width="1000.0" height="44.0" />
+<image id="ov2_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/2_-1.png" x="2730.7" y="-1206.7" width="1365.3" height="532.0" />
+<image id="ov2_2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/2_2.png" x="3398.7" y="2754.0" width="117.3" height="36.0" />
+<image id="ov2_4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/2_4.png" x="3094.7" y="6182.0" width="1001.3" height="62.0" />
+<image id="ov3_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/3_-1.png" x="4096.0" y="-1237.3" width="289.3" height="324.0" />
+<image id="ov3_2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/3_2.png" x="4293.3" y="2746.0" width="1075.3" height="43.3" />
+<image id="ov3_4" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/c07dd65d/3_4.png" x="4096.0" y="6185.3" width="44.7" height="30.0" />
+</svg>

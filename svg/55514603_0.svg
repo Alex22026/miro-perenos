@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<textArea id="o1" x="-3233.0" y="-2101.3" width="291.2" font-size="28.1" font-family="open_sans" fill="#9985ff" text-align="left"><b>ВЫРАЖЕНИЯ</b></textArea>
+<textArea id="o3" x="-3448.3" y="-1973.2" width="111.2" font-size="21.1" font-family="open_sans" fill="#7bb5f4" text-align="center">Числовые</textArea>
+<textArea id="o5" x="-3079.4" y="-1958.1" width="268.7" font-size="21.1" font-family="open_sans" fill="#f07695" text-align="center">Буквенные   <br/>(с переменными)</textArea>
+<textArea id="o6" x="-3575.9" y="-1846.2" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">5</textArea>
+<textArea id="o7" x="-3575.9" y="-1846.2" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">_</textArea>
+<textArea id="o8" x="-3575.9" y="-1829.1" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">7</textArea>
+<textArea id="o9" x="-3559.1" y="-1838.0" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">+</textArea>
+<textArea id="o10" x="-3540.6" y="-1846.2" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">6</textArea>
+<textArea id="o11" x="-3540.6" y="-1846.2" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">_</textArea>
+<textArea id="o12" x="-3540.6" y="-1829.1" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">13</textArea>
+<textArea id="o13" x="-3568.9" y="-1789.7" width="81.7" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">- 16 : </textArea>
+<textArea id="o14" x="-3518.9" y="-1789.7" width="136.2" font-size="29.5" font-family="open_sans" fill="#7bb5f4" text-align="center">(     )</textArea>
+<textArea id="o15" x="-3531.4" y="-1789.7" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">-</textArea>
+<textArea id="o16" x="-3518.9" y="-1795.8" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">8</textArea>
+<textArea id="o17" x="-3518.9" y="-1795.8" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">_</textArea>
+<textArea id="o18" x="-3518.9" y="-1778.3" width="40.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">3</textArea>
+<textArea id="o19" x="-3348.6" y="-1686.1" width="493.0" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center"><b>Значение выражения</b> - число,<br/> которое мы получим, когда решим числовое выражение<br/>Например:</textArea>
+<textArea id="o20" x="-3507.8" y="-1607.2" width="81.7" font-size="17.7" font-family="open_sans" fill="#9985ff" text-align="center">- 16 : </textArea>
+<textArea id="o21" x="-3457.8" y="-1607.2" width="136.2" font-size="29.5" font-family="open_sans" fill="#9985ff" text-align="center">(     )</textArea>
+<textArea id="o22" x="-3470.2" y="-1607.2" width="40.0" font-size="17.7" font-family="open_sans" fill="#9985ff" text-align="center">-</textArea>
+<textArea id="o23" x="-3457.8" y="-1613.3" width="40.0" font-size="17.7" font-family="open_sans" fill="#9985ff" text-align="center">8</textArea>
+<textArea id="o24" x="-3457.8" y="-1613.3" width="40.0" font-size="17.7" font-family="open_sans" fill="#9985ff" text-align="center">_</textArea>
+<textArea id="o25" x="-3457.8" y="-1595.7" width="40.0" font-size="17.7" font-family="open_sans" fill="#9985ff" text-align="center">3</textArea>
+<textArea id="o26" x="-3408.1" y="-1607.2" width="40.0" font-size="17.7" font-family="open_sans" fill="#9985ff" text-align="center">= </textArea>
+<textArea id="o27" x="-3382.8" y="-1607.2" width="40.0" font-size="17.7" font-family="open_sans" fill="#8822f4" text-align="center">6</textArea>
+<textArea id="o28" x="-3429.9" y="-1571.0" width="257.4" font-size="17.0" font-family="open_sans" fill="#9985ff" text-align="left">6 - значение выражения</textArea>
+<textArea id="o29" x="-3371.9" y="-1477.7" width="444.8" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="left">Если в выражении есть деление <br/>на 0, то выражение не имеет числового значения, как как на 0 делить нельзя. Такое выражение не имеет смысла.</textArea>
+<textArea id="o30" x="-3195.6" y="-1902.1" width="93.4" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="center">Пример: </textArea>
+<textArea id="o31" x="-3152.3" y="-1871.5" width="40.0" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="left">1</textArea>
+<textArea id="o33" x="-3163.2" y="-1846.2" width="58.4" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="left">x - y</textArea>
+<textArea id="o34" x="-3164.9" y="-1803.6" width="58.4" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="left">2 * a</textArea>
+<textArea id="o35" x="-3164.9" y="-1756.3" width="93.4" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="left">10 + a*b</textArea>
+<textArea id="o36" x="-3079.4" y="-1698.7" width="293.7" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="center">Буквы в выражениях с <br/>переменными называют - переменными</textArea>
+<textArea id="o37" x="-3079.4" y="-1559.8" width="307.7" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="center">Если в выражение с переменными вместо переменных подставить числа, то получится - числовое выражение<br/>Например:</textArea>
+<textArea id="o38" x="-3143.9" y="-1402.4" width="173.1" font-size="11.8" font-family="open_sans" fill="#9985ff" text-align="left">Периметр прямоугольника <br/>находится по формуле: <br/>2* (a + b) </textArea>
+<textArea id="o39" x="-3104.9" y="-1331.5" width="257.5" font-size="11.8" font-family="open_sans" fill="#9985ff" text-align="left">2* (a + b) - выражение с переменными<br/>a и b - переменные и стороны прямоугольника</textArea>
+<rect id="o40" data-shape="rectangle" x="-3079.4" y="-1251.0" width="171.6" height="60.0" fill="#ffffff" stroke="#9985ff" stroke-width="3" />
+<textArea id="o41" x="-3164.6" y="-1254.4" width="40.0" font-size="17.7" font-family="open_sans" fill="#ff0371" text-align="left">a</textArea>
+<textArea id="o42" x="-3066.0" y="-1293.6" width="40.0" font-size="17.7" font-family="open_sans" fill="#ff0371" text-align="left">b</textArea>
+<textArea id="o43" x="-3105.8" y="-1185.1" width="263.2" font-size="11.8" font-family="open_sans" fill="#9985ff" text-align="left">Пусть сторона а = 3, а сторона b = 4<br/>Тогда мы можем подставить значения в формулу</textArea>
+<textArea id="o44" x="-3091.3" y="-1102.1" width="294.5" font-size="11.8" font-family="open_sans" fill="#9985ff" text-align="left">2 * ( 3 + 4 ) - мы получили числовое выражение<br/><br/>Посчитаем: 2 * (3 + 4) = 2 * 7 = 14<br/>14 - значение выражения</textArea>
+<textArea id="o45" x="-3091.3" y="-943.3" width="271.6" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="center">Некоторые выражения имеют значения при всех значениях переменных. Например: <br/>y * ( x + 2) или a * b - 4<br/><br/>Некоторые - нет. <br/>Например:</textArea>
+<textArea id="o46" x="-3079.4" y="-825.2" width="40.0" font-size="17.7" font-family="open_sans" fill="#9985ff" text-align="center">x</textArea>
+<textArea id="o48" x="-3079.4" y="-800.0" width="58.4" font-size="17.7" font-family="open_sans" fill="#9985ff" text-align="center">x - 2</textArea>
+<textArea id="o49" x="-3144.5" y="-756.7" width="202.4" font-size="11.8" font-family="open_sans" fill="#9985ff" text-align="center">При x = 2 получается дробь</textArea>
+<textArea id="o50" x="-3021.8" y="-766.6" width="40.0" font-size="17.7" font-family="open_sans" fill="#8822f4" text-align="left">2</textArea>
+<textArea id="o52" x="-3021.8" y="-746.8" width="40.0" font-size="17.7" font-family="open_sans" fill="#8822f4" text-align="left">0</textArea>
+<textArea id="o53" x="-3109.8" y="-683.7" width="248.5" font-size="11.8" font-family="open_sans" fill="#9985ff" text-align="left">В знаменателе стоит 0, но на него делить нельзя!<br/>Значит, такое выражение не имеет смысла при x = 2, и значение этого выражения найти нельзя</textArea>
+<textArea id="o54" x="-3091.3" y="-568.1" width="297.8" font-size="11.8" font-family="open_sans" fill="#9985ff" text-align="left">При x   2 выражение имеет смысл, можно посчитать значение<br/><br/>Например, если x = 4 , то </textArea>
+<textArea id="o55" x="-3191.7" y="-593.4" width="40.0" font-size="11.8" font-family="open_sans" fill="#8822f4" text-align="center">=</textArea>
+<textArea id="o57" x="-3039.7" y="-562.8" width="40.0" font-size="17.7" font-family="open_sans" fill="#8822f4" text-align="center">4</textArea>
+<textArea id="o59" x="-3039.7" y="-542.7" width="58.4" font-size="17.7" font-family="open_sans" fill="#8822f4" text-align="center">4 - 2</textArea>
+<textArea id="o60" x="-2993.9" y="-553.0" width="40.0" font-size="17.7" font-family="open_sans" fill="#8822f4" text-align="center">=</textArea>
+<textArea id="o61" x="-2974.6" y="-562.8" width="40.0" font-size="17.7" font-family="open_sans" fill="#8822f4" text-align="center">4</textArea>
+<textArea id="o63" x="-2972.4" y="-544.6" width="40.0" font-size="17.7" font-family="open_sans" fill="#8822f4" text-align="center">2</textArea>
+<textArea id="o64" x="-2953.6" y="-553.0" width="40.0" font-size="17.7" font-family="open_sans" fill="#8822f4" text-align="center">=</textArea>
+<textArea id="o65" x="-2939.2" y="-553.0" width="40.0" font-size="17.7" font-family="open_sans" fill="#8822f4" text-align="center">2</textArea>
+<textArea id="o66" x="-1991.2" y="-1989.9" width="574.7" font-size="28.5" font-family="open_sans" fill="#7bb5f4" text-align="center"><b>Задания для числовых выражений</b></textArea>
+<textArea id="o67" x="-2315.0" y="-1817.3" width="61.6" font-size="28.5" font-family="open_sans" fill="#7bb5f4" text-align="center">1</textArea>
+<textArea id="o68" x="-2173.7" y="-1820.8" width="280.2" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="center">1) -5,3 + (-2,7) =</textArea>
+<ellipse id="o69" cx="-2287.0" cy="-1789.3" rx="28.0" ry="28.0" fill="none" stroke="#7bb5f4" stroke-width="3" />
+<textArea id="o70" x="-1481.5" y="-1813.5" width="61.6" font-size="28.5" font-family="open_sans" fill="#7bb5f4" text-align="center">2</textArea>
+<ellipse id="o71" cx="-1453.5" cy="-1785.5" rx="28.0" ry="28.0" fill="none" stroke="#7bb5f4" stroke-width="3" />
+<textArea id="o72" x="-1329.9" y="-1817.0" width="233.5" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">1) 3,7 - 9,2 = </textArea>
+<ellipse id="o73" cx="-725.8" cy="-1785.5" rx="28.0" ry="28.0" fill="none" stroke="#7bb5f4" stroke-width="3" data-content="3" data-text-color="#7bb5f4" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o74" x="-591.8" y="-1817.0" width="249.1" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">1) -2,5 * (-4) =</textArea>
+<ellipse id="o75" cx="60.8" cy="-1781.7" rx="28.0" ry="28.0" fill="none" stroke="#7bb5f4" stroke-width="3" data-content="4" data-text-color="#7bb5f4" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o76" x="171.2" y="-1820.8" width="295.8" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">1) -9,1 : (-1,3) = </textArea>
+<textArea id="o77" x="-2014.1" y="-1887.9" width="576.0" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">Найдите значение числового выражения:</textArea>
+<textArea id="o78" x="-1960.7" y="-1527.8" width="731.7" font-size="23.6" font-family="open_sans" fill="#9985ff" text-align="left">Сопоставьте числовое выражение и его значение: </textArea>
+<ellipse id="o79" cx="-2287.0" cy="-1437.4" rx="28.0" ry="28.0" fill="none" stroke="#9985ff" stroke-width="3" data-content="5" data-text-color="#9985ff" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o80" x="-1770.8" y="-1332.5" width="152.1" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">Выражение:<br/> <br/>1) -2,4 + 5,1<br/><br/>2) -3,5 - 2,5<br/><br/>3) -0,6 * 5<br/><br/>4) 12 : (-0,4)</textArea>
+<textArea id="o81" x="-1419.3" y="-1332.5" width="379.7" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">Ответ: <br/><br/>а) -30<br/><br/>б) 2,7<br/><br/>с) -6 <br/><br/>д) -3</textArea>
+<textArea id="o82" x="-2164.4" y="-1383.0" width="206.2" font-size="23.6" font-family="open_sans" fill="#9985ff" text-align="left">Пример: <br/><br/>Выражение: <br/>1) 2 + 2<br/><br/>2) 2 : 1</textArea>
+<textArea id="o83" x="-2029.1" y="-1349.4" width="86.0" font-size="23.6" font-family="open_sans" fill="#9985ff" text-align="left">Ответ: <br/>а) 2<br/><br/>б) 4</textArea>
+<ellipse id="o84" cx="-725.8" cy="-1437.4" rx="28.0" ry="28.0" fill="none" stroke="#9985ff" stroke-width="3" data-content="6" data-text-color="#9985ff" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o85" x="-490.5" y="-1527.8" width="467.0" font-size="23.6" font-family="open_sans" fill="#9985ff" text-align="left">Вычислите значение выражения: </textArea>
+<ellipse id="o86" cx="-2287.0" cy="-728.3" rx="28.0" ry="28.0" fill="none" stroke="#9985ff" stroke-width="3" data-content="7" data-text-color="#9985ff" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o87" x="-1981.6" y="-834.8" width="623.1" font-size="23.6" font-family="open_sans" fill="#9985ff" text-align="left">Какое из выражений НЕ имеет смысла? <br/>(Поставьте галочку/крестик в квадрат рядом с выражением)</textArea>
+<ellipse id="o88" cx="-725.8" cy="-747.5" rx="28.0" ry="28.0" fill="none" stroke="#9985ff" stroke-width="3" data-content="8" data-text-color="#9985ff" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o89" x="-635.6" y="-832.4" width="124.5" font-size="23.6" font-family="open_sans" fill="#9985ff" text-align="left">Найдите:</textArea>
+<textArea id="o90" x="-470.2" y="-775.5" width="462.2" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">а) 2% от числа 150</textArea>
+<textArea id="o91" x="-2177.8" y="-360.5" width="218.0" font-size="23.6" font-family="open_sans" fill="#d37ec6" text-align="left">Решите задачу:</textArea>
+<ellipse id="o92" cx="-2289.3" cy="-276.6" rx="28.0" ry="28.0" fill="none" stroke="#d37ec6" stroke-width="3" data-content="9" data-text-color="#d37ec6" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o93" x="-1806.7" y="-272.7" width="2895.6" font-size="23.6" font-family="open_sans" fill="#962c78" text-align="left"> На упаковке шоколадного батончика «Твикс» указано, что в нём содержится 4% белка, 40% углеводов и 24% жиров. Какая масса каждого из этих веществ содержится в одном батончике весом 50 г?</textArea>
+<ellipse id="o94" cx="-2292.3" cy="74.3" rx="28.0" ry="28.0" fill="none" stroke="#d37ec6" stroke-width="3" data-content="10" data-text-color="#d37ec6" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o95" x="-1818.1" y="52.0" width="1774.7" font-size="23.6" font-family="open_sans" fill="#962c78" text-align="left">Один сборщик Lego собирает за час 50 деталей, а другой — 70 деталей. Сколько деталей они соберут вместе за 3 часа?</textArea>
+<textArea id="o96" x="1438.9" y="-1973.7" width="592.3" font-size="28.5" font-family="open_sans" fill="#7bb5f4" text-align="center"><b>Задания для буквенных выражений</b></textArea>
+<ellipse id="o97" cx="1136.3" cy="-1784.6" rx="28.0" ry="28.0" fill="none" stroke="#7bb5f4" stroke-width="3" data-content="1" data-text-color="#7bb5f4" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o98" x="1410.5" y="-1857.7" width="531.1" font-size="23.6" font-family="open_sans" fill="#7bb5f4" text-align="left">Найдите значение выражения</textArea>
+<ellipse id="o99" cx="2055.6" cy="-1784.6" rx="28.0" ry="28.0" fill="none" stroke="#7bb5f4" stroke-width="3" data-content="2" data-text-color="#7bb5f4" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o101" x="2543.0" y="-1840.8" width="1307.7" font-size="23.6" font-family="open_sans" fill="#7bb5f4" text-align="left">Заполните таблицу, вычислив значения выражений 2c+3 и −2c−3 для указанных значений c</textArea>
+<textArea id="o102" x="2152.7" y="-1693.4" width="77.8" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">2c+3 </textArea>
+<textArea id="o103" x="2141.0" y="-1631.2" width="93.4" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left"> −2c−3</textArea>
+<textArea id="o104" x="2274.8" y="-1760.6" width="50.9" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">-2</textArea>
+<textArea id="o105" x="2390.5" y="-1760.6" width="50.9" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">-1</textArea>
+<textArea id="o106" x="2505.6" y="-1760.6" width="50.9" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">0</textArea>
+<textArea id="o107" x="2624.9" y="-1760.6" width="50.9" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">1</textArea>
+<textArea id="o108" x="2737.4" y="-1760.6" width="50.9" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">2</textArea>
+<ellipse id="o109" cx="1142.9" cy="-1328.0" rx="28.0" ry="28.0" fill="none" stroke="#7bb5f4" stroke-width="3" data-content="3" data-text-color="#7bb5f4" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o110" x="1348.1" y="-1385.4" width="404.8" font-size="23.6" font-family="open_sans" fill="#7bb5f4" text-align="left">Найдите значение выражения</textArea>
+<textArea id="o111" x="1328.1" y="-1344.9" width="326.9" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">1) 4<i>m</i>−5<i>n</i> при m=2, n=3</textArea>
+<textArea id="o112" x="1485.1" y="-1265.7" width="660.4" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">2) px−kx+d при p=5, x=4, k=2, d=10</textArea>
+<ellipse id="o113" cx="2055.6" cy="-1276.6" rx="28.0" ry="28.0" fill="none" stroke="#7bb5f4" stroke-width="3" data-content="4" data-text-color="#7bb5f4" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o114" x="2524.5" y="-1334.0" width="1385.5" font-size="23.6" font-family="open_sans" fill="#7bb5f4" text-align="left">Поставьте галочку/крестик в квадрат рядом с выражением, если оно имеет смысл при любом х:</textArea>
+<ellipse id="o115" cx="1136.3" cy="-768.9" rx="28.0" ry="28.0" fill="none" stroke="#9985ff" stroke-width="3" data-content="5" data-text-color="#9985ff" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o116" x="1253.4" y="-851.0" width="218.0" font-size="23.6" font-family="open_sans" fill="#9985ff" text-align="left">Решите задачу:</textArea>
+<textArea id="o117" x="1623.8" y="-750.7" width="3144.7" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">На киноплощадке работало 3 группы каскадёров, по а человек в каждой, и 2 группы постановщиков трюков, по b человек в каждой. Сколько всего человек работало на киноплощадке? Вычислите при a = 15 и b = 10</textArea>
+<textArea id="o118" x="1623.8" y="-170.7" width="2397.5" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left"> Ребро куба равно а м. От этого куба отрезали прямоугольный параллелепипед, высота которого равна h м. Найдите объём оставшейся части, если а = 10 и h = 7</textArea>
+<ellipse id="o119" cx="1136.3" cy="-187.9" rx="28.0" ry="28.0" fill="none" stroke="#9985ff" stroke-width="3" data-content="6" data-text-color="#9985ff" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<image id="o120" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/69d184ed-2113-4039-a30b-bbad0c8f3cbb69d04b7c-485b-413a-98e2-f58e3d17dfeb132daea7-1c0f-4dd5-b475-c52dd560e3a21b690fed-88a8-45c2-8755-5a9b06085d93/clipboard-file.png" x="2336.4" y="-45.9" width="435.6" height="384.4" />
+<textArea id="o121" x="-3338.9" y="105.8" width="400.1" font-size="28.1" font-family="open_sans" fill="#9985ff" text-align="left"><b>СРАВНЕНИЕ ВЫРАЖЕНИЙ</b></textArea>
+<textArea id="o123" x="-3527.3" y="240.5" width="111.2" font-size="21.1" font-family="open_sans" fill="#7bb5f4" text-align="center">Числовые</textArea>
+<textArea id="o125" x="-3158.3" y="255.7" width="268.7" font-size="21.1" font-family="open_sans" fill="#f07695" text-align="center">Буквенные   <br/>(с переменными)</textArea>
+<textArea id="o126" x="-3527.2" y="411.3" width="320.7" font-size="17.7" font-family="open_sans" fill="#7bb5f4" text-align="center">Для любых двух числовых выражений можно установить, равны<br/>их значения или нет, и если они не равны, то какое-то из них больше<br/>и какое-то меньше<br/><br/>Пример:<br/>20 + 7 &gt; 13<br/>1 &lt; 101<br/>2 + 10 = 12</textArea>
+<textArea id="o127" x="-3151.7" y="409.8" width="302.6" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="center">Для разных значений<br/>переменных результат сравнения значений этих выражений может<br/>оказаться различным. <br/><br/>Например: <br/>сравним выражения 2а и а+5</textArea>
+<textArea id="o128" x="-3151.7" y="596.9" width="345.1" font-size="17.7" font-family="open_sans" fill="#9985ff" text-align="center">Если а = 0, то 2а=0, а+5=5, <br/>тогда 2а &lt; а+5<br/>Если а=10, то 2а=20, а+5=15, <br/>тогда 2а &gt; а+5</textArea>
+<textArea id="o129" x="-3146.9" y="719.4" width="334.6" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="center">Существуют двойные неравенства: <br/>20 &lt; x &lt; 45</textArea>
+<textArea id="o130" x="-3151.7" y="791.6" width="291.9" font-size="17.7" font-family="open_sans" fill="#f07695" text-align="center">и нестрогие неравенства: </textArea>
+<textArea id="o131" x="-3146.9" y="838.8" width="92.1" font-size="17.7" font-family="open_sans" fill="#ff0371" text-align="center">a &gt; 76<br/>b &lt; 89</textArea>
+<textArea id="o134" x="-1972.3" y="667.8" width="586.9" font-size="28.5" font-family="open_sans" fill="#7bb5f4" text-align="center"><b>Задания для сравнения выражений</b></textArea>
+<ellipse id="o135" cx="-2261.1" cy="849.3" rx="28.0" ry="28.0" fill="none" stroke="#7bb5f4" stroke-width="3" data-content="1" data-text-color="#7bb5f4" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o136" x="-2053.7" y="762.9" width="451.5" font-size="23.6" font-family="open_sans" fill="#7bb5f4" text-align="left">Сравните числовые выражения: </textArea>
+<ellipse id="o137" cx="-699.4" cy="838.1" rx="28.0" ry="28.0" fill="none" stroke="#7bb5f4" stroke-width="3" data-content="2" data-text-color="#7bb5f4" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o138" x="-500.0" y="770.8" width="451.5" font-size="23.6" font-family="open_sans" fill="#7bb5f4" text-align="left">Сравните значения выражений: </textArea>
+<textArea id="o139" x="-482.8" y="822.3" width="607.2" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">а) 3n - 1,2  и  1,2n - 3   при n = -1  </textArea>
+<ellipse id="o140" cx="-2261.1" cy="1323.2" rx="28.0" ry="28.0" fill="none" stroke="#9985ff" stroke-width="3" data-content="3" data-text-color="#9985ff" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o141" x="-1988.8" y="1250.4" width="591.6" font-size="23.6" font-family="open_sans" fill="#9985ff" text-align="left">Запишите в виде двойного неравенства: </textArea>
+<textArea id="o142" x="-2002.3" y="1308.5" width="544.9" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">а) t больше или равно 5 и меньше 18</textArea>
+<textArea id="o143" x="-499.3" y="1308.5" width="380.4" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">1) 5 ≤ 10 &lt;15</textArea>
+<ellipse id="o144" cx="-699.4" cy="1323.2" rx="28.0" ry="28.0" fill="none" stroke="#9985ff" stroke-width="3" data-content="4" data-text-color="#9985ff" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o145" x="-407.9" y="1250.4" width="653.9" font-size="23.6" font-family="open_sans" fill="#9985ff" text-align="left">Определите, верны ли двойные неравенства: </textArea>
+<ellipse id="o146" cx="-2261.1" cy="1884.6" rx="28.0" ry="28.0" fill="none" stroke="#9985ff" stroke-width="3" data-content="5" data-text-color="#9985ff" data-font-size="23.6" data-font-family="open_sans" data-text-align="center" data-text-align-vertical="middle" />
+<textArea id="o147" x="-2136.4" y="1811.8" width="233.5" font-size="23.6" font-family="open_sans" fill="#9985ff" text-align="left">Решите задачу: </textArea>
+<textArea id="o148" x="-1655.7" y="1932.9" width="1236.6" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">Автомобиль «Ауди» проехал 700 км за <b>x</b> ч, а  автомобиль «БМВ» проехал 630 км за <b>y</b> ч. Сравните средние скорости автомобилей, если:<br/>а) x=12,5, y=10,5<br/>б) x=y=14</textArea>
+<image id="o149" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/d987de2500f529501d95.jpg" x="-470.2" y="-1452.5" width="461.0" height="63.3" />
+<image id="o150" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/8517e337a73318c58afb.jpg" x="-1837.4" y="-702.9" width="899.3" height="162.6" />
+<textArea id="o151" x="-2180.7" y="-13.3" width="218.0" font-size="23.6" font-family="open_sans" fill="#d37ec6" text-align="left">Решите задачу:</textArea>
+<image id="o152" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/136f6996c33b0de22ad9.jpg" x="2571.1" y="-1211.0" width="1004.8" height="189.5" />
+<image id="o153" data-type="image" href="https://storage.yandexcloud.net/sboard-whiteboard-prod/images/768a4e5a-3278-49e7-891d-da24de9e3c1340e48326-8c19-465f-a4a1-1362e08b971a9db82117-4ba6-42c5-84c7-fdde9bdd12ca67f93a50-2c15-4e5e-b500-ffd96beb9ca8/image.png" x="-2040.4" y="934.1" width="423.1" height="281.7" />
+<textArea id="o154" x="-2176.6" y="-1742.5" width="264.7" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="center">2) 4,1 + (-6,9) =</textArea>
+<textArea id="o155" x="-2102.0" y="-1662.8" width="335.4" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">3) -8,4 + 11=</textArea>
+<textArea id="o156" x="-1277.6" y="-1742.5" width="299.3" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">2) -6,5 - (-3,1) = </textArea>
+<textArea id="o157" x="-1258.7" y="-1662.8" width="340.1" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">3) 0 - 4,8 = </textArea>
+<textArea id="o158" x="-520.6" y="-1742.5" width="360.8" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">2) 6 * (-1,5) =</textArea>
+<textArea id="o159" x="-550.1" y="-1662.8" width="297.1" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">3) -0,8 * 7 =</textArea>
+<textArea id="o160" x="-950.7" y="-1989.9" width="379.6" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">2) 15 : (-0,5) =</textArea>
+<textArea id="o161" x="230.0" y="-1662.8" width="308.1" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">3) -24 : 4 =</textArea>
+<image id="o162" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/f2f100900222a0af5cfd.jpg" x="-470.2" y="-1273.8" width="461.0" height="73.5" />
+<image id="o163" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/1cc5adc8da1fa854cd55.jpg" x="-470.2" y="-1169.4" width="461.0" height="69.6" />
+<image id="o164" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/img/d73ec58bd45ac781666a.jpg" x="-470.2" y="-1378.7" width="461.0" height="84.1" />
+<textArea id="o166" x="-434.1" y="-691.7" width="540.3" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">б) 70% от числа 40</textArea>
+<textArea id="o167" x="-421.7" y="-638.4" width="567.1" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">в) число, 15% которого равны 45</textArea>
+<textArea id="o168" x="-443.7" y="-561.6" width="519.5" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">г) число, 220% которого равны 110</textArea>
+<textArea id="o169" x="1527.3" y="-1801.4" width="769.0" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">а) 5x − 15 при x=4</textArea>
+<textArea id="o170" x="1434.9" y="-1738.9" width="569.5" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">б) 3,6− 0,4y при y=2</textArea>
+<textArea id="o171" x="1449.4" y="-1664.9" width="600.7" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">в) 8a+10 при a=0,5</textArea>
+<textArea id="o172" x="-399.3" y="897.9" width="638.3" font-size="23.6" font-family="open_sans" fill="#1e90ff" text-align="left">б) cd   и    c : d     при c = 5, d = 0,2</textArea>
+<textArea id="o173" x="-1857.1" y="1388.5" width="801.6" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">б) m больше 0 и меньше или равно 8</textArea>
+<textArea id="o174" x="-1927.9" y="1464.8" width="731.7" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">в) n больше или равно -10 и меньше или равно 25</textArea>
+<textArea id="o175" x="-1962.0" y="1542.9" width="575.0" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">г) k больше -5 и меньше -1</textArea>
+<textArea id="o176" x="-450.2" y="1373.4" width="486.5" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">2) −3 &lt; −1 ≤ 4</textArea>
+<textArea id="o177" x="-499.3" y="1450.4" width="378.7" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">3) 8 &gt; 12 ≥ 7</textArea>
+<textArea id="o178" x="-537.6" y="1533.1" width="295.9" font-size="23.6" font-family="open_sans" fill="#8822f4" text-align="left">4) 20 ≥ 25 ≤ 30 </textArea>
+<image id="ovm4_m3" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/55514603/-4_-3.png" x="-3348.5" y="-2074.5" width="147.5" height="26.5" />
+<image id="ovm4_m2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/55514603/-4_-2.png" x="-3417.0" y="-2048.0" width="289.0" height="190.0" />
+<image id="ovm4_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/55514603/-4_-1.png" x="-3194.5" y="-812.0" width="122.5" height="224.0" />
+<image id="ovm4_0" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/55514603/-4_0.png" x="-3496.0" y="139.5" width="351.0" height="720.0" />
+<image id="ovm3_m1" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/55514603/-3_-1.png" x="-3072.0" y="-812.0" width="108.0" height="260.5" />
+<image id="ov2_m2" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/55514603/2_-2.png" x="2092.5" y="-1790.5" width="688.5" height="194.0" />
+</svg>

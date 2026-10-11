@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<rect id="o1" data-shape="triangle" x="-2724.8" y="-4234.6" width="173.2" height="127.5" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o2" data-shape="triangle" x="-2382.7" y="-4227.2" width="221.5" height="157.7" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o3" data-shape="triangle" x="-1944.5" y="-4229.4" width="218.9" height="148.2" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o4" data-shape="triangle" x="-2356.4" y="-3771.0" width="231.8" height="177.2" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o5" data-shape="triangle" x="-2724.8" y="-4234.6" width="173.2" height="127.5" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o6" data-shape="triangle" x="-2382.7" y="-4227.2" width="221.5" height="157.7" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o7" data-shape="triangle" x="-1944.5" y="-4229.4" width="218.9" height="148.2" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o8" data-shape="triangle" x="-2356.4" y="-3771.0" width="231.8" height="177.2" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o9" data-shape="triangle" x="-1478.0" y="-4217.1" width="185.0" height="155.3" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o10" data-shape="triangle" x="-968.0" y="-4231.0" width="283.4" height="123.3" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o11" data-shape="triangle" x="-1478.0" y="-4217.1" width="185.0" height="155.3" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o12" data-shape="triangle" x="-968.0" y="-4231.0" width="283.4" height="123.3" fill="none" stroke="#000000" stroke-width="3" />
+<textArea id="o13" x="-3103.8" y="-3255.4" width="451.9" font-size="36.0" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Расчет углов</b></textArea>
+<textArea id="o14" x="-3014.9" y="-2109.2" width="625.8" font-size="36.0" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Нахождение длин отрезков</b></textArea>
+<textArea id="o15" x="-2976.6" y="-846.4" width="713.2" font-size="36.0" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Прямоугольный треугольник</b></textArea>
+<textArea id="o16" x="-2927.7" y="489.4" width="776.9" font-size="36.0" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Тригонометрия</b></textArea>
+<textArea id="o17" x="-2949.9" y="1978.8" width="824.8" font-size="36.0" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Теорема синусов и косинусов</b></textArea>
+<textArea id="o18" x="-2941.5" y="3447.3" width="806.5" font-size="36.0" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Площадь треугольников</b></textArea>
+<rect id="o19" data-shape="triangle" x="-3125.2" y="-1793.9" width="300.5" height="160.4" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o20" data-shape="triangle" x="-720.5" y="-1769.8" width="440.5" height="186.9" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o21" data-shape="triangle" x="2548.8" y="-1734.1" width="576.4" height="287.9" fill="none" stroke="#000000" stroke-width="3" />
+<ellipse id="o22" cx="-1925.3" cy="-567.0" rx="135.5" ry="135.5" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o23" data-shape="triangle" x="950.6" y="3907.4" width="373.4" height="184.9" fill="none" stroke="#000000" stroke-width="3" />
+<ellipse id="o24" cx="1026.9" cy="3999.9" rx="76.2" ry="76.2" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o25" data-shape="triangle" x="2081.0" y="3948.8" width="465.0" height="285.8" fill="none" stroke="#000000" stroke-width="3" />
+</svg>

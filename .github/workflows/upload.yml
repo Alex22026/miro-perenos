@@ -1,0 +1,25 @@
+name: upload
+on:
+  push:
+    paths: ["jobs/upload.json"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: upload
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - run: mkdir -p results
+      - run: |
+          git config user.name "upload-bot"; git config user.email "upload-bot@users.noreply.github.com"
+          python tools/upload.py
+        env:
+          MIRO_TOKEN: ${{ secrets.MIRO_TOKEN }}
+      - if: always()
+        run: |
+          git add results
+          git commit -m "Ссылки Miro и журнал загрузки" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

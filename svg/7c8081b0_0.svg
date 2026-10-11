@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<rect id="o1" data-shape="triangle" x="-27717.1" y="-5351.2" width="274.6" height="202.2" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o2" data-shape="triangle" x="-27174.8" y="-5339.6" width="351.1" height="250.0" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o3" data-shape="triangle" x="-26480.1" y="-5343.0" width="347.0" height="235.0" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o4" data-shape="triangle" x="-27133.0" y="-4616.4" width="367.5" height="280.9" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o5" data-shape="triangle" x="-27717.1" y="-5351.2" width="274.6" height="202.2" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o6" data-shape="triangle" x="-27174.8" y="-5339.6" width="351.1" height="250.0" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o7" data-shape="triangle" x="-26480.1" y="-5343.0" width="347.0" height="235.0" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o8" data-shape="triangle" x="-27133.0" y="-4616.4" width="367.5" height="280.9" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o9" data-shape="triangle" x="-25740.5" y="-5323.5" width="293.3" height="246.2" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o10" data-shape="triangle" x="-24932.1" y="-5345.6" width="449.3" height="195.5" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o11" data-shape="triangle" x="-25740.5" y="-5323.5" width="293.3" height="246.2" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o12" data-shape="triangle" x="-24932.1" y="-5345.6" width="449.3" height="195.5" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o13" data-shape="triangle" x="-25779.7" y="-4567.8" width="352.7" height="276.8" fill="none" stroke="#000000" stroke-width="3" />
+<ellipse id="o14" cx="-25690.5" cy="-4429.4" rx="90.5" ry="97.3" fill="none" stroke="#000000" stroke-width="3" />
+<rect id="o15" data-shape="triangle" x="-24848.9" y="-4596.7" width="239.5" height="205.1" fill="none" stroke="#000000" stroke-width="3" />
+<ellipse id="o16" cx="-24707.4" cy="-4429.4" rx="138.9" ry="138.4" fill="none" stroke="#000000" stroke-width="3" />
+<textArea id="o17" x="-19242.9" y="-6252.9" width="854.9" font-size="205.4" font-family="open_sans" fill="#1a1a1a" text-align="left">Теория</textArea>
+<textArea id="o18" x="-28205.9" y="-6179.5" width="813.6" font-size="102.7" font-family="open_sans" fill="#1a1a1a" text-align="left">Треугольники</textArea>
+<textArea id="o19" x="-27785.9" y="-3433.9" width="1084.8" font-size="102.7" font-family="open_sans" fill="#1a1a1a" text-align="left">Четырёхугольники</textArea>
+<textArea id="o20" x="-27737.2" y="56.9" width="4348.2" font-size="33.4" font-family="open_sans" fill="#212529" text-align="left"><i><b>Окружность</b></i><i> — это замкнутая линия, состоящая из множества точек, которые равноудалены от центра окружности</i>. Основной элемент окружности — это радиус, он соединяет центр с любой точкой на окружности.</textArea>
+<textArea id="o21" x="-27692.2" y="765.7" width="5534.0" font-size="37.4" font-family="open_sans" fill="#212529" text-align="left"><b>хорда</b> — это отрезок, который соединяет 2 любые точки на окружности. Если хорда пройдёт через центр окружности, то она превратится в <b>диаметр</b>. Кстати, если внимательно посмотреть, то можно увидеть, что диаметр — это 2 радиуса!</textArea>
+<textArea id="o22" x="-13953.0" y="682.5" width="3543.1" font-size="57.4" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Окружность вписана в прямоугольный треугольник</b></textArea>
+<rect id="o23" data-shape="triangle" x="-13221.7" y="2088.5" width="462.3" height="230.2" fill="none" stroke="#000000" stroke-width="2" />
+<textArea id="o24" x="-12915.2" y="518.7" width="1301.6" font-size="57.4" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Треугольник вписан в окружность</b></textArea>
+<rect id="o25" data-shape="triangle" x="-13221.7" y="2088.5" width="462.3" height="230.2" fill="none" stroke="#000000" stroke-width="2" />
+<textArea id="o26" x="-28101.9" y="-108.3" width="734.7" font-size="93.5" font-family="open_sans" fill="#1e90ff" text-align="left"><b>ОКРУЖНОСТЬ</b></textArea>
+<ellipse id="o27" cx="-27769.0" cy="1380.8" rx="227.0" ry="227.0" fill="none" stroke="#000000" stroke-width="3" />
+<textArea id="o28" x="-28008.9" y="1278.5" width="40.0" font-size="37.2" font-family="open_sans" fill="#000000" text-align="left">r</textArea>
+<textArea id="o29" x="-28019.6" y="1135.2" width="40.0" font-size="28.3" font-family="open_sans" fill="#000000" text-align="left">d</textArea>
+<textArea id="o30" x="-27548.3" y="958.1" width="99.0" font-size="28.1" font-family="open_sans" fill="#1e90ff" text-align="left">Хорда</textArea>
+<textArea id="o31" x="-27574.5" y="1071.9" width="138.7" font-size="28.1" font-family="open_sans" fill="#1e90ff" text-align="left">Диаметр</textArea>
+<textArea id="o33" x="-27611.3" y="1285.0" width="112.7" font-size="28.1" font-family="open_sans" fill="#1e90ff" text-align="left">Радиус</textArea>
+<ellipse id="o34" cx="-27682.3" cy="2087.2" rx="231.6" ry="231.6" fill="none" stroke="#000000" stroke-width="3" />
+<textArea id="o35" x="-27898.6" y="1751.7" width="40.0" font-size="28.1" font-family="open_sans" fill="#000000" text-align="left">r</textArea>
+<textArea id="o36" x="-27883.9" y="1969.7" width="40.0" font-size="28.1" font-family="open_sans" fill="#000000" text-align="left">r</textArea>
+<textArea id="o37" x="-27548.3" y="1559.0" width="204.2" font-size="28.1" font-family="open_sans" fill="#1e90ff" text-align="left">Касательная</textArea>
+<textArea id="o39" x="-25677.9" y="-60.9" width="423.6" font-size="77.9" font-family="open_sans" fill="#dc143c" text-align="left">Теоремы</textArea>
+<ellipse id="o40" cx="-13084.0" cy="1759.7" rx="189.5" ry="189.5" fill="none" stroke="#dc143c" stroke-width="3" />
+<textArea id="o41" x="-13228.6" y="1887.6" width="659.0" font-size="58.7" font-family="open_sans" fill="#000000" text-align="left">Теорема косинусов</textArea>
+<ellipse id="o42" cx="-21775.8" cy="1444.0" rx="416.0" ry="416.0" fill="none" stroke="#000000" stroke-width="8" />
+<textArea id="o43" x="8739.4" y="-6629.7" width="6749.1" font-size="322.0" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Треугольники и четырёхугольники</b></textArea>
+<textArea id="o44" x="11485.6" y="1834.2" width="12681.0" font-size="322.0" font-family="open_sans" fill="#1a1a1a" text-align="left"><b>Окружности и многоугольники</b></textArea>
+<ellipse id="o45" cx="17209.1" cy="5154.1" rx="271.4" ry="254.0" fill="none" stroke="#000000" stroke-width="3" />
+<ellipse id="o46" cx="25652.6" cy="6118.4" rx="234.5" ry="226.2" fill="none" stroke="#000000" stroke-width="3" />
+<textArea id="o47" x="26675.8" y="5510.4" width="1885.3" font-size="34.8" font-family="open_sans" fill="#000000" text-align="left">Теорема о касательной и секущей: квадрат качательной=произведению отрезков секущей</textArea>
+<textArea id="o48" x="26726.8" y="5859.1" width="1597.3" font-size="31.7" font-family="open_sans" fill="#000000" text-align="left">Проведем радиус ОК.<br/>Так как нам известен косинус ВАС, то надо этим пользоваться, а для этого нужно сделать треугольник, продлим ОК до диаметра. Пусть диаметр пересекает сторону АС в точке L, а другая точка диаметра F.<br/>Используя косинус мы сможем найти гипотенузу прямоугольного треугольника AKL</textArea>
+<textArea id="o49" x="26698.1" y="6217.4" width="5058.2" font-size="33.3" font-family="open_sans" fill="#000000" text-align="left">Зная отрезок AL, мы можем найти отрезок ML, а зная весь отрезок мы можем найти LN, в результате у нас получится пересечение хорды MN и KN. В результате получится некое уравнение, в котором участвует радиус. Найдем сначала ML и NL </textArea>
+<textArea id="o50" x="26707.2" y="6541.2" width="2904.4" font-size="31.0" font-family="open_sans" fill="#000000" text-align="left">Вспомним, что если в окружности пересекаются две хорды, то произведение отрезков одной хорды на произведение отрезков другой хорды будет равно</textArea>
+<image id="ovm6_0" data-type="image" href="https://raw.githubusercontent.com/Alex22026/miro-perenos/main/ov/7c8081b0/-6_0.png" x="-28002.2" y="1271.1" width="424.5" height="407.3" />
+</svg>
