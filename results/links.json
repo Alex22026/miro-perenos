@@ -1813,20 +1813,110 @@
   "sheet": "rus58",
   "miro": "https://miro.com/app/board/uXjVEb92u-g=",
   "id": "uXjVEb92u-g=",
-  "status": "creating"
+  "status": "done",
+  "ok": 40,
+  "failed": 0
  },
  "79b42e9b": {
   "name": "Правописание НЕ с прилагательными (решение)",
   "sheet": "rus58",
   "miro": "https://miro.com/app/board/uXjVEb925Mo=",
   "id": "uXjVEb925Mo=",
-  "status": "creating"
+  "status": "done",
+  "ok": 41,
+  "failed": 0
  },
  "2ca41b05": {
   "name": "Н/НН в прилагательных",
   "sheet": "rus58",
   "miro": "https://miro.com/app/board/uXjVEb9PWxM=",
   "id": "uXjVEb9PWxM=",
+  "status": "done",
+  "ok": 38,
+  "failed": 0
+ },
+ "839eafed": {
+  "name": "Н/НН в прилагательных (решение)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9oT8w=",
+  "id": "uXjVEb9oT8w=",
+  "status": "done",
+  "ok": 41,
+  "failed": 0
+ },
+ "9f46902b": {
+  "name": "Имя числительное. Разряды (количественные, порядковые, собирательные). Склонение числительных",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9PWy0=",
+  "id": "uXjVEb9PWy0=",
+  "status": "done",
+  "ok": 37,
+  "failed": 0
+ },
+ "48b3ef4b": {
+  "name": "Имя числительное. Разряды (количественные, порядковые, собирательные) (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb93MFU=",
+  "id": "uXjVEb93MFU=",
+  "status": "done",
+  "ok": 27,
+  "failed": 0
+ },
+ "a88794a6": {
+  "name": "Местоимение. Все разряды",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9IYHw=",
+  "id": "uXjVEb9IYHw=",
+  "status": "done",
+  "ok": 15,
+  "failed": 0
+ },
+ "4eedf240": {
+  "name": "Местоимение. Все разряды (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9EIlk=",
+  "id": "uXjVEb9EIlk=",
+  "status": "done",
+  "ok": 14,
+  "failed": 0
+ },
+ "52e8926e": {
+  "name": "Глагол. Вид (совершенный/несовершенный), спряжение, время. Правописание безударных личных окончаний",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9JHFI=",
+  "id": "uXjVEb9JHFI=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "b4f22a70": {
+  "name": "Наречие. Разряды по значению (образа действия, места, времени, причины, цели)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9AGMA=",
+  "id": "uXjVEb9AGMA=",
+  "status": "done",
+  "ok": 17,
+  "failed": 0
+ },
+ "31e3bcd7": {
+  "name": "Наречие. Разряды по значению (образа действия, места, времени, причины, цели) (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9yFOY=",
+  "id": "uXjVEb9yFOY=",
+  "status": "creating"
+ },
+ "986bc4bd": {
+  "name": "Служебные части речи: предлог, союз, частица. Их роль. Раздельное и слитное написание",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9U8DI=",
+  "id": "uXjVEb9U8DI=",
+  "status": "creating"
+ },
+ "8e33ea57": {
+  "name": "Служебные части речи: предлог, союз, частица. Их роль. Раздельное и слитное написание (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb93MF8=",
+  "id": "uXjVEb93MF8=",
   "status": "creating"
  }
 }

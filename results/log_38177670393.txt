@@ -229,3 +229,13 @@ DONE 20eda5a3 Имя прилагательное. Разряды (качест�
 DONE cd0e3f60 Правописание приставок (неизменяемые, пр ok=104 failed=0 https://miro.com/app/board/uXjVEb9yFDg=
 DONE 909a40ec Имя прилагательное. Разряды (качественны ok=14 failed=0 https://miro.com/app/board/uXjVEb9EIko=
 DONE f4561c16 Имя существительное. Падежи, склонения,  ok=31 failed=0 https://miro.com/app/board/uXjVEb9yFMo=
+DONE 8364bfab Правописание НЕ с прилагательными ok=40 failed=0 https://miro.com/app/board/uXjVEb92u-g=
+DONE 79b42e9b Правописание НЕ с прилагательными (решен ok=41 failed=0 https://miro.com/app/board/uXjVEb925Mo=
+DONE 2ca41b05 Н/НН в прилагательных ok=38 failed=0 https://miro.com/app/board/uXjVEb9PWxM=
+DONE 839eafed Н/НН в прилагательных (решение) ok=41 failed=0 https://miro.com/app/board/uXjVEb9oT8w=
+DONE a88794a6 Местоимение. Все разряды ok=15 failed=0 https://miro.com/app/board/uXjVEb9IYHw=
+DONE 4eedf240 Местоимение. Все разряды (ответы) ok=14 failed=0 https://miro.com/app/board/uXjVEb9EIlk=
+DONE 48b3ef4b Имя числительное. Разряды (количественны ok=27 failed=0 https://miro.com/app/board/uXjVEb93MFU=
+DONE 52e8926e Глагол. Вид (совершенный/несовершенный), ok=13 failed=0 https://miro.com/app/board/uXjVEb9JHFI=
+DONE 9f46902b Имя числительное. Разряды (количественны ok=37 failed=0 https://miro.com/app/board/uXjVEb9PWy0=
+DONE b4f22a70 Наречие. Разряды по значению (образа дей ok=17 failed=0 https://miro.com/app/board/uXjVEb9AGMA=
