@@ -2434,7 +2434,9 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9EIic=",
   "id": "uXjVEb9EIic=",
-  "status": "creating"
+  "status": "done",
+  "ok": 13,
+  "failed": 0
  },
  "409d0829": {
   "name": "Слитное, раздельное и дефисное написание наречий",
@@ -2450,6 +2452,101 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9WGhw=",
   "id": "uXjVEb9WGhw=",
+  "status": "done",
+  "ok": 14,
+  "failed": 0
+ },
+ "66d120a6": {
+  "name": "Наречие и его степени сравнения",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9IYMM=",
+  "id": "uXjVEb9IYMM=",
+  "status": "done",
+  "ok": 7,
+  "failed": 0
+ },
+ "a24e82f9": {
+  "name": "Наречие и его степени сравнения",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9yBMc=",
+  "id": "uXjVEb9yBMc=",
+  "status": "done",
+  "ok": 12,
+  "failed": 0
+ },
+ "fa7e0731": {
+  "name": "Причастие как особая форма",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9yBMI=",
+  "id": "uXjVEb9yBMI=",
+  "status": "done",
+  "ok": 20,
+  "failed": 0
+ },
+ "8a118581": {
+  "name": "Действительные и страдательные причастия",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb997Mo=",
+  "id": "uXjVEb997Mo=",
+  "status": "done",
+  "ok": 12,
+  "failed": 0
+ },
+ "e67c1727": {
+  "name": "Действительные и страдательные причастия",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9U8Pk=",
+  "id": "uXjVEb9U8Pk=",
+  "status": "done",
+  "ok": 22,
+  "failed": 0
+ },
+ "11e83293": {
+  "name": "Причастный оборот и его обособление на письме",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9SZps=",
+  "id": "uXjVEb9SZps=",
+  "status": "done",
+  "ok": 9,
+  "failed": 0
+ },
+ "0725503b": {
+  "name": "Деепричастие как особая форма глагола",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9W-SQ=",
+  "id": "uXjVEb9W-SQ=",
+  "status": "creating"
+ },
+ "69551973": {
+  "name": "Деепричастие как особая форма глагола",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9JHBM=",
+  "id": "uXjVEb9JHBM=",
+  "status": "done",
+  "ok": 7,
+  "failed": 0
+ },
+ "50cb58b7": {
+  "name": "Деепричастный оборот и запятые",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb93MCE=",
+  "id": "uXjVEb93MCE=",
+  "status": "done",
+  "ok": 7,
+  "failed": 0
+ },
+ "5becfca8": {
+  "name": "Деепричастный оборот и запятые",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9IYM0=",
+  "id": "uXjVEb9IYM0=",
+  "status": "creating"
+ },
+ "9d119882": {
+  "name": "Деепричастный оборот и запятые",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9Nz80=",
+  "id": "uXjVEb9Nz80=",
   "status": "creating"
  }
 }

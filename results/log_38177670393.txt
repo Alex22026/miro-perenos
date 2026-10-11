@@ -303,3 +303,13 @@ DONE d2bd2c47 Слитное и раздельное написание НЕ с 
 DONE 409d0829 Слитное, раздельное и дефисное написание ok=7 failed=0 https://miro.com/app/board/uXjVEb9JHAg=
 DONE 94f3b8e0 Различение частиц НЕ и НИ ok=18 failed=0 https://miro.com/app/board/uXjVEb9FF38=
 DONE 59efb3f3 Различение частиц НЕ и НИ ok=18 failed=0 https://miro.com/app/board/uXjVEb9NBIA=
+DONE ea7aac3d Слитное, раздельное, дефисное написание  ok=13 failed=0 https://miro.com/app/board/uXjVEb9EIic=
+DONE 66d120a6 Наречие и его степени сравнения ok=7 failed=0 https://miro.com/app/board/uXjVEb9IYMM=
+DONE 85243e66 Слитное, раздельное и дефисное написание ok=14 failed=0 https://miro.com/app/board/uXjVEb9WGhw=
+DONE a24e82f9 Наречие и его степени сравнения ok=12 failed=0 https://miro.com/app/board/uXjVEb9yBMc=
+DONE 8a118581 Действительные и страдательные причастия ok=12 failed=0 https://miro.com/app/board/uXjVEb997Mo=
+DONE 11e83293 Причастный оборот и его обособление на п ok=9 failed=0 https://miro.com/app/board/uXjVEb9SZps=
+DONE 69551973 Деепричастие как особая форма глагола ok=7 failed=0 https://miro.com/app/board/uXjVEb9JHBM=
+DONE fa7e0731 Причастие как особая форма ok=20 failed=0 https://miro.com/app/board/uXjVEb9yBMI=
+DONE 50cb58b7 Деепричастный оборот и запятые ok=7 failed=0 https://miro.com/app/board/uXjVEb93MCE=
+DONE e67c1727 Действительные и страдательные причастия ok=22 failed=0 https://miro.com/app/board/uXjVEb9U8Pk=
