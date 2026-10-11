@@ -2515,7 +2515,9 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9W-SQ=",
   "id": "uXjVEb9W-SQ=",
-  "status": "creating"
+  "status": "done",
+  "ok": 19,
+  "failed": 0
  },
  "69551973": {
   "name": "Деепричастие как особая форма глагола",
@@ -2540,13 +2542,94 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9IYM0=",
   "id": "uXjVEb9IYM0=",
-  "status": "creating"
+  "status": "done",
+  "ok": 43,
+  "failed": 0
  },
  "9d119882": {
   "name": "Деепричастный оборот и запятые",
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9Nz80=",
   "id": "uXjVEb9Nz80=",
+  "status": "done",
+  "ok": 19,
+  "failed": 0
+ },
+ "01fe7923": {
+  "name": "Повторение и обобщение: Орфограммы в причастиях и деепричастиях",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9puZw=",
+  "id": "uXjVEb9puZw=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "1a39a10a": {
+  "name": "Повторение и обобщение: Орфограммы в причастиях и деепричастиях",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9puZg=",
+  "id": "uXjVEb9puZg=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "b1709d10": {
+  "name": "Служебные части речи: предлог, союз, частица",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb93MDY=",
+  "id": "uXjVEb93MDY=",
+  "status": "done",
+  "ok": 7,
+  "failed": 0
+ },
+ "a08638fc": {
+  "name": "Служебные части речи: предлог, союз, частица",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9U8IQ=",
+  "id": "uXjVEb9U8IQ=",
+  "status": "done",
+  "ok": 12,
+  "failed": 0
+ },
+ "74e99864": {
+  "name": "Производные и непроизводные предлоги (различение)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9B7WI=",
+  "id": "uXjVEb9B7WI=",
+  "status": "done",
+  "ok": 7,
+  "failed": 0
+ },
+ "83beb4ba": {
+  "name": "Производные и непроизводные предлоги (различение)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9GMrg=",
+  "id": "uXjVEb9GMrg=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "62b3752c": {
+  "name": "Союзы сочинительные и подчинительные",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9EIi4=",
+  "id": "uXjVEb9EIi4=",
+  "status": "creating"
+ },
+ "ffd2bd19": {
+  "name": "Союзы сочинительные и подчинительные",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9VGzI=",
+  "id": "uXjVEb9VGzI=",
+  "status": "done",
+  "ok": 7,
+  "failed": 0
+ },
+ "b8a51ef0": {
+  "name": "Междометия и звукоподражательные слова",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9SZqQ=",
+  "id": "uXjVEb9SZqQ=",
   "status": "creating"
  }
 }
