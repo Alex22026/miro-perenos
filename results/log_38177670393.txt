@@ -283,3 +283,13 @@ DONE 374afc2c ОГЭ русский задание 11 (методичка) ok=4 
 DONE 3a57798b ОГЭ русский задание 12 (методичка) ok=4 failed=0 https://miro.com/app/board/uXjVEb9SZo0=
 DONE 5b47ef16 ОГЭ русский задание 12 ok=18 failed=0 https://miro.com/app/board/uXjVEb9WGgI=
 DONE 0e926d00 ОГЭ русский задание 5 (методичка) ok=115 failed=0 https://miro.com/app/board/uXjVEb9PW-A=
+DONE 96154e9b Орфоэпия (нормы ударения) ok=16 failed=0 https://miro.com/app/board/uXjVEb9PW6c=
+DONE aed5af56 Орфоэпия (нормы ударения) ok=5 failed=0 https://miro.com/app/board/uXjVEb9yFLA=
+DONE 72b65a28 Лексический анализ. Синонимы, антонимы,  ok=4 failed=0 https://miro.com/app/board/uXjVEb9B7VY=
+DONE f5db3ffe Устное собеседование (9) ok=26 failed=0 https://miro.com/app/board/uXjVEb9VGxs=
+DONE f547f8ac Правописание корней (чередующиеся гласны ok=6 failed=0 https://miro.com/app/board/uXjVEb9EIh8=
+DONE 5221e51c Правописание приставок (ПРЕ-/ПРИ-, на З/ ok=4 failed=0 https://miro.com/app/board/uXjVEb9FF3M=
+DONE 7a342bf0 Устное собеседование (2) ok=28 failed=0 https://miro.com/app/board/uXjVEb9U8Ok=
+DONE be597a6a Лексический анализ. Синонимы, антонимы,  ok=15 failed=0 https://miro.com/app/board/uXjVEb9-dmw=
+DONE 04881b3f Правописание корней (чередующиеся гласны ok=18 failed=0 https://miro.com/app/board/uXjVEb9W-RI=
+DONE b69d0611 Правописание Н и НН в суффиксах разных ч ok=3 failed=0 https://miro.com/app/board/uXjVEb9WGhM=

@@ -2263,20 +2263,110 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9VGxs=",
   "id": "uXjVEb9VGxs=",
-  "status": "creating"
+  "status": "done",
+  "ok": 26,
+  "failed": 0
  },
  "7a342bf0": {
   "name": "Устное собеседование (2)",
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9U8Ok=",
   "id": "uXjVEb9U8Ok=",
-  "status": "creating"
+  "status": "done",
+  "ok": 28,
+  "failed": 0
  },
  "96154e9b": {
   "name": "Орфоэпия (нормы ударения)",
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9PW6c=",
   "id": "uXjVEb9PW6c=",
+  "status": "done",
+  "ok": 16,
+  "failed": 0
+ },
+ "aed5af56": {
+  "name": "Орфоэпия (нормы ударения)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9yFLA=",
+  "id": "uXjVEb9yFLA=",
+  "status": "done",
+  "ok": 5,
+  "failed": 0
+ },
+ "72b65a28": {
+  "name": "Лексический анализ. Синонимы, антонимы, омонимы",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9B7VY=",
+  "id": "uXjVEb9B7VY=",
+  "status": "done",
+  "ok": 4,
+  "failed": 0
+ },
+ "be597a6a": {
+  "name": "Лексический анализ. Синонимы, антонимы, омонимы",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9-dmw=",
+  "id": "uXjVEb9-dmw=",
+  "status": "done",
+  "ok": 15,
+  "failed": 0
+ },
+ "04881b3f": {
+  "name": "Правописание корней (чередующиеся гласные, проверяемые/непроверяемые)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9W-RI=",
+  "id": "uXjVEb9W-RI=",
+  "status": "done",
+  "ok": 18,
+  "failed": 0
+ },
+ "f547f8ac": {
+  "name": "Правописание корней (чередующиеся гласные, проверяемые/непроверяемые)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9EIh8=",
+  "id": "uXjVEb9EIh8=",
+  "status": "done",
+  "ok": 6,
+  "failed": 0
+ },
+ "5221e51c": {
+  "name": "Правописание приставок (ПРЕ-/ПРИ-, на З/С, неизменяемые)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9FF3M=",
+  "id": "uXjVEb9FF3M=",
+  "status": "done",
+  "ok": 4,
+  "failed": 0
+ },
+ "c49f01dc": {
+  "name": "Правописание приставок (ПРЕ-/ПРИ-, на З/С, неизменяемые)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9ArnI=",
+  "id": "uXjVEb9ArnI=",
   "status": "creating"
+ },
+ "2b502c58": {
+  "name": "Правописание суффиксов (кроме -Н-/-НН-). Правописание личных окончаний глаголов",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9B7VA=",
+  "id": "uXjVEb9B7VA=",
+  "status": "creating"
+ },
+ "eb65a4d7": {
+  "name": "Правописание суффиксов (кроме -Н-/-НН-). Правописание личных окончаний глаголов",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9GMrc=",
+  "id": "uXjVEb9GMrc=",
+  "status": "creating"
+ },
+ "b69d0611": {
+  "name": "Правописание Н и НН в суффиксах разных частей речи",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9WGhM=",
+  "id": "uXjVEb9WGhM=",
+  "status": "done",
+  "ok": 3,
+  "failed": 0
  }
 }
