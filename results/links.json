@@ -1696,7 +1696,9 @@
   "sheet": "rus58",
   "miro": "https://miro.com/app/board/uXjVEb9-I6w=",
   "id": "uXjVEb9-I6w=",
-  "status": "creating"
+  "status": "done",
+  "ok": 60,
+  "failed": 0
  },
  "f4a01e4d": {
   "name": "Состав слова (морфемика). Основа и окончание (ответы)",
@@ -1730,13 +1732,101 @@
   "sheet": "rus58",
   "miro": "https://miro.com/app/board/uXjVEb9yFDg=",
   "id": "uXjVEb9yFDg=",
-  "status": "creating"
+  "status": "done",
+  "ok": 104,
+  "failed": 0
  },
  "732caf29": {
   "name": "Правописание приставок (неизменяемые, при-/пре-, на з/с) (ответы)",
   "sheet": "rus58",
   "miro": "https://miro.com/app/board/uXjVEb901_E=",
   "id": "uXjVEb901_E=",
+  "status": "done",
+  "ok": 15,
+  "failed": 0
+ },
+ "e2a05c3a": {
+  "name": "Правописание гласных после шипящих и Ц (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9KBmE=",
+  "id": "uXjVEb9KBmE=",
+  "status": "done",
+  "ok": 64,
+  "failed": 0
+ },
+ "87b80cf9": {
+  "name": "Лексикология. Синонимы, антонимы, омонимы, фразеологизмы",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb93M70=",
+  "id": "uXjVEb93M70=",
+  "status": "done",
+  "ok": 28,
+  "failed": 0
+ },
+ "6543fab4": {
+  "name": "Лексикология. Синонимы, антонимы, омонимы, фразеологизмы (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb901_o=",
+  "id": "uXjVEb901_o=",
+  "status": "done",
+  "ok": 28,
+  "failed": 0
+ },
+ "8d32a665": {
+  "name": "Имя существительное. Падежи, склонения, разносклоняемые и несклоняемые существительные",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9AqZY=",
+  "id": "uXjVEb9AqZY=",
+  "status": "done",
+  "ok": 31,
+  "failed": 0
+ },
+ "f4561c16": {
+  "name": "Имя существительное. Падежи, склонения, разносклоняемые и несклоняемые существительные (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9yFMo=",
+  "id": "uXjVEb9yFMo=",
+  "status": "done",
+  "ok": 31,
+  "failed": 0
+ },
+ "20eda5a3": {
+  "name": "Имя прилагательное. Разряды (качественные, относительные, притяжательные). Полная и краткая форма",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9yBG0=",
+  "id": "uXjVEb9yBG0=",
+  "status": "done",
+  "ok": 16,
+  "failed": 0
+ },
+ "909a40ec": {
+  "name": "Имя прилагательное. Разряды (качественные, относительные, притяжательные) (ответы)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9EIko=",
+  "id": "uXjVEb9EIko=",
+  "status": "done",
+  "ok": 14,
+  "failed": 0
+ },
+ "8364bfab": {
+  "name": "Правописание НЕ с прилагательными",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb92u-g=",
+  "id": "uXjVEb92u-g=",
+  "status": "creating"
+ },
+ "79b42e9b": {
+  "name": "Правописание НЕ с прилагательными (решение)",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb925Mo=",
+  "id": "uXjVEb925Mo=",
+  "status": "creating"
+ },
+ "2ca41b05": {
+  "name": "Н/НН в прилагательных",
+  "sheet": "rus58",
+  "miro": "https://miro.com/app/board/uXjVEb9PWxM=",
+  "id": "uXjVEb9PWxM=",
   "status": "creating"
  }
 }

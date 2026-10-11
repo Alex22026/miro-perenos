@@ -219,3 +219,13 @@ DONE f4a01e4d Состав слова (морфемика). Основа и ок
 DONE ccf739bc Чередование гласных в корнях (-бер-/-бир ok=18 failed=0 https://miro.com/app/board/uXjVEb997FU=
 DONE 907ddcbc №21 — методичка ok=21 failed=0 https://miro.com/app/board/uXjVEb9-cYk=
 DONE 1cbf7e0c Чередование гласных в корнях (-бер-/-бир ok=41 failed=0 https://miro.com/app/board/uXjVEb93M7Y=
+DONE 732caf29 Правописание приставок (неизменяемые, пр ok=15 failed=0 https://miro.com/app/board/uXjVEb901_E=
+DONE 1acedf53 Состав слова (морфемика). Основа и оконч ok=60 failed=0 https://miro.com/app/board/uXjVEb9-I6w=
+DONE 87b80cf9 Лексикология. Синонимы, антонимы, омоним ok=28 failed=0 https://miro.com/app/board/uXjVEb93M70=
+DONE 6543fab4 Лексикология. Синонимы, антонимы, омоним ok=28 failed=0 https://miro.com/app/board/uXjVEb901_o=
+DONE e2a05c3a Правописание гласных после шипящих и Ц ( ok=64 failed=0 https://miro.com/app/board/uXjVEb9KBmE=
+DONE 8d32a665 Имя существительное. Падежи, склонения,  ok=31 failed=0 https://miro.com/app/board/uXjVEb9AqZY=
+DONE 20eda5a3 Имя прилагательное. Разряды (качественны ok=16 failed=0 https://miro.com/app/board/uXjVEb9yBG0=
+DONE cd0e3f60 Правописание приставок (неизменяемые, пр ok=104 failed=0 https://miro.com/app/board/uXjVEb9yFDg=
+DONE 909a40ec Имя прилагательное. Разряды (качественны ok=14 failed=0 https://miro.com/app/board/uXjVEb9EIko=
+DONE f4561c16 Имя существительное. Падежи, склонения,  ok=31 failed=0 https://miro.com/app/board/uXjVEb9yFMo=
