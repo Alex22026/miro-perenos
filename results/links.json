@@ -2083,20 +2083,110 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9L78Q=",
   "id": "uXjVEb9L78Q=",
-  "status": "creating"
+  "status": "done",
+  "ok": 103,
+  "failed": 0
  },
  "36256fdf": {
   "name": "ОГЭ русский задание 3 (методичка)",
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9yFPg=",
   "id": "uXjVEb9yFPg=",
-  "status": "creating"
+  "status": "done",
+  "ok": 96,
+  "failed": 0
  },
  "5282e57d": {
   "name": "ОГЭ русский задание 4",
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9yHLE=",
   "id": "uXjVEb9yHLE=",
+  "status": "done",
+  "ok": 97,
+  "failed": 0
+ },
+ "50116d6a": {
+  "name": "ОГЭ русский задание 4 (методичка)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9Nzxk=",
+  "id": "uXjVEb9Nzxk=",
+  "status": "done",
+  "ok": 112,
+  "failed": 0
+ },
+ "8c610a2f": {
+  "name": "ОГЭ русский задание 5",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9KBi0=",
+  "id": "uXjVEb9KBi0=",
   "status": "creating"
+ },
+ "0e926d00": {
+  "name": "ОГЭ русский задание 5 (методичка)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9PW-A=",
+  "id": "uXjVEb9PW-A=",
+  "status": "creating"
+ },
+ "5862b18c": {
+  "name": "ОГЭ русский задание 6",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9AGIE=",
+  "id": "uXjVEb9AGIE=",
+  "status": "done",
+  "ok": 17,
+  "failed": 0
+ },
+ "63562047": {
+  "name": "ОГЭ русский задание 6 (методичка)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9IYCE=",
+  "id": "uXjVEb9IYCE=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "95d2cb45": {
+  "name": "ОГЭ русский задание 7",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9yBCo=",
+  "id": "uXjVEb9yBCo=",
+  "status": "done",
+  "ok": 26,
+  "failed": 0
+ },
+ "f41b1576": {
+  "name": "ОГЭ русский задание 7 (методичка)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9U054=",
+  "id": "uXjVEb9U054=",
+  "status": "done",
+  "ok": 6,
+  "failed": 0
+ },
+ "91c222ac": {
+  "name": "ОГЭ русский задание 8",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9Dm5E=",
+  "id": "uXjVEb9Dm5E=",
+  "status": "creating"
+ },
+ "991bfcea": {
+  "name": "ОГЭ русский задание 8 (методичка)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9KBjE=",
+  "id": "uXjVEb9KBjE=",
+  "status": "done",
+  "ok": 12,
+  "failed": 0
+ },
+ "afccfd50": {
+  "name": "ОГЭ русский задание 9",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9yFKs=",
+  "id": "uXjVEb9yFKs=",
+  "status": "done",
+  "ok": 15,
+  "failed": 0
  }
 }

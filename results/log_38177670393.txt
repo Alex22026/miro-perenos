@@ -259,3 +259,13 @@ DONE d2ea29a9 ОГЭ ответы ok=85 failed=0 https://miro.com/app/board/uXjV
 DONE fa535da3 ОГЭ задания ok=151 failed=0 https://miro.com/app/board/uXjVEb9-cb4=
 DONE f5af0741 ОГЭ русский задание 2 ok=92 failed=0 https://miro.com/app/board/uXjVEb9VG3s=
 DONE 2f228a8c ОГЭ русский задание 2 (методичка) ok=87 failed=0 https://miro.com/app/board/uXjVEb9yHJA=
+DONE ecd1c219 ОГЭ русский задание 3 ok=103 failed=0 https://miro.com/app/board/uXjVEb9L78Q=
+DONE 5282e57d ОГЭ русский задание 4 ok=97 failed=0 https://miro.com/app/board/uXjVEb9yHLE=
+DONE 36256fdf ОГЭ русский задание 3 (методичка) ok=96 failed=0 https://miro.com/app/board/uXjVEb9yFPg=
+DONE 5862b18c ОГЭ русский задание 6 ok=17 failed=0 https://miro.com/app/board/uXjVEb9AGIE=
+DONE 63562047 ОГЭ русский задание 6 (методичка) ok=13 failed=0 https://miro.com/app/board/uXjVEb9IYCE=
+DONE 50116d6a ОГЭ русский задание 4 (методичка) ok=112 failed=0 https://miro.com/app/board/uXjVEb9Nzxk=
+DONE f41b1576 ОГЭ русский задание 7 (методичка) ok=6 failed=0 https://miro.com/app/board/uXjVEb9U054=
+DONE 95d2cb45 ОГЭ русский задание 7 ok=26 failed=0 https://miro.com/app/board/uXjVEb9yBCo=
+DONE 991bfcea ОГЭ русский задание 8 (методичка) ok=12 failed=0 https://miro.com/app/board/uXjVEb9KBjE=
+DONE afccfd50 ОГЭ русский задание 9 ok=15 failed=0 https://miro.com/app/board/uXjVEb9yFKs=
