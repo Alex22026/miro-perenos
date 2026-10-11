@@ -553,20 +553,110 @@
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb93Ms4=",
   "id": "uXjVEb93Ms4=",
-  "status": "creating"
+  "status": "done",
+  "ok": 202,
+  "failed": 0
  },
  "b3d390d6": {
   "name": "Упрощение выражений",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9oEDo=",
   "id": "uXjVEb9oEDo=",
-  "status": "creating"
+  "status": "done",
+  "ok": 95,
+  "failed": 0
  },
  "e1679faa": {
   "name": "Упрощение выражений",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb93Mtc=",
   "id": "uXjVEb93Mtc=",
+  "status": "done",
+  "ok": 52,
+  "failed": 0
+ },
+ "e08c5705": {
+  "name": "Тождества",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9oEME=",
+  "id": "uXjVEb9oEME=",
+  "status": "done",
+  "ok": 70,
+  "failed": 0
+ },
+ "d5f14e74": {
+  "name": "Тождества (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9-cBs=",
+  "id": "uXjVEb9-cBs=",
+  "status": "done",
+  "ok": 85,
+  "failed": 0
+ },
+ "102dc7a5": {
+  "name": "Степени",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9uzGc=",
+  "id": "uXjVEb9uzGc=",
+  "status": "done",
+  "ok": 74,
+  "failed": 0
+ },
+ "7b20c431": {
+  "name": "Степени",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9oSaI=",
+  "id": "uXjVEb9oSaI=",
+  "status": "done",
+  "ok": 92,
+  "failed": 0
+ },
+ "fc6231a3": {
+  "name": "Степени",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9jFCY=",
+  "id": "uXjVEb9jFCY=",
+  "status": "done",
+  "ok": 50,
+  "failed": 0
+ },
+ "5ebfedbc": {
+  "name": "Степени (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9u9Ic=",
+  "id": "uXjVEb9u9Ic=",
+  "status": "done",
+  "ok": 102,
+  "failed": 0
+ },
+ "64676b16": {
+  "name": "Одночлены",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9twc0=",
+  "id": "uXjVEb9twc0=",
+  "status": "done",
+  "ok": 77,
+  "failed": 0
+ },
+ "a78e2afe": {
+  "name": "Одночлены (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb-b2Xs=",
+  "id": "uXjVEb-b2Xs=",
+  "status": "creating"
+ },
+ "da41cec7": {
+  "name": "Многочлены",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9jYpc=",
+  "id": "uXjVEb9jYpc=",
+  "status": "creating"
+ },
+ "fe423a43": {
+  "name": "Многочлены (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb93MvU=",
+  "id": "uXjVEb93MvU=",
   "status": "creating"
  }
 }

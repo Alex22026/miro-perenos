@@ -89,3 +89,13 @@ DONE f302c112 Задание 24 (решения) ok=124 failed=0 https://miro.co
 DONE 564609cf Задание 25 ok=145 failed=0 https://miro.com/app/board/uXjVEb9yFqY=
     text widened
 DONE 55514603 Выражения ok=170 failed=0 https://miro.com/app/board/uXjVEb9FES0=
+DONE e08c5705 Тождества ok=70 failed=0 https://miro.com/app/board/uXjVEb9oEME=
+DONE 8061c5ed Выражения (ответы) ok=202 failed=0 https://miro.com/app/board/uXjVEb93Ms4=
+DONE e1679faa Упрощение выражений ok=52 failed=0 https://miro.com/app/board/uXjVEb93Mtc=
+DONE d5f14e74 Тождества (ответы) ok=85 failed=0 https://miro.com/app/board/uXjVEb9-cBs=
+DONE b3d390d6 Упрощение выражений ok=95 failed=0 https://miro.com/app/board/uXjVEb9oEDo=
+DONE fc6231a3 Степени ok=50 failed=0 https://miro.com/app/board/uXjVEb9jFCY=
+DONE 102dc7a5 Степени ok=74 failed=0 https://miro.com/app/board/uXjVEb9uzGc=
+DONE 7b20c431 Степени ok=92 failed=0 https://miro.com/app/board/uXjVEb9oSaI=
+DONE 5ebfedbc Степени (ответы) ok=102 failed=0 https://miro.com/app/board/uXjVEb9u9Ic=
+DONE 64676b16 Одночлены ok=77 failed=0 https://miro.com/app/board/uXjVEb9twc0=
