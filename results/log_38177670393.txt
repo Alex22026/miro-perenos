@@ -249,3 +249,13 @@ DONE 32ce801a Обращение ok=16 failed=0 https://miro.com/app/board/uXjVE
 DONE 64b41a50 Прямая речь. Основные схемы оформления н ok=14 failed=0 https://miro.com/app/board/uXjVEb9Nz38=
 DONE 8c36b558 Обращение (ответы) ok=21 failed=0 https://miro.com/app/board/uXjVEb9AqbA=
 DONE c9585008 Члены предложения ok=51 failed=0 https://miro.com/app/board/uXjVEb9WGk8=
+DONE c22576ef Прямая речь. Основные схемы оформления н ok=10 failed=0 https://miro.com/app/board/uXjVEb9yFOs=
+DONE 7a581b50 Сложносочинённые и сложноподчинённые пре ok=20 failed=0 https://miro.com/app/board/uXjVEb9AGN4=
+DONE 3e97e5c4 Сложносочинённые и сложноподчинённые пре ok=20 failed=0 https://miro.com/app/board/uXjVEb9EIms=
+DONE d0522c7c Простое и сложное предложение (ответы) ok=29 failed=0 https://miro.com/app/board/uXjVEb9VG3Y=
+DONE 5ebd1794 Сложносочинённые и сложноподчинённые пре ok=19 failed=0 https://miro.com/app/board/uXjVEb9KBgc=
+DONE b6fb652e Простое и сложное предложение ok=54 failed=0 https://miro.com/app/board/uXjVEb9-cbQ=
+DONE d2ea29a9 ОГЭ ответы ok=85 failed=0 https://miro.com/app/board/uXjVEb9-cbo=
+DONE fa535da3 ОГЭ задания ok=151 failed=0 https://miro.com/app/board/uXjVEb9-cb4=
+DONE f5af0741 ОГЭ русский задание 2 ok=92 failed=0 https://miro.com/app/board/uXjVEb9VG3s=
+DONE 2f228a8c ОГЭ русский задание 2 (методичка) ok=87 failed=0 https://miro.com/app/board/uXjVEb9yHJA=
