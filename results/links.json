@@ -2785,7 +2785,9 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9W-TI=",
   "id": "uXjVEb9W-TI=",
-  "status": "creating"
+  "status": "done",
+  "ok": 15,
+  "failed": 0
  },
  "76e0a83f": {
   "name": "Текст. Основные признаки. Тема, идея, микротемы. Абзацное членение",
@@ -2801,7 +2803,9 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9W-T0=",
   "id": "uXjVEb9W-T0=",
-  "status": "creating"
+  "status": "done",
+  "ok": 12,
+  "failed": 0
  },
  "a4d2b25d": {
   "name": "Средства связи предложений в тексте",
@@ -2810,6 +2814,78 @@
   "id": "uXjVEb9IYNI=",
   "status": "done",
   "ok": 3,
+  "failed": 0
+ },
+ "6ae357f2": {
+  "name": "Стили и типы речи",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9NBJk=",
+  "id": "uXjVEb9NBJk=",
+  "status": "done",
+  "ok": 11,
+  "failed": 0
+ },
+ "aba726b4": {
+  "name": "Стили и типы речи",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9WGjM=",
+  "id": "uXjVEb9WGjM=",
+  "status": "done",
+  "ok": 3,
+  "failed": 0
+ },
+ "2149de43": {
+  "name": "Изобразительно-выразительные средства языка (тропы и фигуры речи)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9B7XM=",
+  "id": "uXjVEb9B7XM=",
+  "status": "done",
+  "ok": 15,
+  "failed": 0
+ },
+ "607dc8e7": {
+  "name": "Изобразительно-выразительные средства языка (тропы и фигуры речи)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9-dgQ=",
+  "id": "uXjVEb9-dgQ=",
+  "status": "done",
+  "ok": 5,
+  "failed": 0
+ },
+ "32c254c9": {
+  "name": "Изобразительно-выразительные средства языка (эпитет, метафора, олицетворение)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9GM0A=",
+  "id": "uXjVEb9GM0A=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "eae81c81": {
+  "name": "Изобразительно-выразительные средства языка (эпитет, метафора, олицетворение)",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9yBNU=",
+  "id": "uXjVEb9yBNU=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "3b04c542": {
+  "name": "Сочинение-рассуждение (структура: тезис-аргументы-вывод). Анализ текста для поиска аргументов",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9yBNE=",
+  "id": "uXjVEb9yBNE=",
+  "status": "done",
+  "ok": 12,
+  "failed": 0
+ },
+ "c01138fe": {
+  "name": "Сочинение-рассуждение (структура: тезис-аргументы-вывод). Анализ текста для поиска аргументов",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9L75U=",
+  "id": "uXjVEb9L75U=",
+  "status": "done",
+  "ok": 6,
   "failed": 0
  }
 }

@@ -343,3 +343,13 @@ DONE 76e0a83f Текст. Основные признаки. Тема, идея,
 DONE 200cf4fa Сложные предложения с разными видами свя ok=12 failed=0 https://miro.com/app/board/uXjVEb9AGKo=
 DONE b021d5af Бессоюзное сложное предложение (БСП). Зн ok=13 failed=0 https://miro.com/app/board/uXjVEb9U070=
 DONE a4d2b25d Средства связи предложений в тексте ok=3 failed=0 https://miro.com/app/board/uXjVEb9IYNI=
+DONE aba726b4 Стили и типы речи ok=3 failed=0 https://miro.com/app/board/uXjVEb9WGjM=
+DONE 60fb649d Текст. Основные признаки. Тема, идея, ми ok=15 failed=0 https://miro.com/app/board/uXjVEb9W-TI=
+DONE 607dc8e7 Изобразительно-выразительные средства яз ok=5 failed=0 https://miro.com/app/board/uXjVEb9-dgQ=
+DONE 569a972c Средства связи предложений в тексте ok=12 failed=0 https://miro.com/app/board/uXjVEb9W-T0=
+DONE 6ae357f2 Стили и типы речи ok=11 failed=0 https://miro.com/app/board/uXjVEb9NBJk=
+DONE 2149de43 Изобразительно-выразительные средства яз ok=15 failed=0 https://miro.com/app/board/uXjVEb9B7XM=
+DONE 32c254c9 Изобразительно-выразительные средства яз ok=13 failed=0 https://miro.com/app/board/uXjVEb9GM0A=
+DONE c01138fe Сочинение-рассуждение (структура: тезис- ok=6 failed=0 https://miro.com/app/board/uXjVEb9L75U=
+DONE 3b04c542 Сочинение-рассуждение (структура: тезис- ok=12 failed=0 https://miro.com/app/board/uXjVEb9yBNE=
+DONE eae81c81 Изобразительно-выразительные средства яз ok=13 failed=0 https://miro.com/app/board/uXjVEb9yBNU=
