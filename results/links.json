@@ -1003,20 +1003,110 @@
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9jFVM=",
   "id": "uXjVEb9jFVM=",
-  "status": "creating"
+  "status": "done",
+  "ok": 94,
+  "failed": 0
  },
  "6ae2b12b": {
   "name": "Углы",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb92ut0=",
   "id": "uXjVEb92ut0=",
-  "status": "creating"
+  "status": "done",
+  "ok": 80,
+  "failed": 0
  },
  "720aabc0": {
   "name": "Углы",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9yH70=",
   "id": "uXjVEb9yH70=",
+  "status": "done",
+  "ok": 51,
+  "failed": 0
+ },
+ "39f9bccb": {
+  "name": "Треугольники",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9PWio=",
+  "id": "uXjVEb9PWio=",
+  "status": "done",
+  "ok": 35,
+  "failed": 0
+ },
+ "7f78a1d3": {
+  "name": "Треугольники",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9oEQg=",
+  "id": "uXjVEb9oEQg=",
+  "status": "done",
+  "ok": 63,
+  "failed": 0
+ },
+ "2cc9a88a": {
+  "name": "1 признак равенства треугольников",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9Dmo8=",
+  "id": "uXjVEb9Dmo8=",
+  "status": "done",
+  "ok": 74,
+  "failed": 0
+ },
+ "db290843": {
+  "name": "1 признак равенства треугольников",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9-cVg=",
+  "id": "uXjVEb9-cVg=",
+  "status": "done",
+  "ok": 53,
+  "failed": 0
+ },
+ "f37b6b55": {
+  "name": "2 признак равенства треугольников",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9AqUE=",
+  "id": "uXjVEb9AqUE=",
+  "status": "done",
+  "ok": 55,
+  "failed": 0
+ },
+ "73725d87": {
+  "name": "3 признак равенства треугольников",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb92uoA=",
+  "id": "uXjVEb92uoA=",
+  "status": "done",
+  "ok": 63,
+  "failed": 0
+ },
+ "a14d32fb": {
+  "name": "3 признак равенства треугольников",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9yBy4=",
+  "id": "uXjVEb9yBy4=",
+  "status": "done",
+  "ok": 49,
+  "failed": 0
+ },
+ "827ff95e": {
+  "name": "Прямоугольный треугольник",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9s2JU=",
+  "id": "uXjVEb9s2JU=",
+  "status": "creating"
+ },
+ "a3e95959": {
+  "name": "Прямоугольный треугольник",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9yBzY=",
+  "id": "uXjVEb9yBzY=",
+  "status": "creating"
+ },
+ "793ac7e0": {
+  "name": "Окружность",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb92ups=",
+  "id": "uXjVEb92ups=",
   "status": "creating"
  }
 }

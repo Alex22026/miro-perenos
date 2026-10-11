@@ -139,3 +139,13 @@ DONE 310b5576 Решение неравенств ok=95 failed=0 https://miro.co
 DONE cf02813e Неравенства с двумя переменными (ответы) ok=46 failed=0 https://miro.com/app/board/uXjVEb9s_fI=
 DONE ce378fad Системы линейных неравенств ok=98 failed=0 https://miro.com/app/board/uXjVEb9gfeQ=
 DONE 75866545 Точка, прямая, отрезок, луч ok=65 failed=0 https://miro.com/app/board/uXjVEb9-cUw=
+DONE 720aabc0 Углы ok=51 failed=0 https://miro.com/app/board/uXjVEb9yH70=
+DONE 39f9bccb Треугольники ok=35 failed=0 https://miro.com/app/board/uXjVEb9PWio=
+DONE 6ae2b12b Углы ok=80 failed=0 https://miro.com/app/board/uXjVEb92ut0=
+DONE eb9f015a Точка, прямая, отрезок, луч ok=94 failed=0 https://miro.com/app/board/uXjVEb9jFVM=
+DONE db290843 1 признак равенства треугольников ok=53 failed=0 https://miro.com/app/board/uXjVEb9-cVg=
+DONE 7f78a1d3 Треугольники ok=63 failed=0 https://miro.com/app/board/uXjVEb9oEQg=
+DONE 2cc9a88a 1 признак равенства треугольников ok=74 failed=0 https://miro.com/app/board/uXjVEb9Dmo8=
+DONE f37b6b55 2 признак равенства треугольников ok=55 failed=0 https://miro.com/app/board/uXjVEb9AqUE=
+DONE a14d32fb 3 признак равенства треугольников ok=49 failed=0 https://miro.com/app/board/uXjVEb9yBy4=
+DONE 73725d87 3 признак равенства треугольников ok=63 failed=0 https://miro.com/app/board/uXjVEb92uoA=
