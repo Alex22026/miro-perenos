@@ -169,3 +169,13 @@ DONE e7b708da Прямая Эйлера, окружность девяти то�
 DONE 10550455 №1–2 — методичка ok=19 failed=0 https://miro.com/app/board/uXjVEb9-I8Q=
 DONE e52250e8 Теорема Чевы, Менелая, ортотреугольника, ok=54 failed=0 https://miro.com/app/board/uXjVEb9PWvg=
 DONE 5ae207ee №1–2 ok=26 failed=0 https://miro.com/app/board/uXjVEb9AG60=
+DONE a87056a8 №5 ok=15 failed=0 https://miro.com/app/board/uXjVEb9AG70=
+DONE ded1659a №3–4 ok=35 failed=0 https://miro.com/app/board/uXjVEb9yB_Y=
+DONE 8764af7a №5 — методичка ok=18 failed=0 https://miro.com/app/board/uXjVEb9s2V8=
+DONE 7a80f321 №7 ok=18 failed=0 https://miro.com/app/board/uXjVEb9yB4c=
+DONE 2f95785b №3–4 — методичка ok=33 failed=0 https://miro.com/app/board/uXjVEb9yHA4=
+DONE 632d40ad №6 и 8 ok=44 failed=0 https://miro.com/app/board/uXjVEb92u3U=
+DONE 1bb22a16 №6 и 8 — методичка ok=31 failed=0 https://miro.com/app/board/uXjVEb9-cT0=
+DONE 374e3d2c №7 — методичка ok=39 failed=0 https://miro.com/app/board/uXjVEb9AqSc=
+DONE ca4559c8 №11 — методичка ok=26 failed=0 https://miro.com/app/board/uXjVEb9-I9g=
+DONE 8d561068 №11 ok=28 failed=0 https://miro.com/app/board/uXjVEb9txsg=

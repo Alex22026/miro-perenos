@@ -1273,20 +1273,103 @@
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9yB_Y=",
   "id": "uXjVEb9yB_Y=",
-  "status": "creating"
+  "status": "done",
+  "ok": 35,
+  "failed": 0
  },
  "2f95785b": {
   "name": "№3–4 — методичка",
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9yHA4=",
   "id": "uXjVEb9yHA4=",
-  "status": "creating"
+  "status": "done",
+  "ok": 33,
+  "failed": 0
  },
  "a87056a8": {
   "name": "№5",
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9AG70=",
   "id": "uXjVEb9AG70=",
+  "status": "done",
+  "ok": 15,
+  "failed": 0
+ },
+ "8764af7a": {
+  "name": "№5 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9s2V8=",
+  "id": "uXjVEb9s2V8=",
+  "status": "done",
+  "ok": 18,
+  "failed": 0
+ },
+ "632d40ad": {
+  "name": "№6 и 8",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb92u3U=",
+  "id": "uXjVEb92u3U=",
+  "status": "done",
+  "ok": 44,
+  "failed": 0
+ },
+ "1bb22a16": {
+  "name": "№6 и 8 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9-cT0=",
+  "id": "uXjVEb9-cT0=",
+  "status": "done",
+  "ok": 31,
+  "failed": 0
+ },
+ "7a80f321": {
+  "name": "№7",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9yB4c=",
+  "id": "uXjVEb9yB4c=",
+  "status": "done",
+  "ok": 18,
+  "failed": 0
+ },
+ "374e3d2c": {
+  "name": "№7 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9AqSc=",
+  "id": "uXjVEb9AqSc=",
+  "status": "done",
+  "ok": 39,
+  "failed": 0
+ },
+ "74b3227b": {
+  "name": "№9–10",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9u6l8=",
+  "id": "uXjVEb9u6l8=",
   "status": "creating"
+ },
+ "77f04b4e": {
+  "name": "№9–10 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9puWE=",
+  "id": "uXjVEb9puWE=",
+  "status": "creating"
+ },
+ "8d561068": {
+  "name": "№11",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9txsg=",
+  "id": "uXjVEb9txsg=",
+  "status": "done",
+  "ok": 28,
+  "failed": 0
+ },
+ "ca4559c8": {
+  "name": "№11 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9-I9g=",
+  "id": "uXjVEb9-I9g=",
+  "status": "done",
+  "ok": 26,
+  "failed": 0
  }
 }
