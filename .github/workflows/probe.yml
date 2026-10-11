@@ -1,0 +1,15 @@
+name: probe
+on: [push]
+permissions:
+  contents: write
+jobs:
+  probe:
+    if: contains(github.event.head_commit.message, '[probe]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p probe
+          curl -sS -o probe/test.png -w "%{http_code} %{size_download}\n" "https://storage.yandexcloud.net/sboard-whiteboard-prod/images/2aa9a28f-2531-41a7-a573-1f27e5c46e6dc8414976-3847-4e57-b285-f776289679c5d833b26c-fefd-4716-aad5-92333b01979a65f4e587-192a-4f74-9334-086a843b474b/image.png" | tee probe/result.txt
+          git config user.name "probe-bot"; git config user.email "probe@users.noreply.github.com"
+          git add probe && git commit -m "probe result" && git push
