@@ -70,6 +70,7 @@ def items_from_svg(path):
             a = attrs(m.group(1)); body = m.group(2)
             x, y, w = fnum(a["x"]), fnum(a["y"]), max(10, fnum(a["width"]))
             fs = fnum(a.get("font-size"), 14)
+            w = max(w, fs * 1.6)          # Miro не принимает текст уже ~1.5 кегля
             # высоту заранее не знаем: ставим по верхнему краю через оценку одной строки
             yield ("texts", {"data": {"content": to_html(body)},
                              "style": {"color": a.get("fill", "#1a1a1a"), "fontFamily": a.get("font-family", "open_sans"),
@@ -116,6 +117,10 @@ def post_item(bid_m, kind, body):
     msg = json.dumps(r, ensure_ascii=False)[:300]
     # запасные варианты
     if kind == "texts" and fs is not None:
+        b2 = json.loads(json.dumps(body)); b2["geometry"]["width"] = max(b2["geometry"]["width"], fs * 3)
+        st, r = call("POST", f"/boards/{bid_m}/{kind}", b2)
+        if st in (200, 201): return True, "text widened"
+        log("   text err:", msg)
         for size in ("288", "14"):
             b2 = json.loads(json.dumps(body)); b2["style"]["fontSize"] = size if size == "14" else str(min(288, max(10, round(fs))))
             st, r = call("POST", f"/boards/{bid_m}/{kind}", b2)
