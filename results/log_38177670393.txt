@@ -29,3 +29,14 @@ DONE 426aa145 Задание 8 (решения) ok=66 failed=0 https://miro.com/
 DONE 95d2fd03 Задание 9 ok=47 failed=0 https://miro.com/app/board/uXjVEb9pu_Y=
 DONE 70e4c0d5 Задание 10 ok=24 failed=0 https://miro.com/app/board/uXjVEb997kQ=
 DONE c5086f4e Задание 9 (решения) ok=50 failed=0 https://miro.com/app/board/uXjVEb9s9Co=
+DONE 4597d22e Задание 10 (решения) ok=37 failed=0 https://miro.com/app/board/uXjVEb-ZKmw=
+DONE b5d2d532 Задание 11 ok=47 failed=0 https://miro.com/app/board/uXjVEb9s2z0=
+DONE 82ffeecf Задание 12 ok=38 failed=0 https://miro.com/app/board/uXjVEb9pu4Q=
+DONE 92c5c82a Задание 13 ok=39 failed=0 https://miro.com/app/board/uXjVEb9twV4=
+DONE 4d3a7ede Задание 11 (решения) ok=97 failed=0 https://miro.com/app/board/uXjVEb9uz_0=
+DONE 861cec1f Задание 14 ok=36 failed=0 https://miro.com/app/board/uXjVEb900Z4=
+DONE c07dd65d Задание 12 (решения) ok=148 failed=0 https://miro.com/app/board/uXjVEb9nTt0=
+    text widened
+DONE 0eee4ec5 Задание 13 (решения) ok=69 failed=0 https://miro.com/app/board/uXjVEb9yFuc=
+DONE 8d38d01c Задание 15 (решения) ok=25 failed=0 https://miro.com/app/board/uXjVEb9pu5M=
+DONE 4803566a Задание 14 (решения) ok=48 failed=0 https://miro.com/app/board/uXjVEb-ayvI=
