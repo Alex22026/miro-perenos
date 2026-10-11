@@ -19,3 +19,13 @@ DONE 464d8736 Пробное ЕГЭ профиль — математика ok=1
 DONE ab5686ef Пробное ЕГЭ база — математика (ответы) ok=18 failed=0 https://miro.com/app/board/uXjVEb92xQE=
 DONE 1406fd17 Пробное ЕГЭ профиль — математика (ответы ok=20 failed=0 https://miro.com/app/board/uXjVEb900dg=
 DONE 168c4a2c Задание 6 ok=41 failed=0 https://miro.com/app/board/uXjVEb9-Iko=
+DONE cb3ad611 Задание 6 (решения) ok=44 failed=0 https://miro.com/app/board/uXjVEb9s9Bg=
+DONE 057c746a Задания 1–5 ok=97 failed=0 https://miro.com/app/board/uXjVEb9u9Ag=
+DONE eeecba1c Задание 7 ok=33 failed=0 https://miro.com/app/board/uXjVEb900eo=
+DONE ee89fc0a Задание 7 (решения) ok=43 failed=0 https://miro.com/app/board/uXjVEb9gfDw=
+DONE b824776f Задание 8 ok=67 failed=0 https://miro.com/app/board/uXjVEb9oEE0=
+DONE fe049c4b Задания 1–5 (решения) ok=127 failed=0 https://miro.com/app/board/uXjVEb9u9B8=
+DONE 426aa145 Задание 8 (решения) ok=66 failed=0 https://miro.com/app/board/uXjVEb9uz-w=
+DONE 95d2fd03 Задание 9 ok=47 failed=0 https://miro.com/app/board/uXjVEb9pu_Y=
+DONE 70e4c0d5 Задание 10 ok=24 failed=0 https://miro.com/app/board/uXjVEb997kQ=
+DONE c5086f4e Задание 9 (решения) ok=50 failed=0 https://miro.com/app/board/uXjVEb9s9Co=

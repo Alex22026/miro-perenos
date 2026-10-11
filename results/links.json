@@ -184,14 +184,18 @@
   "sheet": "ogeMat",
   "miro": "https://miro.com/app/board/uXjVEb9u9Ag=",
   "id": "uXjVEb9u9Ag=",
-  "status": "creating"
+  "status": "done",
+  "ok": 97,
+  "failed": 0
  },
  "fe049c4b": {
   "name": "Задания 1–5 (решения)",
   "sheet": "ogeMat",
   "miro": "https://miro.com/app/board/uXjVEb9u9B8=",
   "id": "uXjVEb9u9B8=",
-  "status": "creating"
+  "status": "done",
+  "ok": 127,
+  "failed": 0
  },
  "168c4a2c": {
   "name": "Задание 6",
@@ -207,6 +211,92 @@
   "sheet": "ogeMat",
   "miro": "https://miro.com/app/board/uXjVEb9s9Bg=",
   "id": "uXjVEb9s9Bg=",
+  "status": "done",
+  "ok": 44,
+  "failed": 0
+ },
+ "eeecba1c": {
+  "name": "Задание 7",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb900eo=",
+  "id": "uXjVEb900eo=",
+  "status": "done",
+  "ok": 33,
+  "failed": 0
+ },
+ "ee89fc0a": {
+  "name": "Задание 7 (решения)",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9gfDw=",
+  "id": "uXjVEb9gfDw=",
+  "status": "done",
+  "ok": 43,
+  "failed": 0
+ },
+ "b824776f": {
+  "name": "Задание 8",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9oEE0=",
+  "id": "uXjVEb9oEE0=",
+  "status": "done",
+  "ok": 67,
+  "failed": 0
+ },
+ "426aa145": {
+  "name": "Задание 8 (решения)",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9uz-w=",
+  "id": "uXjVEb9uz-w=",
+  "status": "done",
+  "ok": 66,
+  "failed": 0
+ },
+ "95d2fd03": {
+  "name": "Задание 9",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9pu_Y=",
+  "id": "uXjVEb9pu_Y=",
+  "status": "done",
+  "ok": 47,
+  "failed": 0
+ },
+ "c5086f4e": {
+  "name": "Задание 9 (решения)",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9s9Co=",
+  "id": "uXjVEb9s9Co=",
+  "status": "done",
+  "ok": 50,
+  "failed": 0
+ },
+ "70e4c0d5": {
+  "name": "Задание 10",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb997kQ=",
+  "id": "uXjVEb997kQ=",
+  "status": "done",
+  "ok": 24,
+  "failed": 0
+ },
+ "4597d22e": {
+  "name": "Задание 10 (решения)",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb-ZKmw=",
+  "id": "uXjVEb-ZKmw=",
+  "status": "creating"
+ },
+ "b5d2d532": {
+  "name": "Задание 11",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9s2z0=",
+  "id": "uXjVEb9s2z0=",
+  "status": "creating"
+ },
+ "4d3a7ede": {
+  "name": "Задание 11 (решения)",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9uz_0=",
+  "id": "uXjVEb9uz_0=",
   "status": "creating"
  }
 }
