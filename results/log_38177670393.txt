@@ -109,3 +109,13 @@ DONE 896b149b Линейные уравнения (ответы) ok=121 failed=0
 DONE e495e11f Системы уравнений (ответы) ok=89 failed=0 https://miro.com/app/board/uXjVEb92ulA=
 DONE e2625bad Функции ok=77 failed=0 https://miro.com/app/board/uXjVEb9nT2Y=
 DONE a93e8048 Множители ok=193 failed=0 https://miro.com/app/board/uXjVEb9s_Vw=
+DONE 83bac3bd Функции (ответы) ok=93 failed=0 https://miro.com/app/board/uXjVEb9s_X8=
+DONE 295d05cd Функция линейная / кусочно-заданная ok=110 failed=0 https://miro.com/app/board/uXjVEb9oEIM=
+DONE 634e53b4 Рациональные дроби ok=38 failed=0 https://miro.com/app/board/uXjVEb9-IoI=
+DONE 7c5c0c73 Функция линейная / кусочно-заданная (отв ok=128 failed=0 https://miro.com/app/board/uXjVEb9jY0U=
+DONE 87c70998 Рациональные дроби ok=72 failed=0 https://miro.com/app/board/uXjVEb9oTm8=
+DONE c9aebfdc Сложение и вычитание дробей ok=64 failed=0 https://miro.com/app/board/uXjVEb9GPTQ=
+DONE fc683a24 Сложение и вычитание дробей ok=64 failed=0 https://miro.com/app/board/uXjVEb9FEfo=
+DONE b5ce0ffb Квадратный корень ok=68 failed=0 https://miro.com/app/board/uXjVEb9251g=
+DONE 1fe5136a Квадратный корень ok=109 failed=0 https://miro.com/app/board/uXjVEb92unM=
+DONE 5260ea90 Вынесение множителя из-под корня ok=61 failed=0 https://miro.com/app/board/uXjVEb9uzNQ=

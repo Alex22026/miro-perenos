@@ -733,20 +733,110 @@
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9s_X8=",
   "id": "uXjVEb9s_X8=",
-  "status": "creating"
+  "status": "done",
+  "ok": 93,
+  "failed": 0
  },
  "295d05cd": {
   "name": "Функция линейная / кусочно-заданная",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9oEIM=",
   "id": "uXjVEb9oEIM=",
-  "status": "creating"
+  "status": "done",
+  "ok": 110,
+  "failed": 0
  },
  "7c5c0c73": {
   "name": "Функция линейная / кусочно-заданная (ответы)",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9jY0U=",
   "id": "uXjVEb9jY0U=",
+  "status": "done",
+  "ok": 128,
+  "failed": 0
+ },
+ "634e53b4": {
+  "name": "Рациональные дроби",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9-IoI=",
+  "id": "uXjVEb9-IoI=",
+  "status": "done",
+  "ok": 38,
+  "failed": 0
+ },
+ "87c70998": {
+  "name": "Рациональные дроби",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9oTm8=",
+  "id": "uXjVEb9oTm8=",
+  "status": "done",
+  "ok": 72,
+  "failed": 0
+ },
+ "c9aebfdc": {
+  "name": "Сложение и вычитание дробей",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9GPTQ=",
+  "id": "uXjVEb9GPTQ=",
+  "status": "done",
+  "ok": 64,
+  "failed": 0
+ },
+ "fc683a24": {
+  "name": "Сложение и вычитание дробей",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9FEfo=",
+  "id": "uXjVEb9FEfo=",
+  "status": "done",
+  "ok": 64,
+  "failed": 0
+ },
+ "1fe5136a": {
+  "name": "Квадратный корень",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb92unM=",
+  "id": "uXjVEb92unM=",
+  "status": "done",
+  "ok": 109,
+  "failed": 0
+ },
+ "b5ce0ffb": {
+  "name": "Квадратный корень",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9251g=",
+  "id": "uXjVEb9251g=",
+  "status": "done",
+  "ok": 68,
+  "failed": 0
+ },
+ "5260ea90": {
+  "name": "Вынесение множителя из-под корня",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9uzNQ=",
+  "id": "uXjVEb9uzNQ=",
+  "status": "done",
+  "ok": 61,
+  "failed": 0
+ },
+ "dfef6d97": {
+  "name": "Вынесение множителя из-под корня",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9-cOk=",
+  "id": "uXjVEb9-cOk=",
+  "status": "creating"
+ },
+ "44f3c9b6": {
+  "name": "Квадратные уравнения",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9-cPw=",
+  "id": "uXjVEb9-cPw=",
+  "status": "creating"
+ },
+ "c97669e8": {
+  "name": "Квадратные уравнения",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb997rI=",
+  "id": "uXjVEb997rI=",
   "status": "creating"
  }
 }
