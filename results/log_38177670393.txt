@@ -9,3 +9,13 @@ DONE 7c07f9cf Пробное 8 класс — русский язык (отве�
 DONE a6b4443b Пробное ОГЭ — русский язык ok=14 failed=0 https://miro.com/app/board/uXjVEb-TF9g=
 DONE 4ff83363 Пробное ОГЭ — русский язык (ответы) ok=13 failed=0 https://miro.com/app/board/uXjVEb-ellI=
 DONE 84039361 Пробное 5–6 классы — математика ok=18 failed=0 https://miro.com/app/board/uXjVEb-TF-4=
+DONE 08f987c9 Пробное ЕГЭ — русский язык (ответы) ok=18 failed=0 https://miro.com/app/board/uXjVEb9u9AY=
+DONE 31d8e3b2 Пробное ЕГЭ — русский язык ok=17 failed=0 https://miro.com/app/board/uXjVEb-ZKkE=
+DONE bcee4069 Пробное 7–8 классы — математика ok=34 failed=0 https://miro.com/app/board/uXjVEb9yFiQ=
+DONE d68a2085 Пробное ОГЭ — математика ok=13 failed=0 https://miro.com/app/board/uXjVEb9yAbk=
+DONE 5373a82b Пробное ОГЭ — математика (ответы) ok=12 failed=0 https://miro.com/app/board/uXjVEb-elm4=
+DONE 41b68605 Пробное ЕГЭ база — математика ok=16 failed=0 https://miro.com/app/board/uXjVEb9nThE=
+DONE 464d8736 Пробное ЕГЭ профиль — математика ok=17 failed=0 https://miro.com/app/board/uXjVEb9yFjQ=
+DONE ab5686ef Пробное ЕГЭ база — математика (ответы) ok=18 failed=0 https://miro.com/app/board/uXjVEb92xQE=
+DONE 1406fd17 Пробное ЕГЭ профиль — математика (ответы ok=20 failed=0 https://miro.com/app/board/uXjVEb900dg=
+DONE 168c4a2c Задание 6 ok=41 failed=0 https://miro.com/app/board/uXjVEb9-Iko=
