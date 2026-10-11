@@ -1453,20 +1453,110 @@
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9oT38=",
   "id": "uXjVEb9oT38=",
-  "status": "creating"
+  "status": "done",
+  "ok": 39,
+  "failed": 0
  },
  "afcd8624": {
   "name": "№15",
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9txu4=",
   "id": "uXjVEb9txu4=",
-  "status": "creating"
+  "status": "done",
+  "ok": 21,
+  "failed": 0
  },
  "bbf64b01": {
   "name": "№15 — методичка",
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb925H4=",
   "id": "uXjVEb925H4=",
+  "status": "done",
+  "ok": 20,
+  "failed": 0
+ },
+ "18083a9e": {
+  "name": "№16 Степени",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9GMi4=",
+  "id": "uXjVEb9GMi4=",
+  "status": "done",
+  "ok": 60,
+  "failed": 0
+ },
+ "fb4b9ccd": {
+  "name": "№16 Степени — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9FFuA=",
+  "id": "uXjVEb9FFuA=",
+  "status": "done",
+  "ok": 38,
+  "failed": 0
+ },
+ "d728ba2c": {
+  "name": "№16 Корни — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9-I4U=",
+  "id": "uXjVEb9-I4U=",
+  "status": "done",
+  "ok": 25,
+  "failed": 0
+ },
+ "bb6a32dd": {
+  "name": "№16 Логарифмы",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9IY60=",
+  "id": "uXjVEb9IY60=",
+  "status": "done",
+  "ok": 18,
+  "failed": 0
+ },
+ "a434e0cf": {
+  "name": "№16 Логарифмы — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9KAbo=",
+  "id": "uXjVEb9KAbo=",
+  "status": "done",
+  "ok": 29,
+  "failed": 0
+ },
+ "e9268ced": {
+  "name": "№16 Тригонометрия — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9oEag=",
+  "id": "uXjVEb9oEag=",
+  "status": "done",
+  "ok": 33,
+  "failed": 0
+ },
+ "ce56c1b7": {
+  "name": "№17 Линейные, квадратные, дробно-рациональные, иррациональные",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9yBEQ=",
+  "id": "uXjVEb9yBEQ=",
+  "status": "creating"
+ },
+ "f5a55eab": {
+  "name": "№17 Линейные, квадратные, дробно-рациональные, иррациональные — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9Aqdg=",
+  "id": "uXjVEb9Aqdg=",
+  "status": "creating"
+ },
+ "08935682": {
+  "name": "№17 Показательные и логарифмические уравнения",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9-cfI=",
+  "id": "uXjVEb9-cfI=",
+  "status": "done",
+  "ok": 25,
+  "failed": 0
+ },
+ "153c5815": {
+  "name": "№17 Показательные и логарифмические уравнения — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb92u8Q=",
+  "id": "uXjVEb92u8Q=",
   "status": "creating"
  }
 }

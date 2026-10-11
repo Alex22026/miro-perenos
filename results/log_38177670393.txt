@@ -189,3 +189,13 @@ DONE dcd4adf7 №12 Четырёхугольники — методичка ok=3
 DONE 7ef2e7be №12 Окружность — методичка ok=27 failed=0 https://miro.com/app/board/uXjVEb9975U=
 DONE bd529270 №13 ok=30 failed=0 https://miro.com/app/board/uXjVEb9oT3Q=
 DONE 5e45d564 №13 — методичка ok=33 failed=0 https://miro.com/app/board/uXjVEb9Dmw4=
+DONE afcd8624 №15 ok=21 failed=0 https://miro.com/app/board/uXjVEb9txu4=
+DONE bbf64b01 №15 — методичка ok=20 failed=0 https://miro.com/app/board/uXjVEb925H4=
+DONE e294bb5c №14 ok=39 failed=0 https://miro.com/app/board/uXjVEb9oT38=
+DONE bb6a32dd №16 Логарифмы ok=18 failed=0 https://miro.com/app/board/uXjVEb9IY60=
+DONE d728ba2c №16 Корни — методичка ok=25 failed=0 https://miro.com/app/board/uXjVEb9-I4U=
+DONE fb4b9ccd №16 Степени — методичка ok=38 failed=0 https://miro.com/app/board/uXjVEb9FFuA=
+DONE 18083a9e №16 Степени ok=60 failed=0 https://miro.com/app/board/uXjVEb9GMi4=
+DONE a434e0cf №16 Логарифмы — методичка ok=29 failed=0 https://miro.com/app/board/uXjVEb9KAbo=
+DONE e9268ced №16 Тригонометрия — методичка ok=33 failed=0 https://miro.com/app/board/uXjVEb9oEag=
+DONE 08935682 №17 Показательные и логарифмические урав ok=25 failed=0 https://miro.com/app/board/uXjVEb9-cfI=
