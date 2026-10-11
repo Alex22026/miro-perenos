@@ -239,3 +239,13 @@ DONE 48b3ef4b Имя числительное. Разряды (количест�
 DONE 52e8926e Глагол. Вид (совершенный/несовершенный), ok=13 failed=0 https://miro.com/app/board/uXjVEb9JHFI=
 DONE 9f46902b Имя числительное. Разряды (количественны ok=37 failed=0 https://miro.com/app/board/uXjVEb9PWy0=
 DONE b4f22a70 Наречие. Разряды по значению (образа дей ok=17 failed=0 https://miro.com/app/board/uXjVEb9AGMA=
+DONE 31e3bcd7 Наречие. Разряды по значению (образа дей ok=16 failed=0 https://miro.com/app/board/uXjVEb9yFOY=
+DONE 986bc4bd Служебные части речи: предлог, союз, час ok=14 failed=0 https://miro.com/app/board/uXjVEb9U8DI=
+DONE 8e33ea57 Служебные части речи: предлог, союз, час ok=13 failed=0 https://miro.com/app/board/uXjVEb93MF8=
+DONE 83c8f44c Глагол-связка «быть» и составное именное ok=17 failed=0 https://miro.com/app/board/uXjVEb9pudk=
+DONE d605b638 Члены предложения (ответы) ok=38 failed=0 https://miro.com/app/board/uXjVEb9EImE=
+DONE ed5aca9b Глагол-связка «быть» и составное именное ok=17 failed=0 https://miro.com/app/board/uXjVEb9PWzw=
+DONE 32ce801a Обращение ok=16 failed=0 https://miro.com/app/board/uXjVEb9B7JU=
+DONE 64b41a50 Прямая речь. Основные схемы оформления н ok=14 failed=0 https://miro.com/app/board/uXjVEb9Nz38=
+DONE 8c36b558 Обращение (ответы) ok=21 failed=0 https://miro.com/app/board/uXjVEb9AqbA=
+DONE c9585008 Члены предложения ok=51 failed=0 https://miro.com/app/board/uXjVEb9WGk8=
