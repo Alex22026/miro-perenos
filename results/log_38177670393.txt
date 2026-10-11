@@ -353,3 +353,4 @@ DONE 32c254c9 Изобразительно-выразительные средс
 DONE c01138fe Сочинение-рассуждение (структура: тезис- ok=6 failed=0 https://miro.com/app/board/uXjVEb9L75U=
 DONE 3b04c542 Сочинение-рассуждение (структура: тезис- ok=12 failed=0 https://miro.com/app/board/uXjVEb9yBNE=
 DONE eae81c81 Изобразительно-выразительные средства яз ok=13 failed=0 https://miro.com/app/board/uXjVEb9yBNU=
+finished in 3131 s
