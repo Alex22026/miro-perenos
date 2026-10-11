@@ -269,3 +269,17 @@ DONE f41b1576 ОГЭ русский задание 7 (методичка) ok=6 f
 DONE 95d2cb45 ОГЭ русский задание 7 ok=26 failed=0 https://miro.com/app/board/uXjVEb9yBCo=
 DONE 991bfcea ОГЭ русский задание 8 (методичка) ok=12 failed=0 https://miro.com/app/board/uXjVEb9KBjE=
 DONE afccfd50 ОГЭ русский задание 9 ok=15 failed=0 https://miro.com/app/board/uXjVEb9yFKs=
+DONE 97625313 ОГЭ русский задание 9 (методичка) ok=5 failed=0 https://miro.com/app/board/uXjVEb9Armw=
+DONE 8c610a2f ОГЭ русский задание 5 ok=116 failed=0 https://miro.com/app/board/uXjVEb9KBi0=
+DONE f634a7dd ОГЭ русский задание 10 ok=13 failed=0 https://miro.com/app/board/uXjVEb9W-QA=
+   text err: {"type": "error", "code": "3.0215", "context": {"boardId": "uXjVEb9L7_c=", "validationErrors": [{"code": "3.0014", "message": "Internal error occurred"}]}, "message": "Unable to complete operation because of the validation errors.", "status": 400}
+DONE 91c222ac ОГЭ русский задание 8 ok=64 failed=0 https://miro.com/app/board/uXjVEb9Dm5E=
+   text err: {"type": "error", "code": "3.0215", "context": {"boardId": "uXjVEb9L7_c=", "validationErrors": [{"code": "3.0014", "message": "Internal error occurred"}]}, "message": "Unable to complete operation because of the validation errors.", "status": 400}
+DONE 4a9a0081 ОГЭ русский задание 11 ok=12 failed=0 https://miro.com/app/board/uXjVEb9JHAU=
+DONE ccddeed6 ОГЭ русский задание 10 (методичка) ok=2 failed=2 https://miro.com/app/board/uXjVEb9L7_c=
+    texts: {"type": "error", "code": "3.0215", "context": {"boardId": "uXjVEb9L7_c=", "validationErrors": [{"code": "3.0014", "message": "Internal error occurred"}]}, "message": "Unable to complete operation because of the validation errors.", "status": 400}
+    texts: {"type": "error", "code": "3.0215", "context": {"boardId": "uXjVEb9L7_c=", "validationErrors": [{"code": "3.0014", "message": "Internal error occurred"}]}, "message": "Unable to complete operation because of the validation errors.", "status": 400}
+DONE 374afc2c ОГЭ русский задание 11 (методичка) ok=4 failed=0 https://miro.com/app/board/uXjVEb9FF2A=
+DONE 3a57798b ОГЭ русский задание 12 (методичка) ok=4 failed=0 https://miro.com/app/board/uXjVEb9SZo0=
+DONE 5b47ef16 ОГЭ русский задание 12 ok=18 failed=0 https://miro.com/app/board/uXjVEb9WGgI=
+DONE 0e926d00 ОГЭ русский задание 5 (методичка) ok=115 failed=0 https://miro.com/app/board/uXjVEb9PW-A=
