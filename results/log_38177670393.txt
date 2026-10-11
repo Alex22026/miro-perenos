@@ -293,3 +293,13 @@ DONE 7a342bf0 Устное собеседование (2) ok=28 failed=0 https:/
 DONE be597a6a Лексический анализ. Синонимы, антонимы,  ok=15 failed=0 https://miro.com/app/board/uXjVEb9-dmw=
 DONE 04881b3f Правописание корней (чередующиеся гласны ok=18 failed=0 https://miro.com/app/board/uXjVEb9W-RI=
 DONE b69d0611 Правописание Н и НН в суффиксах разных ч ok=3 failed=0 https://miro.com/app/board/uXjVEb9WGhM=
+DONE c49f01dc Правописание приставок (ПРЕ-/ПРИ-, на З/ ok=13 failed=0 https://miro.com/app/board/uXjVEb9ArnI=
+DONE 2b502c58 Правописание суффиксов (кроме -Н-/-НН-). ok=9 failed=0 https://miro.com/app/board/uXjVEb9B7VA=
+DONE eb65a4d7 Правописание суффиксов (кроме -Н-/-НН-). ok=9 failed=0 https://miro.com/app/board/uXjVEb9GMrc=
+DONE 8f807d8a Слитное и раздельное написание НЕ с разн ok=6 failed=0 https://miro.com/app/board/uXjVEb9Nz8c=
+DONE f1115316 Правописание Н и НН в суффиксах разных ч ok=13 failed=0 https://miro.com/app/board/uXjVEb9SZpI=
+DONE 161057fd Слитное, раздельное, дефисное написание  ok=3 failed=0 https://miro.com/app/board/uXjVEb9W-Rg=
+DONE d2bd2c47 Слитное и раздельное написание НЕ с разн ok=13 failed=0 https://miro.com/app/board/uXjVEb9B7Vw=
+DONE 409d0829 Слитное, раздельное и дефисное написание ok=7 failed=0 https://miro.com/app/board/uXjVEb9JHAg=
+DONE 94f3b8e0 Различение частиц НЕ и НИ ok=18 failed=0 https://miro.com/app/board/uXjVEb9FF38=
+DONE 59efb3f3 Различение частиц НЕ и НИ ok=18 failed=0 https://miro.com/app/board/uXjVEb9NBIA=

@@ -2344,21 +2344,27 @@
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9ArnI=",
   "id": "uXjVEb9ArnI=",
-  "status": "creating"
+  "status": "done",
+  "ok": 13,
+  "failed": 0
  },
  "2b502c58": {
   "name": "Правописание суффиксов (кроме -Н-/-НН-). Правописание личных окончаний глаголов",
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9B7VA=",
   "id": "uXjVEb9B7VA=",
-  "status": "creating"
+  "status": "done",
+  "ok": 9,
+  "failed": 0
  },
  "eb65a4d7": {
   "name": "Правописание суффиксов (кроме -Н-/-НН-). Правописание личных окончаний глаголов",
   "sheet": "ogeRus",
   "miro": "https://miro.com/app/board/uXjVEb9GMrc=",
   "id": "uXjVEb9GMrc=",
-  "status": "creating"
+  "status": "done",
+  "ok": 9,
+  "failed": 0
  },
  "b69d0611": {
   "name": "Правописание Н и НН в суффиксах разных частей речи",
@@ -2368,5 +2374,82 @@
   "status": "done",
   "ok": 3,
   "failed": 0
+ },
+ "f1115316": {
+  "name": "Правописание Н и НН в суффиксах разных частей речи",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9SZpI=",
+  "id": "uXjVEb9SZpI=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "8f807d8a": {
+  "name": "Слитное и раздельное написание НЕ с разными частями речи",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9Nz8c=",
+  "id": "uXjVEb9Nz8c=",
+  "status": "done",
+  "ok": 6,
+  "failed": 0
+ },
+ "d2bd2c47": {
+  "name": "Слитное и раздельное написание НЕ с разными частями речи",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9B7Vw=",
+  "id": "uXjVEb9B7Vw=",
+  "status": "done",
+  "ok": 13,
+  "failed": 0
+ },
+ "94f3b8e0": {
+  "name": "Различение частиц НЕ и НИ",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9FF38=",
+  "id": "uXjVEb9FF38=",
+  "status": "done",
+  "ok": 18,
+  "failed": 0
+ },
+ "59efb3f3": {
+  "name": "Различение частиц НЕ и НИ",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9NBIA=",
+  "id": "uXjVEb9NBIA=",
+  "status": "done",
+  "ok": 18,
+  "failed": 0
+ },
+ "161057fd": {
+  "name": "Слитное, раздельное, дефисное написание слов",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9W-Rg=",
+  "id": "uXjVEb9W-Rg=",
+  "status": "done",
+  "ok": 3,
+  "failed": 0
+ },
+ "ea7aac3d": {
+  "name": "Слитное, раздельное, дефисное написание слов",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9EIic=",
+  "id": "uXjVEb9EIic=",
+  "status": "creating"
+ },
+ "409d0829": {
+  "name": "Слитное, раздельное и дефисное написание наречий",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9JHAg=",
+  "id": "uXjVEb9JHAg=",
+  "status": "done",
+  "ok": 7,
+  "failed": 0
+ },
+ "85243e66": {
+  "name": "Слитное, раздельное и дефисное написание наречий",
+  "sheet": "ogeRus",
+  "miro": "https://miro.com/app/board/uXjVEb9WGhw=",
+  "id": "uXjVEb9WGhw=",
+  "status": "creating"
  }
 }
