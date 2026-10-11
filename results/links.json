@@ -1534,14 +1534,18 @@
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9yBEQ=",
   "id": "uXjVEb9yBEQ=",
-  "status": "creating"
+  "status": "done",
+  "ok": 44,
+  "failed": 0
  },
  "f5a55eab": {
   "name": "№17 Линейные, квадратные, дробно-рациональные, иррациональные — методичка",
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9Aqdg=",
   "id": "uXjVEb9Aqdg=",
-  "status": "creating"
+  "status": "done",
+  "ok": 44,
+  "failed": 0
  },
  "08935682": {
   "name": "№17 Показательные и логарифмические уравнения",
@@ -1557,6 +1561,92 @@
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb92u8Q=",
   "id": "uXjVEb92u8Q=",
+  "status": "done",
+  "ok": 28,
+  "failed": 0
+ },
+ "a10cdac6": {
+  "name": "№18 Показательные и логарифмические",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb925BM=",
+  "id": "uXjVEb925BM=",
+  "status": "done",
+  "ok": 21,
+  "failed": 0
+ },
+ "ba33ea53": {
+  "name": "№18 Показательные и логарифмические — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9s2RA=",
+  "id": "uXjVEb9s2RA=",
+  "status": "done",
+  "ok": 36,
+  "failed": 0
+ },
+ "25f76487": {
+  "name": "№18 Неравенства, метод интервалов",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9puRs=",
+  "id": "uXjVEb9puRs=",
+  "status": "done",
+  "ok": 23,
+  "failed": 0
+ },
+ "fcb91940": {
+  "name": "№18 Неравенства, метод интервалов — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9NBA0=",
+  "id": "uXjVEb9NBA0=",
+  "status": "creating"
+ },
+ "cc5e6eaa": {
+  "name": "№19",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9puSQ=",
+  "id": "uXjVEb9puSQ=",
+  "status": "done",
+  "ok": 9,
+  "failed": 0
+ },
+ "5cbd5ca0": {
+  "name": "№19 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9WJZA=",
+  "id": "uXjVEb9WJZA=",
+  "status": "done",
+  "ok": 10,
+  "failed": 0
+ },
+ "6c35dd46": {
+  "name": "№20 Задачи на движение",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9Dmzc=",
+  "id": "uXjVEb9Dmzc=",
+  "status": "done",
+  "ok": 25,
+  "failed": 0
+ },
+ "d0c8fde3": {
+  "name": "№20 Задачи на движение — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9GMsk=",
+  "id": "uXjVEb9GMsk=",
+  "status": "done",
+  "ok": 20,
+  "failed": 0
+ },
+ "cd830701": {
+  "name": "№20 Задачи на работу и концентрацию",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9oFlU=",
+  "id": "uXjVEb9oFlU=",
+  "status": "creating"
+ },
+ "c6b7dd1a": {
+  "name": "№20 Задачи на работу и концентрацию — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9-I5g=",
+  "id": "uXjVEb9-I5g=",
   "status": "creating"
  }
 }

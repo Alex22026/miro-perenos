@@ -199,3 +199,13 @@ DONE 18083a9e №16 Степени ok=60 failed=0 https://miro.com/app/board/uXj
 DONE a434e0cf №16 Логарифмы — методичка ok=29 failed=0 https://miro.com/app/board/uXjVEb9KAbo=
 DONE e9268ced №16 Тригонометрия — методичка ok=33 failed=0 https://miro.com/app/board/uXjVEb9oEag=
 DONE 08935682 №17 Показательные и логарифмические урав ok=25 failed=0 https://miro.com/app/board/uXjVEb9-cfI=
+DONE ce56c1b7 №17 Линейные, квадратные, дробно-рациона ok=44 failed=0 https://miro.com/app/board/uXjVEb9yBEQ=
+DONE f5a55eab №17 Линейные, квадратные, дробно-рациона ok=44 failed=0 https://miro.com/app/board/uXjVEb9Aqdg=
+DONE a10cdac6 №18 Показательные и логарифмические ok=21 failed=0 https://miro.com/app/board/uXjVEb925BM=
+DONE 153c5815 №17 Показательные и логарифмические урав ok=28 failed=0 https://miro.com/app/board/uXjVEb92u8Q=
+DONE 25f76487 №18 Неравенства, метод интервалов ok=23 failed=0 https://miro.com/app/board/uXjVEb9puRs=
+DONE cc5e6eaa №19 ok=9 failed=0 https://miro.com/app/board/uXjVEb9puSQ=
+DONE 5cbd5ca0 №19 — методичка ok=10 failed=0 https://miro.com/app/board/uXjVEb9WJZA=
+DONE ba33ea53 №18 Показательные и логарифмические — ме ok=36 failed=0 https://miro.com/app/board/uXjVEb9s2RA=
+DONE 6c35dd46 №20 Задачи на движение ok=25 failed=0 https://miro.com/app/board/uXjVEb9Dmzc=
+DONE d0c8fde3 №20 Задачи на движение — методичка ok=20 failed=0 https://miro.com/app/board/uXjVEb9GMsk=
