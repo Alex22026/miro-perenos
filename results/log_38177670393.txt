@@ -99,3 +99,13 @@ DONE 102dc7a5 Степени ok=74 failed=0 https://miro.com/app/board/uXjVEb9uz
 DONE 7b20c431 Степени ok=92 failed=0 https://miro.com/app/board/uXjVEb9oSaI=
 DONE 5ebfedbc Степени (ответы) ok=102 failed=0 https://miro.com/app/board/uXjVEb9u9Ic=
 DONE 64676b16 Одночлены ok=77 failed=0 https://miro.com/app/board/uXjVEb9twc0=
+DONE a78e2afe Одночлены (ответы) ok=79 failed=0 https://miro.com/app/board/uXjVEb-b2Xs=
+DONE da41cec7 Многочлены ok=70 failed=0 https://miro.com/app/board/uXjVEb9jYpc=
+DONE 30ac7b15 Формулы сокращённого умножения (ответы) ok=78 failed=0 https://miro.com/app/board/uXjVEb9yHx0=
+DONE fe423a43 Многочлены (ответы) ok=87 failed=0 https://miro.com/app/board/uXjVEb93MvU=
+DONE 7d16f83c Множители (ответы) ok=64 failed=0 https://miro.com/app/board/uXjVEb9ELBg=
+DONE f4be8b81 Системы уравнений ok=63 failed=0 https://miro.com/app/board/uXjVEb9gfXE=
+DONE 896b149b Линейные уравнения (ответы) ok=121 failed=0 https://miro.com/app/board/uXjVEb9u9KY=
+DONE e495e11f Системы уравнений (ответы) ok=89 failed=0 https://miro.com/app/board/uXjVEb92ulA=
+DONE e2625bad Функции ok=77 failed=0 https://miro.com/app/board/uXjVEb9nT2Y=
+DONE a93e8048 Множители ok=193 failed=0 https://miro.com/app/board/uXjVEb9s_Vw=

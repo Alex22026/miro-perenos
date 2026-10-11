@@ -643,20 +643,110 @@
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb-b2Xs=",
   "id": "uXjVEb-b2Xs=",
-  "status": "creating"
+  "status": "done",
+  "ok": 79,
+  "failed": 0
  },
  "da41cec7": {
   "name": "Многочлены",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9jYpc=",
   "id": "uXjVEb9jYpc=",
-  "status": "creating"
+  "status": "done",
+  "ok": 70,
+  "failed": 0
  },
  "fe423a43": {
   "name": "Многочлены (ответы)",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb93MvU=",
   "id": "uXjVEb93MvU=",
+  "status": "done",
+  "ok": 87,
+  "failed": 0
+ },
+ "30ac7b15": {
+  "name": "Формулы сокращённого умножения (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9yHx0=",
+  "id": "uXjVEb9yHx0=",
+  "status": "done",
+  "ok": 78,
+  "failed": 0
+ },
+ "a93e8048": {
+  "name": "Множители",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9s_Vw=",
+  "id": "uXjVEb9s_Vw=",
+  "status": "done",
+  "ok": 193,
+  "failed": 0
+ },
+ "7d16f83c": {
+  "name": "Множители (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9ELBg=",
+  "id": "uXjVEb9ELBg=",
+  "status": "done",
+  "ok": 64,
+  "failed": 0
+ },
+ "896b149b": {
+  "name": "Линейные уравнения (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9u9KY=",
+  "id": "uXjVEb9u9KY=",
+  "status": "done",
+  "ok": 121,
+  "failed": 0
+ },
+ "f4be8b81": {
+  "name": "Системы уравнений",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9gfXE=",
+  "id": "uXjVEb9gfXE=",
+  "status": "done",
+  "ok": 63,
+  "failed": 0
+ },
+ "e495e11f": {
+  "name": "Системы уравнений (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb92ulA=",
+  "id": "uXjVEb92ulA=",
+  "status": "done",
+  "ok": 89,
+  "failed": 0
+ },
+ "e2625bad": {
+  "name": "Функции",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9nT2Y=",
+  "id": "uXjVEb9nT2Y=",
+  "status": "done",
+  "ok": 77,
+  "failed": 0
+ },
+ "83bac3bd": {
+  "name": "Функции (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9s_X8=",
+  "id": "uXjVEb9s_X8=",
+  "status": "creating"
+ },
+ "295d05cd": {
+  "name": "Функция линейная / кусочно-заданная",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9oEIM=",
+  "id": "uXjVEb9oEIM=",
+  "status": "creating"
+ },
+ "7c5c0c73": {
+  "name": "Функция линейная / кусочно-заданная (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9jY0U=",
+  "id": "uXjVEb9jY0U=",
   "status": "creating"
  }
 }
