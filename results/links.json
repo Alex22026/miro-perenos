@@ -1345,14 +1345,18 @@
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9u6l8=",
   "id": "uXjVEb9u6l8=",
-  "status": "creating"
+  "status": "done",
+  "ok": 67,
+  "failed": 0
  },
  "77f04b4e": {
   "name": "№9–10 — методичка",
   "sheet": "ege",
   "miro": "https://miro.com/app/board/uXjVEb9puWE=",
   "id": "uXjVEb9puWE=",
-  "status": "creating"
+  "status": "done",
+  "ok": 35,
+  "failed": 0
  },
  "8d561068": {
   "name": "№11",
@@ -1371,5 +1375,98 @@
   "status": "done",
   "ok": 26,
   "failed": 0
+ },
+ "95743cc5": {
+  "name": "№12 Треугольники",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9yFHU=",
+  "id": "uXjVEb9yFHU=",
+  "status": "done",
+  "ok": 17,
+  "failed": 0
+ },
+ "95c3ac79": {
+  "name": "№12 Треугольники — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9L7rg=",
+  "id": "uXjVEb9L7rg=",
+  "status": "done",
+  "ok": 43,
+  "failed": 0
+ },
+ "30220936": {
+  "name": "№12 Четырёхугольники",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9Dm3g=",
+  "id": "uXjVEb9Dm3g=",
+  "status": "done",
+  "ok": 26,
+  "failed": 0
+ },
+ "dcd4adf7": {
+  "name": "№12 Четырёхугольники — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9PWqU=",
+  "id": "uXjVEb9PWqU=",
+  "status": "done",
+  "ok": 39,
+  "failed": 0
+ },
+ "d796027c": {
+  "name": "№12 Окружность",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9txtk=",
+  "id": "uXjVEb9txtk=",
+  "status": "done",
+  "ok": 33,
+  "failed": 0
+ },
+ "7ef2e7be": {
+  "name": "№12 Окружность — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9975U=",
+  "id": "uXjVEb9975U=",
+  "status": "done",
+  "ok": 27,
+  "failed": 0
+ },
+ "bd529270": {
+  "name": "№13",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9oT3Q=",
+  "id": "uXjVEb9oT3Q=",
+  "status": "done",
+  "ok": 30,
+  "failed": 0
+ },
+ "5e45d564": {
+  "name": "№13 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9Dmw4=",
+  "id": "uXjVEb9Dmw4=",
+  "status": "done",
+  "ok": 33,
+  "failed": 0
+ },
+ "e294bb5c": {
+  "name": "№14",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9oT38=",
+  "id": "uXjVEb9oT38=",
+  "status": "creating"
+ },
+ "afcd8624": {
+  "name": "№15",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9txu4=",
+  "id": "uXjVEb9txu4=",
+  "status": "creating"
+ },
+ "bbf64b01": {
+  "name": "№15 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb925H4=",
+  "id": "uXjVEb925H4=",
+  "status": "creating"
  }
 }

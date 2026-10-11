@@ -179,3 +179,13 @@ DONE 1bb22a16 №6 и 8 — методичка ok=31 failed=0 https://miro.com/a
 DONE 374e3d2c №7 — методичка ok=39 failed=0 https://miro.com/app/board/uXjVEb9AqSc=
 DONE ca4559c8 №11 — методичка ok=26 failed=0 https://miro.com/app/board/uXjVEb9-I9g=
 DONE 8d561068 №11 ok=28 failed=0 https://miro.com/app/board/uXjVEb9txsg=
+DONE 74b3227b №9–10 ok=67 failed=0 https://miro.com/app/board/uXjVEb9u6l8=
+DONE 77f04b4e №9–10 — методичка ok=35 failed=0 https://miro.com/app/board/uXjVEb9puWE=
+DONE 95743cc5 №12 Треугольники ok=17 failed=0 https://miro.com/app/board/uXjVEb9yFHU=
+DONE 30220936 №12 Четырёхугольники ok=26 failed=0 https://miro.com/app/board/uXjVEb9Dm3g=
+DONE d796027c №12 Окружность ok=33 failed=0 https://miro.com/app/board/uXjVEb9txtk=
+DONE 95c3ac79 №12 Треугольники — методичка ok=43 failed=0 https://miro.com/app/board/uXjVEb9L7rg=
+DONE dcd4adf7 №12 Четырёхугольники — методичка ok=39 failed=0 https://miro.com/app/board/uXjVEb9PWqU=
+DONE 7ef2e7be №12 Окружность — методичка ok=27 failed=0 https://miro.com/app/board/uXjVEb9975U=
+DONE bd529270 №13 ok=30 failed=0 https://miro.com/app/board/uXjVEb9oT3Q=
+DONE 5e45d564 №13 — методичка ok=33 failed=0 https://miro.com/app/board/uXjVEb9Dmw4=
