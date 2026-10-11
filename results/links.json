@@ -445,7 +445,9 @@
   "sheet": "ogeMat",
   "miro": "https://miro.com/app/board/uXjVEb9nToI=",
   "id": "uXjVEb9nToI=",
-  "status": "creating"
+  "status": "done",
+  "ok": 57,
+  "failed": 0
  },
  "04dffa52": {
   "name": "Задание 20",
@@ -461,7 +463,9 @@
   "sheet": "ogeMat",
   "miro": "https://miro.com/app/board/uXjVEb-ZKhg=",
   "id": "uXjVEb-ZKhg=",
-  "status": "creating"
+  "status": "done",
+  "ok": 69,
+  "failed": 0
  },
  "8f602e47": {
   "name": "Задание 21",
@@ -477,6 +481,92 @@
   "sheet": "ogeMat",
   "miro": "https://miro.com/app/board/uXjVEb9oSe4=",
   "id": "uXjVEb9oSe4=",
+  "status": "done",
+  "ok": 46,
+  "failed": 0
+ },
+ "67287ec1": {
+  "name": "Задание 23",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9GPKQ=",
+  "id": "uXjVEb9GPKQ=",
+  "status": "done",
+  "ok": 142,
+  "failed": 0
+ },
+ "e6c33e4e": {
+  "name": "Задание 23 (решения)",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9s9IQ=",
+  "id": "uXjVEb9s9IQ=",
+  "status": "done",
+  "ok": 127,
+  "failed": 0
+ },
+ "e18d0add": {
+  "name": "Задание 24",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9FEQ8=",
+  "id": "uXjVEb9FEQ8=",
+  "status": "done",
+  "ok": 148,
+  "failed": 0
+ },
+ "f302c112": {
+  "name": "Задание 24 (решения)",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9nTq8=",
+  "id": "uXjVEb9nTq8=",
+  "status": "done",
+  "ok": 124,
+  "failed": 0
+ },
+ "564609cf": {
+  "name": "Задание 25",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9yFqY=",
+  "id": "uXjVEb9yFqY=",
+  "status": "done",
+  "ok": 145,
+  "failed": 0
+ },
+ "7c8081b0": {
+  "name": "Задание 25 (решения)",
+  "sheet": "ogeMat",
+  "miro": "https://miro.com/app/board/uXjVEb9u9OM=",
+  "id": "uXjVEb9u9OM=",
+  "status": "done",
+  "ok": 49,
+  "failed": 0
+ },
+ "55514603": {
+  "name": "Выражения",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9FES0=",
+  "id": "uXjVEb9FES0=",
+  "status": "done",
+  "ok": 170,
+  "failed": 0
+ },
+ "8061c5ed": {
+  "name": "Выражения (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb93Ms4=",
+  "id": "uXjVEb93Ms4=",
+  "status": "creating"
+ },
+ "b3d390d6": {
+  "name": "Упрощение выражений",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9oEDo=",
+  "id": "uXjVEb9oEDo=",
+  "status": "creating"
+ },
+ "e1679faa": {
+  "name": "Упрощение выражений",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb93Mtc=",
+  "id": "uXjVEb93Mtc=",
   "status": "creating"
  }
 }

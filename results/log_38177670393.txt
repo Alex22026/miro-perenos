@@ -58,3 +58,34 @@ DONE bf1043c0 Задание 18 (решения) ok=62 failed=0 https://miro.com
 DONE 5e9601c0 Задание 19 ok=21 failed=0 https://miro.com/app/board/uXjVEb-aypc=
 DONE 04dffa52 Задание 20 ok=52 failed=0 https://miro.com/app/board/uXjVEb9gfI4=
 DONE 8f602e47 Задание 21 ok=54 failed=0 https://miro.com/app/board/uXjVEb9-Ig8=
+DONE 6c14fad1 Задание 19 (решения) ok=57 failed=0 https://miro.com/app/board/uXjVEb9nToI=
+DONE 019da683 Задание 20 (решения) ok=69 failed=0 https://miro.com/app/board/uXjVEb-ZKhg=
+DONE 84711a5f Задание 21 (решения) ok=46 failed=0 https://miro.com/app/board/uXjVEb9oSe4=
+DONE 67287ec1 Задание 23 ok=142 failed=0 https://miro.com/app/board/uXjVEb9GPKQ=
+    text widened
+    text widened
+    text widened
+    text widened
+DONE e6c33e4e Задание 23 (решения) ok=127 failed=0 https://miro.com/app/board/uXjVEb9s9IQ=
+    text widened
+    text widened
+    text widened
+    text widened
+DONE 7c8081b0 Задание 25 (решения) ok=49 failed=0 https://miro.com/app/board/uXjVEb9u9OM=
+    text widened
+    text widened
+    text widened
+    text widened
+DONE e18d0add Задание 24 ok=148 failed=0 https://miro.com/app/board/uXjVEb9FEQ8=
+    text widened
+    text widened
+    text widened
+    text widened
+DONE f302c112 Задание 24 (решения) ok=124 failed=0 https://miro.com/app/board/uXjVEb9nTq8=
+    text widened
+    text widened
+    text widened
+    text widened
+DONE 564609cf Задание 25 ok=145 failed=0 https://miro.com/app/board/uXjVEb9yFqY=
+    text widened
+DONE 55514603 Выражения ok=170 failed=0 https://miro.com/app/board/uXjVEb9FES0=
