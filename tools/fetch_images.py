@@ -1,5 +1,5 @@
 """Запускается в GitHub Actions: скачивает картинки Sboard, обрезает/поворачивает, кладёт в img/<key>.jpg"""
-import json, os, io, urllib.request, concurrent.futures as cf
+import json, os, io, urllib.request, urllib.parse, concurrent.futures as cf
 from PIL import Image
 Image.MAX_IMAGE_PIXELS = None
 jobs = json.load(open("jobs/images.json"))
@@ -10,7 +10,7 @@ def work(item):
     k, j = item
     for attempt in range(3):
         try:
-            data = urllib.request.urlopen(urllib.request.Request(j["url"], headers={"User-Agent": "Mozilla/5.0"}), timeout=60).read()
+            data = urllib.request.urlopen(urllib.request.Request(urllib.parse.quote(j["url"], safe=":/?&=%#+@,;~"), headers={"User-Agent": "Mozilla/5.0"}), timeout=60).read()
             im = Image.open(io.BytesIO(data))
             im = im.convert("RGBA") if im.mode in ("RGBA", "LA", "P") else im.convert("RGB")
             if j.get("crop"):

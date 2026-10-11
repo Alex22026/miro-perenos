@@ -1,7 +1,7 @@
 """GitHub Actions: создаёт доски в Miro по REST API из svg/<bid>_*.svg.
 Секрет MIRO_TOKEN. Вход: jobs/upload.json = [{"bid","name","sheet"}]. Выход: results/links.json, results/log_<run>.txt
 Уже созданные доски (есть в links.json со статусом done) пропускаются; недоделанная доска пересоздаётся."""
-import os, re, json, time, html, glob, threading, urllib.request, urllib.error, concurrent.futures as cf
+import os, re, json, urllib.parse, time, html, glob, threading, urllib.request, urllib.error, concurrent.futures as cf
 
 TOKEN = os.environ["MIRO_TOKEN"]
 API = "https://api.miro.com/v2"
@@ -62,7 +62,7 @@ def items_from_svg(path):
         if line.startswith("<image"):
             a = attrs(line)
             x, y, w, h = fnum(a["x"]), fnum(a["y"]), max(8, fnum(a["width"])), max(8, fnum(a["height"]))
-            yield ("images", {"data": {"url": a["href"]}, "position": {"x": x + w / 2, "y": y + h / 2, "origin": "center"},
+            yield ("images", {"data": {"url": urllib.parse.quote(a["href"], safe=":/?&=%#+@,;~")}, "position": {"x": x + w / 2, "y": y + h / 2, "origin": "center"},
                               "geometry": {"width": w}})
         elif line.startswith("<textArea"):
             m = re.match(r"<textArea([^>]*)>(.*)</textArea>$", line)
