@@ -823,20 +823,110 @@
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9-cOk=",
   "id": "uXjVEb9-cOk=",
-  "status": "creating"
+  "status": "done",
+  "ok": 107,
+  "failed": 0
  },
  "44f3c9b6": {
   "name": "Квадратные уравнения",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9-cPw=",
   "id": "uXjVEb9-cPw=",
-  "status": "creating"
+  "status": "done",
+  "ok": 83,
+  "failed": 0
  },
  "c97669e8": {
   "name": "Квадратные уравнения",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb997rI=",
   "id": "uXjVEb997rI=",
+  "status": "done",
+  "ok": 47,
+  "failed": 0
+ },
+ "a1e25262": {
+  "name": "Неполные квадратные уравнения",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9yH_M=",
+  "id": "uXjVEb9yH_M=",
+  "status": "done",
+  "ok": 111,
+  "failed": 0
+ },
+ "c3eac449": {
+  "name": "Неполные квадратные уравнения",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9ELIc=",
+  "id": "uXjVEb9ELIc=",
+  "status": "done",
+  "ok": 66,
+  "failed": 0
+ },
+ "93b36a25": {
+  "name": "Теорема Виета",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9jFJ0=",
+  "id": "uXjVEb9jFJ0=",
+  "status": "done",
+  "ok": 51,
+  "failed": 0
+ },
+ "e15d1dea": {
+  "name": "Теорема Виета",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9gfcE=",
+  "id": "uXjVEb9gfcE=",
+  "status": "done",
+  "ok": 86,
+  "failed": 0
+ },
+ "d70c2cbc": {
+  "name": "Квадратный трехчлен",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9AGxs=",
+  "id": "uXjVEb9AGxs=",
+  "status": "done",
+  "ok": 45,
+  "failed": 0
+ },
+ "ea655575": {
+  "name": "Квадратный трехчлен",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb93M0o=",
+  "id": "uXjVEb93M0o=",
+  "status": "done",
+  "ok": 83,
+  "failed": 0
+ },
+ "01302b0f": {
+  "name": "Неравенства и их свойства",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9ELJU=",
+  "id": "uXjVEb9ELJU=",
+  "status": "done",
+  "ok": 39,
+  "failed": 0
+ },
+ "e22a37f7": {
+  "name": "Неравенства и их свойства",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9jFL0=",
+  "id": "uXjVEb9jFL0=",
+  "status": "creating"
+ },
+ "f30db04c": {
+  "name": "Промежутки",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9AGyk=",
+  "id": "uXjVEb9AGyk=",
+  "status": "creating"
+ },
+ "1ddf3b08": {
+  "name": "Промежутки (ответы)",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9AqO8=",
+  "id": "uXjVEb9AqO8=",
   "status": "creating"
  }
 }

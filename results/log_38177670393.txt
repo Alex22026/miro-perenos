@@ -119,3 +119,13 @@ DONE fc683a24 Сложение и вычитание дробей ok=64 failed=0
 DONE b5ce0ffb Квадратный корень ok=68 failed=0 https://miro.com/app/board/uXjVEb9251g=
 DONE 1fe5136a Квадратный корень ok=109 failed=0 https://miro.com/app/board/uXjVEb92unM=
 DONE 5260ea90 Вынесение множителя из-под корня ok=61 failed=0 https://miro.com/app/board/uXjVEb9uzNQ=
+DONE c97669e8 Квадратные уравнения ok=47 failed=0 https://miro.com/app/board/uXjVEb997rI=
+DONE dfef6d97 Вынесение множителя из-под корня ok=107 failed=0 https://miro.com/app/board/uXjVEb9-cOk=
+DONE 44f3c9b6 Квадратные уравнения ok=83 failed=0 https://miro.com/app/board/uXjVEb9-cPw=
+DONE 93b36a25 Теорема Виета ok=51 failed=0 https://miro.com/app/board/uXjVEb9jFJ0=
+DONE a1e25262 Неполные квадратные уравнения ok=111 failed=0 https://miro.com/app/board/uXjVEb9yH_M=
+DONE c3eac449 Неполные квадратные уравнения ok=66 failed=0 https://miro.com/app/board/uXjVEb9ELIc=
+DONE d70c2cbc Квадратный трехчлен ok=45 failed=0 https://miro.com/app/board/uXjVEb9AGxs=
+DONE 01302b0f Неравенства и их свойства ok=39 failed=0 https://miro.com/app/board/uXjVEb9ELJU=
+DONE e15d1dea Теорема Виета ok=86 failed=0 https://miro.com/app/board/uXjVEb9gfcE=
+DONE ea655575 Квадратный трехчлен ok=83 failed=0 https://miro.com/app/board/uXjVEb93M0o=
