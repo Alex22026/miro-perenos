@@ -71,6 +71,25 @@ def items_from_svg(path):
             x, y, w = fnum(a["x"]), fnum(a["y"]), max(10, fnum(a["width"]))
             fs = fnum(a.get("font-size"), 14)
             w = max(w, fs * 1.6)          # Miro не принимает текст уже ~1.5 кегля
+            if len(to_html(body)) > 5500:      # у Miro лимит 6000 символов: режем по абзацам и ставим столбиком
+                import math
+                paras = body.split("<br/>"); groups = [[]]
+                for pp in paras:
+                    if sum(len(q) + 12 for q in groups[-1]) + len(pp) > 5000 and groups[-1]:
+                        groups.append([])
+                    groups[-1].append(pp)
+                yy = y
+                for g in groups:
+                    chunk = "<br/>".join(g)
+                    nlines = sum(max(1, math.ceil(len(re.sub("<[^>]+>", "", q)) * fs * 0.55 / w)) for q in g)
+                    hh = nlines * fs * 1.43
+                    yield ("texts", {"data": {"content": to_html(chunk)},
+                                     "style": {"color": a.get("fill", "#1a1a1a"), "fontFamily": a.get("font-family", "open_sans"),
+                                               "fontSize": str(max(1, round(fs))), "textAlign": a.get("text-align", "left")},
+                                     "position": {"x": x + w / 2, "y": yy + hh / 2, "origin": "center"},
+                                     "geometry": {"width": w}, "_fs": fs})
+                    yy += hh
+                continue
             # высоту заранее не знаем: ставим по верхнему краю через оценку одной строки
             yield ("texts", {"data": {"content": to_html(body)},
                              "style": {"color": a.get("fill", "#1a1a1a"), "fontFamily": a.get("font-family", "open_sans"),
