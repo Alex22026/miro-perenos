@@ -1,0 +1,10 @@
+to do: 2 of 2
+DONE 0ad5b46d Пробное 6 класс — русский язык ok=13 failed=0 https://miro.com/app/board/uXjVEb9yHiU=
+DONE e6c33e4e Задание 23 (решения) ok=125 failed=2 https://miro.com/app/board/uXjVEb9yAfw=
+    images: {"type": "error", "code": "3.0802", "message": "Uploading resource failed: Sorry, this file format is not supported.", "status": 400}
+    images: {"type": "error", "code": "3.0802", "message": "Uploading resource failed: Sorry, this file format is not supported.", "status": 400}
+    fontSize->14
+    fontSize->14
+    fontSize->14
+    fontSize->14
+finished in 111 s
