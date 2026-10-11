@@ -1183,20 +1183,110 @@
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9012Y=",
   "id": "uXjVEb9012Y=",
-  "status": "creating"
+  "status": "done",
+  "ok": 70,
+  "failed": 0
  },
  "b711f982": {
   "name": "Теорема Фалеса, треугольники, подобие",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb93M8Y=",
   "id": "uXjVEb93M8Y=",
-  "status": "creating"
+  "status": "done",
+  "ok": 47,
+  "failed": 0
  },
  "06b3795f": {
   "name": "Векторы",
   "sheet": "mat58",
   "miro": "https://miro.com/app/board/uXjVEb9NB5k=",
   "id": "uXjVEb9NB5k=",
+  "status": "done",
+  "ok": 53,
+  "failed": 0
+ },
+ "e71481a9": {
+  "name": "Векторы",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9oTrk=",
+  "id": "uXjVEb9oTrk=",
+  "status": "done",
+  "ok": 79,
+  "failed": 0
+ },
+ "1af24ead": {
+  "name": "Прямая Эйлера, окружность девяти точек",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9KAdo=",
+  "id": "uXjVEb9KAdo=",
+  "status": "done",
+  "ok": 32,
+  "failed": 0
+ },
+ "e7b708da": {
+  "name": "Прямая Эйлера, окружность девяти точек",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9257Q=",
+  "id": "uXjVEb9257Q=",
+  "status": "done",
+  "ok": 48,
+  "failed": 0
+ },
+ "9212efa6": {
+  "name": "Теорема Чевы, Менелая, ортотреугольника, лемма о трезубце",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9KAeM=",
+  "id": "uXjVEb9KAeM=",
+  "status": "done",
+  "ok": 37,
+  "failed": 0
+ },
+ "e52250e8": {
+  "name": "Теорема Чевы, Менелая, ортотреугольника, лемма о трезубце",
+  "sheet": "mat58",
+  "miro": "https://miro.com/app/board/uXjVEb9PWvg=",
+  "id": "uXjVEb9PWvg=",
+  "status": "done",
+  "ok": 54,
+  "failed": 0
+ },
+ "5ae207ee": {
+  "name": "№1–2",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9AG60=",
+  "id": "uXjVEb9AG60=",
+  "status": "done",
+  "ok": 26,
+  "failed": 0
+ },
+ "10550455": {
+  "name": "№1–2 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9-I8Q=",
+  "id": "uXjVEb9-I8Q=",
+  "status": "done",
+  "ok": 19,
+  "failed": 0
+ },
+ "ded1659a": {
+  "name": "№3–4",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9yB_Y=",
+  "id": "uXjVEb9yB_Y=",
+  "status": "creating"
+ },
+ "2f95785b": {
+  "name": "№3–4 — методичка",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9yHA4=",
+  "id": "uXjVEb9yHA4=",
+  "status": "creating"
+ },
+ "a87056a8": {
+  "name": "№5",
+  "sheet": "ege",
+  "miro": "https://miro.com/app/board/uXjVEb9AG70=",
+  "id": "uXjVEb9AG70=",
   "status": "creating"
  }
 }

@@ -159,3 +159,13 @@ DONE f563ac36 Прямоугольник, квадрат, ромб ok=36 failed=
 DONE 39e16628 Прямоугольник, квадрат, ромб ok=63 failed=0 https://miro.com/app/board/uXjVEb9FFh0=
 DONE 86055920 Трапеция ok=33 failed=0 https://miro.com/app/board/uXjVEb9s_bQ=
 DONE 79d40cef Трапеция ok=54 failed=0 https://miro.com/app/board/uXjVEb90110=
+DONE b711f982 Теорема Фалеса, треугольники, подобие ok=47 failed=0 https://miro.com/app/board/uXjVEb93M8Y=
+DONE 06b3795f Векторы ok=53 failed=0 https://miro.com/app/board/uXjVEb9NB5k=
+DONE b00e455f Теорема Фалеса, треугольники, подобие ok=70 failed=0 https://miro.com/app/board/uXjVEb9012Y=
+DONE 1af24ead Прямая Эйлера, окружность девяти точек ok=32 failed=0 https://miro.com/app/board/uXjVEb9KAdo=
+DONE e71481a9 Векторы ok=79 failed=0 https://miro.com/app/board/uXjVEb9oTrk=
+DONE 9212efa6 Теорема Чевы, Менелая, ортотреугольника, ok=37 failed=0 https://miro.com/app/board/uXjVEb9KAeM=
+DONE e7b708da Прямая Эйлера, окружность девяти точек ok=48 failed=0 https://miro.com/app/board/uXjVEb9257Q=
+DONE 10550455 №1–2 — методичка ok=19 failed=0 https://miro.com/app/board/uXjVEb9-I8Q=
+DONE e52250e8 Теорема Чевы, Менелая, ортотреугольника, ok=54 failed=0 https://miro.com/app/board/uXjVEb9PWvg=
+DONE 5ae207ee №1–2 ok=26 failed=0 https://miro.com/app/board/uXjVEb9AG60=
